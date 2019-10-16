@@ -23,10 +23,24 @@ Uses simple asynchronous process that doesn't have things like transactions, loc
 
 Heirarchy of objects called entries called a DIT (Directory Information Tree) where the top of the tree is the ROOT
 
+Entry -> on or more ObjectClasses
+
+#### objectClass
+
+#### Attributes
+
+Common ones
+
+- cn
+- dc
+- ou
+- uid
 
 
+#### Schema
 
-
+- core.schema
+- 
 
 
 

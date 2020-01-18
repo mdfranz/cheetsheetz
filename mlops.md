@@ -24,6 +24,10 @@
 - https://github.com/combust/mleap
 - 
 
+# Vendors / Consulting
+
+- https://dotscience.com/about/
+
 # Cloud Offerings
 
 ## Google

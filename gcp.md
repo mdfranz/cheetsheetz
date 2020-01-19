@@ -36,3 +36,9 @@ $ gcloud compute instances list
 NAME       ZONE           MACHINE_TYPE  PREEMPTIBLE  INTERNAL_IP  EXTERNAL_IP  STATUS
 wireguard  us-central1-c  f1-micro                   10.128.0.2                TERMINATED
 ```
+
+You can use the [interactive shell](https://cloud.google.com/sdk/docs/interactive-gcloud) by
+
+```
+$ gcloud beta interactive
+```

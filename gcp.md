@@ -42,3 +42,14 @@ You can use the [interactive shell](https://cloud.google.com/sdk/docs/interactiv
 ```
 $ gcloud beta interactive
 ```
+
+# Config settings
+
+```
+$ gcloud config list
+[core]
+account = XXXX
+disable_usage_reporting = True
+project = XXXX
+```
+

@@ -1,5 +1,5 @@
 
-# Arm 64 Linux Hoops
+# Installing on ChromeBook (Crostini amd64/arm64)
 
 From https://github.com/GoogleContainerTools/base-images-docker/issues/50 this worked on my Lenovo S33
 

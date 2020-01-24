@@ -4,7 +4,7 @@
 - https://www.kharekartik.dev/2020/01/12/streaming-machine-learning/
 - https://towardsdatascience.com/the-rise-of-the-term-mlops-3b14d5bd1bdb
 - [MLOps: ML Engineering Best Practices from the Trenches](https://cdn2.hubspot.net/hubfs/4584542/Conference%20Slides/2019_ODSCwest_MLOps.pdf)
-
+- https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -15,8 +15,11 @@
 # Blogs
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 
-
 # Tools
+
+
+## Kubeflow
+- [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19)] (https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
 
 ## K8s
 
@@ -31,8 +34,6 @@
 # Cloud Offerings
 
 ## Google
--
-
 
 ## Azure
 

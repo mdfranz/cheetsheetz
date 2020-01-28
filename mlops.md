@@ -1,11 +1,12 @@
 # General Lite Articles, Blogs, and Talks
 - [DotScience MLOps Manifesto](https://dotscience.com/manifesto/)
 - [Productionizing Machine Learning Models with MLOps](https://www.xenonstack.com/blog/mlops/)
-- [https://www.kharekartik.dev/2020/01/12/streaming-machine-learning/](Deploying ML Models in Distributed Real-time Data Streaming Applications)
+- [Deploying ML Models in Distributed Real-time Data Streaming Applications](https://www.kharekartik.dev/2020/01/12/streaming-machine-learning/)
 - [The Rise of the Term “MLOps:” Properly Operationalized Machine Learning is the New Holy Grail](https://towardsdatascience.com/the-rise-of-the-term-mlops-3b14d5bd1bdb)
 - [MLOps: ML Engineering Best Practices from the Trenches](https://cdn2.hubspot.net/hubfs/4584542/Conference%20Slides/2019_ODSCwest_MLOps.pdf)
 - [Architecting a Machine Learning Pipeline How to build scalable Machine Learning systems — Part 2/2](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
-- [The Future of MLOps](https://www.youtube.com/watch?v=UW2SzLwA4Xc)
+- [Bristech 2019 Luke Marsdon - The future of MLOps](https://www.youtube.com/watch?v=UW2SzLwA4Xc)
+- [Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)

@@ -71,3 +71,7 @@ Spark translates code in to JVM from
 - PyTorch
 - R
 - Scikit Learn
+
+# Using Docker
+- https://towardsdatascience.com/getting-started-with-data-analytics-using-jupyter-notebooks-pyspark-and-docker-57c1aaab2408
+- https://levelup.gitconnected.com/using-docker-and-pyspark-134cd4cab867

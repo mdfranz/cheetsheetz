@@ -28,7 +28,7 @@
 ## Airflow (Apache, Originally AirBnb)
 - [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
 - [Airflow Confluence Site](https://cwiki.apache.org/confluence/display/AIRFLOW/)
-- [ETL Best Practices with Apache Airflow][https://gtoonstra.github.io/etl-with-airflow/index.html]
+- [ETL Best Practices with Apache Airflow](https://gtoonstra.github.io/etl-with-airflow/index.html)
 - [AirFlow on K8S](https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/)
 - [How we used AirFlow at CrowdStrike](https://www.crowdstrike.com/blog/how-we-use-apache-airflow-part-1/)
 - [We’re All Using Airflow Wrong and How to Fix It ](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)

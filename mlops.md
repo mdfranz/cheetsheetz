@@ -28,7 +28,7 @@
 - [Airflow](https://airflow.apache.org/)
 
 ## Kubeflow
-- [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19)] (https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
+- [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19](https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
 
 ## K8s
 - https://github.com/SeldonIO

@@ -1,4 +1,5 @@
 # General Articles, Blogs, and Talks
+- [What are Model Governance and Model Operations](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/) (OReilly, June 2019)
 - [DotScience MLOps Manifesto](https://dotscience.com/manifesto/)
 - [Productionizing Machine Learning Models with MLOps](https://www.xenonstack.com/blog/mlops/)
 - [Deploying ML Models in Distributed Real-time Data Streaming Applications](https://www.kharekartik.dev/2020/01/12/streaming-machine-learning/)
@@ -8,6 +9,7 @@
 - [Bristech 2019 Luke Marsdon - The future of MLOps](https://www.youtube.com/watch?v=UW2SzLwA4Xc)
 - [Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
+- [Deploying and Versioning Data Piplines at Scale](https://medium.com/@QuantumBlack/deploying-and-versioning-data-pipelines-at-scale-942b1d81b5f5)
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -23,8 +25,17 @@
 - [MLOps, Kubeflow, and Tekton - Simon Kaegi, IBM](https://www.youtube.com/watch?v=npQkdeU2cEM)
 
 ## Misc Workflow
-- [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines. 
+- [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
+- [mlfow](https://www.mlflow.org/) - an open source platform for managing the end-to-end machine learning lifecycle. It tackles three primary functions: 1) tracking experiments to record and compare parameters and results 2) packaging ML code in a reusable, reproducible form in order to share with other data scientists or transfer to production 3) managing and deploying models from a variety of ML libraries to a variety of model serving and inference platforms (MLflow Models). By [Databricks](https://databricks.com)
+
+## Airflow
 - [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
+- [Airflow Confluence Site](https://cwiki.apache.org/confluence/display/AIRFLOW/)
+- [ETL Best Practices with Apache Airflow][https://gtoonstra.github.io/etl-with-airflow/index.html]
+- [AirFlow on K8S](https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/)
+- [How we used AirFlow at CrowdStrike](https://www.crowdstrike.com/blog/how-we-use-apache-airflow-part-1/)
+- [We’re All Using Airflow Wrong and How to Fix It ](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
+- [Testing in Airflow Part 1 — DAG Validation Tests, DAG Definition Tests and Unit Tests](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
 
 ## Kubeflow
 - [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19](https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
@@ -53,12 +64,10 @@
 # Cloud Offerings
 
 ## Google
-
 - [Architecture for MLOps using TFX, Kubeflow Pipelines, and Cloud Build](https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
 - [Google ](https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline)
 
 
 ## Azure
-
 - https://azure.microsoft.com/en-us/services/machine-learning/mlops/
 - https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment

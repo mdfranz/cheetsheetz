@@ -24,8 +24,8 @@
 - [MLOps, Kubeflow, and Tekton - Simon Kaegi, IBM](https://www.youtube.com/watch?v=npQkdeU2cEM)
 
 ## Misc Workflow
-- [Kedro](https://github.com/quantumblacklabs/kedro)
-- [Airflow](https://airflow.apache.org/)
+- [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines. 
+- [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
 
 ## Kubeflow
 - [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19](https://www.youtube.com/watch?v=TZ1lGrJLEZ0)

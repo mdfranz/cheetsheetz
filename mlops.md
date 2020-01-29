@@ -20,15 +20,12 @@
 - https://www.mlopsnyc.com/agenda-sessions - see https://www.youtube.com/channel/UChmi6ZzsZd9doYYVut1ppUg
 - https://www.usenix.org/sites/default/files/opml19_full_proceedings.pdf
 
-# Tools
+# Tooling
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [MLOps, Kubeflow, and Tekton - Simon Kaegi, IBM](https://www.youtube.com/watch?v=npQkdeU2cEM)
-
-## Misc Workflow
 - [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
-- [mlfow](https://www.mlflow.org/) - an open source platform for managing the end-to-end machine learning lifecycle. It tackles three primary functions: 1) tracking experiments to record and compare parameters and results 2) packaging ML code in a reusable, reproducible form in order to share with other data scientists or transfer to production 3) managing and deploying models from a variety of ML libraries to a variety of model serving and inference platforms (MLflow Models). By [Databricks](https://databricks.com)
 
-## Airflow
+## Airflow (Apache, Originally AirBnb)
 - [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
 - [Airflow Confluence Site](https://cwiki.apache.org/confluence/display/AIRFLOW/)
 - [ETL Best Practices with Apache Airflow][https://gtoonstra.github.io/etl-with-airflow/index.html]
@@ -37,13 +34,16 @@
 - [We’re All Using Airflow Wrong and How to Fix It ](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 - [Testing in Airflow Part 1 — DAG Validation Tests, DAG Definition Tests and Unit Tests](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
 
+## Mlfow (DataBricks)
+- [Simplifying Model Management with MLflow](https://databricks.com/session_eu19/1-simplifying-model-management-with-mlflow)
+- [mlfow](https://www.mlflow.org/) - an open source platform for managing the end-to-end machine learning lifecycle. It tackles three primary functions: 1) tracking experiments to record and compare parameters and results 2) packaging ML code in a reusable, reproducible form in order to share with other data scientists or transfer to production 3) managing and deploying models from a variety of ML libraries to a variety of model serving and inference platforms (MLflow Models). By [Databricks](https://databricks.com)
+
 ## Kubeflow
 - [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19](https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
 
-## K8s
-- https://github.com/SeldonIO
-- https://argoproj.github.io/argo-cd/
-- [Accelerating Machine Learning DevOps with Kubeflow • Derek Ferguson](https://www.youtube.com/watch?v=sJx1MfMDD2g)
+## General K8s
+- [Seldon](https://github.com/SeldonIO) - Seldon Core an open source platform for deploying machine learning models on a Kubernetes cluster.
+- [Argo CD](https://argoproj.github.io/argo-cd/) 
 - [Flyte](https://lyft.github.io/flyte/) - a structured programming and distributed processing platform created at Lyft that enables highly concurrent, scalable and maintainable workflows for machine learning and data processing.
 
 ## Mleap
@@ -52,7 +52,7 @@
 
 ## Spark
 - [Best Practices for Building and Deploying Data Pipelines in Apache Spark - Vicky Avison](https://www.youtube.com/watch?v=1WUIua-xjJA)
-- https://github.com/CoxAutomotiveDataSolutions/waimak
+- [Waimak](https://github.com/CoxAutomotiveDataSolutions/waimak) - an open-source framework that makes it easier to create complex data flows in Apache Spark
 
 ## Data Versioning & Validation 
 - [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality.

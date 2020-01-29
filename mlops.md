@@ -9,7 +9,6 @@
 - [Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 
-
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
@@ -54,6 +53,10 @@
 # Cloud Offerings
 
 ## Google
+
+- [Architecture for MLOps using TFX, Kubeflow Pipelines, and Cloud Build](https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
+- [Google ](https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline)
+
 
 ## Azure
 

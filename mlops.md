@@ -58,8 +58,10 @@
 - [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality.
 - [DVC](https://dvc.org/) - is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
 
-# Vendors / Consulting
-- https://dotscience.com/about/
+# Vendors 
+- [Dot Science](https://dotscience.com)
+- [Data Kitche](https://datakitchen.io)
+- [StreamSets](https://streamsets.com/)
 
 # Cloud Offerings
 

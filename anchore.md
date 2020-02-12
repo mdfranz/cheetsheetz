@@ -10,5 +10,5 @@
 
 # Blogs on Specific Topics
 - [Integrating Anchore Scanning with Gitlab](https://anchore.com/integrating-anchore-scanning-with-gitlab/)
-- [Scanning Images on ERC](https://anchore.com/scanning-images-on-amazon-elastic-container-registry/)
+- [Scanning Images on ECR](https://anchore.com/scanning-images-on-amazon-elastic-container-registry/)
 - [Adding Vulnerability Scanning and Policy-Compliance for Your Containers in CI/CD, No Stateful Service Required](https://anchore.com/inline-scanning-with-anchore-engine/)

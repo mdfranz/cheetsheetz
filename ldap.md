@@ -49,3 +49,14 @@ Common ones
 LDAP is generally not case sensitive except for password 
 
 
+# LDAP Servers
+
+## OpenDJ
+
+See https://github.com/OpenIdentityPlatform/OpenDJ/wiki/Administration
+
+To run in Docker
+
+```
+docker run -p 1389:1389 -p 1636:1636 -p 4444:4444 --name opendj openidentityplatform/opendj
+```

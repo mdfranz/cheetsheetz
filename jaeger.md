@@ -10,7 +10,7 @@
 
 # Tutorials
 - [JAEGER TRACING TUTORIAL: GET GOING FROM SCRATCH](https://www.scalyr.com/blog/jaeger-tracing-tutorial/)
-- [Python Quick Start)(https://opentracing.io/guides/python/quickstart/](Python Quick Start) - Quick example with the all in one docker image with ipython
+- [Python Quick Start](https://opentracing.io/guides/python/quickstart/](Python Quick Start) - Quick example with the all in one docker image with ipython
 
 # Reference / Background
 - [Hit the Ground Running with Distributed Tracing Core Concepts](https://medium.com/nikeengineering/hit-the-ground-running-with-distributed-tracing-core-concepts-ff5ad47c7058)

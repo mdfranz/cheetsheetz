@@ -1,0 +1,13 @@
+# Implementations
+- https://hub.docker.com/r/jboss/keycloak/
+
+
+# Tutorials
+
+- https://medium.com/disney-streaming/setup-a-single-sign-on-saml-test-environment-with-docker-and-nodejs-c53fc1a984c9
+
+# Docker Rigs
+
+- https://hub.docker.com/r/tozny/simplesaml/
+- https://github.com/chrisUsick/docker-test-saml-sp
+- https://github.com/kristophjunge/docker-test-saml-idp

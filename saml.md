@@ -1,3 +1,11 @@
+
+# Overviews
+
+- https://gravitational.com/blog/how-saml-authentication-works/
+- https://duo.com/blog/the-beer-drinkers-guide-to-saml
+- https://developer.okta.com/docs/concepts/saml/
+- https://auth0.com/docs/protocols/saml
+
 # Implementations
 - https://hub.docker.com/r/jboss/keycloak/
 

@@ -1,8 +1,5 @@
 # Tutorials
 
-
-
-
 # DataFrame
 
 ## Getting to Know Your Data

@@ -123,3 +123,16 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/network-overview
 Port
 Node Port
 Target Port
+
+
+# Lite Implementations
+
+## Minikube
+- https://fabianlee.org/2019/02/11/kubernetes-running-minikube-locally-on-ubuntu-using-kvm/
+- https://medium.com/@nieldw/switching-from-minikube-with-virtualbox-to-kvm-2f742db704c9
+
+## K3S
+
+## Microk8s
+
+## KIND

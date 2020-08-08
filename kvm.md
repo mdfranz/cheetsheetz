@@ -11,6 +11,13 @@ KVM acceleration can be used
 
 See https://help.ubuntu.com/lts/serverguide/cloud-images-and-uvtool.html
 
+
+# Add your user to  libvirt group 
+
+See https://help.ubuntu.com/community/KVM/Installation
+
+
+
 # Sync VMs
 
 ```

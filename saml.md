@@ -4,10 +4,16 @@
 - https://duo.com/blog/the-beer-drinkers-guide-to-saml
 - https://developer.okta.com/docs/concepts/saml/
 - https://auth0.com/docs/protocols/saml
+- https://auth0.com/blog/how-saml-authentication-works/ 
+- https://www.keycloak.org/docs/latest/securing_apps/
 
 # Implementations
 - https://hub.docker.com/r/jboss/keycloak/
-
+- https://samltest.id/
+- https://www.keycloak.org/docs/latest/server_admin/#_saml
+- https://github.com/amdonov/lite-idp
+- https://github.com/russellhaering/gosaml2
+- https://gluu.org/docs/gluu-server/4.0/admin-guide/saml/
 
 # Tutorials
 
@@ -19,3 +25,5 @@
 - https://github.com/chrisUsick/docker-test-saml-sp
 - https://github.com/kristophjunge/docker-test-saml-idp
 - https://github.com/ravanscafi/saml-sp-docker
+- https://github.com/winstonhong/Shibboleth-SAML-IdP-and-SP
+- https://github.com/kenchan0130/docker-simplesamlphp 

@@ -5,7 +5,7 @@
 
 
 # Research Insitutes and Labs
-- [https://www.aspi.org.au/](https://www.aspi.org.au/) - Not all disinformation but some interesting article on Chinese campaigns.
+- [ASPI](https://www.aspi.org.au/) - Not all disinformation but some interesting article on Chinese campaigns.
 - [Alliance for Securing Democracy](https://securingdemocracy.gmfus.org/)
 - [EU Disinfo Lab](https://www.disinfo.eu/)
 - [Computational Propaganda Research Project](https://comprop.oii.ox.ac.uk/)

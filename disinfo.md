@@ -17,9 +17,8 @@
 - [Global Disinformation Index](https://disinformationindex.org/)
 - [Information Operations Archive](https://www.io-archive.org/#/)
 - [Rand Fighting Disinformation Online](https://www.rand.org/research/projects/truth-decay/fighting-disinformation.html)
-
+- [Disinformation Toolkit](https://www.interaction.org/documents/disinformation-toolkit/) 
 
 # Academic Research Areas
-
 - Detection 
 

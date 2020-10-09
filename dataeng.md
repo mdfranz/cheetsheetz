@@ -1,6 +1,7 @@
 # Tech GUides
 
 - [Data Engineering Cookbook: Mastering the Plumpbing of Data Science](https://www.darwinpricing.com/training/Data_Engineering_Cookbook.pdf) - May 2019 by Andreas Kretz
+- [Data Engineering Teams: Creating Successful Big Data Teams & Products](https://content.bigdatainstitute.io/books/data_engineering_teams/Data_Engineering_Teams.pdf) - Jesse Anderson 
 
 # Team Structure
 - [Team structure for Successful BI/Data Warehouse/Assisted Intelligence and Machine Learning](https://medium.com/analytics-vidhya/team-structure-for-successful-bi-data-warehouse-assisted-intelligence-and-machine-learning-bd245a5e2858) - April 2020 by Geoff Leigh

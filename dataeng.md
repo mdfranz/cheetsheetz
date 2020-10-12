@@ -1,3 +1,5 @@
+This is a set of resources on analytics and data engineering teams.
+
 # Books & Guides
 - [Data Engineering Cookbook: Mastering the Plumpbing of Data Science](https://www.darwinpricing.com/training/Data_Engineering_Cookbook.pdf) - May 2019 by Andreas Kretz
 - [Data Engineering Teams: Creating Successful Big Data Teams & Products](https://content.bigdatainstitute.io/books/data_engineering_teams/Data_Engineering_Teams.pdf) - Jesse Anderson 

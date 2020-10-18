@@ -1,6 +1,7 @@
-This is a set of resources on analytics and data engineering teams.
+This is a set of resources on analytics and data engineering teams. Focuses more architectural and organizational issues vs. tools and tech.
 
 # Books & Guides
+- [https://medium.com/analytics-vidhya/introducing-the-new-abcs-of-data-8f4f3b6418b6](Introducing the New ABCs of Data) - September 2020
 - [Data Engineering Cookbook: Mastering the Plumpbing of Data Science](https://www.darwinpricing.com/training/Data_Engineering_Cookbook.pdf) - May 2019 by Andreas Kretz
 - [Data Engineering Teams: Creating Successful Big Data Teams & Products](https://content.bigdatainstitute.io/books/data_engineering_teams/Data_Engineering_Teams.pdf) - Jesse Anderson 
 - [Building Analytics Teams](https://www.packtpub.com/product/building-analytics-teams/9781800203167) - 2020 by John K. Thompson.
@@ -19,5 +20,6 @@ This is a set of resources on analytics and data engineering teams.
 - [https://towardsdatascience.com/the-dynamics-of-data-roles-teams-6c450b27e59e](The Dynamics of Data Roles & Teams) - November 2018 by Deepesh Nair
 - [https://docs.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish](Establish a Center of Excellence) - Microsoft Power BI
 
-
-
+# Data Mesh
+- [https://martinfowler.com/articles/data-monolith-to-mesh.html](How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh) - 
+- [https://towardsdatascience.com/what-is-a-data-mesh-and-how-not-to-mesh-it-up-210710bb41e0](What is a Data Mesh — and How Not to Mesh it Up) - July 2020 

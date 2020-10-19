@@ -1,10 +1,11 @@
 This is a set of resources on analytics and data engineering teams. Focuses more architectural and organizational issues vs. tools and tech.
 
 # Books & Guides
-- [https://medium.com/analytics-vidhya/introducing-the-new-abcs-of-data-8f4f3b6418b6](Introducing the New ABCs of Data) - September 2020
+- [Introducing the New ABCs of Data](https://medium.com/analytics-vidhya/introducing-the-new-abcs-of-data-8f4f3b6418b6) - September 2020
 - [Data Engineering Cookbook: Mastering the Plumpbing of Data Science](https://www.darwinpricing.com/training/Data_Engineering_Cookbook.pdf) - May 2019 by Andreas Kretz
 - [Data Engineering Teams: Creating Successful Big Data Teams & Products](https://content.bigdatainstitute.io/books/data_engineering_teams/Data_Engineering_Teams.pdf) - Jesse Anderson 
 - [Building Analytics Teams](https://www.packtpub.com/product/building-analytics-teams/9781800203167) - 2020 by John K. Thompson.
+- [Essential Resources for Data Engineers)(https://www.scling.com/reading-list/)
 
 # Articles on Team Structure
 - [Team structure for Successful BI/Data Warehouse/Assisted Intelligence and Machine Learning](https://medium.com/analytics-vidhya/team-structure-for-successful-bi-data-warehouse-assisted-intelligence-and-machine-learning-bd245a5e2858) - April 2020 by Geoff Leigh
@@ -21,5 +22,11 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [https://docs.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish](Establish a Center of Excellence) - Microsoft Power BI
 
 # Data Mesh
-- [https://martinfowler.com/articles/data-monolith-to-mesh.html](How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh) - 
-- [https://towardsdatascience.com/what-is-a-data-mesh-and-how-not-to-mesh-it-up-210710bb41e0](What is a Data Mesh — and How Not to Mesh it Up) - July 2020 
+- [The Distributed Data Mesh as a Solution to Centralized Data Monoliths](https://www.infoq.com/news/2020/01/distributed-data-mesh/) - January 2020
+- [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+- [What is a Data Mesh — and How Not to Mesh it Up](https://towardsdatascience.com/what-is-a-data-mesh-and-how-not-to-mesh-it-up-210710bb41e0) - July 2020 
+
+
+# Data Products
+- [How to Build Great Data Products](https://hbr.org/2018/10/how-to-build-great-data-products) - Octover 2018, HBR
+- [Designing Data Products: The 15 faces of Data Products are a little bit different.](https://towardsdatascience.com/designing-data-products-b6b93edf3d23)

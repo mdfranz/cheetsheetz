@@ -13,16 +13,39 @@ This focuses primarily on Customer Identity & Access Management Solutions
 
 # Gluu
 - https://www.gluu.org/blog/gluu-versus-keycloak/
+
+## Deployment & Operation
+- https://gluu.org/docs/gluu-server/reference/container-image-refs/
+- https://github.com/GluuFederation/cloud-native-edition
+- https://gluu.org/docs/gluu-server/operation/logs/
+
+### Containerized
+- https://hub.docker.com/u/gluufederation/
+- https://gluu.org/docs/gluu-server/reference/container-configs/
+- https://gluu.org/docs/gluu-server/latest/installation-guide/install-kubernetes/
+
+## Support
 - https://support.gluu.org/
 
-# Keycloak
+## Extension
+- https://gluu.org/docs/casa/4.2/developer/
 
+# Keycloak
 ## Docs
 - https://www.keycloak.org/documentation
 
-## Deployment
-- https://hub.docker.com/r/jboss/keycloak/
+## Deployment & Operation
+- https://www.keycloak.org/docs/latest/server_installation/
 - https://www.keycloak.org/docs/4.8/server_development/
+
+### Containers & K8S
+- https://hub.docker.com/r/jboss/keycloak/
+- https://medium.com/devops-dudes/keycloak-for-identity-and-access-management-9860a994bf0
+- https://blog.sighup.io/keycloak-ha-on-kubernetes/
+
+### Monitoring
+- https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus
+- https://github.com/aerogear/keycloak-metrics-spi
 
 ## Support
 - https://keycloak.discourse.group/

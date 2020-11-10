@@ -1,4 +1,4 @@
-This focuses primarily on Customer Identity & Access Management Solutions
+This focuses primarily on Open Source Customer Identity & Access Management Solutions
 
 # Comparison
 - https://openappstack.net/2019/01/31/comparison-of-free-and-open-source-single-sign-on-solutions.html (January 2019)
@@ -49,6 +49,7 @@ This focuses primarily on Customer Identity & Access Management Solutions
 
 ## Support
 - https://keycloak.discourse.group/
+- https://groups.google.com/g/keycloak-user
 
 ## Blogs
 - https://www.appsdeveloperblog.com/category/keycloak/

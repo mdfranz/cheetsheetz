@@ -2,14 +2,21 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 
 # Comparison
 - https://openappstack.net/2019/01/31/comparison-of-free-and-open-source-single-sign-on-solutions.html (January 2019)
+- https://community.ory.sh/t/my-identity-crisis-ory-stack-vs-others/1384
+- https://gist.github.com/bmaupin/6878fae9abcb63ef43f8ac9b9de8fafd
+
+# Ory
+- https://www.ory.sh/hydra
+- https://www.ory.sh/kratos
+- https://www.ory.sh/oathkeeper
+- https://www.ory.sh/docs/index
+
+## Blogs
+- https://blog.getambassador.io/part-2-api-access-control-and-authentication-with-kubernetes-ambassador-and-ory-oathkeeper-q-a-127fa57f6332
 
 # Open Identity Platform 
 - https://www.openidentityplatform.org/ 
 - https://github.com/OpenIdentityPlatform
-
-# Wren
-- https://wrensecurity.org/
-- https://github.com/WrenSecurity/
 
 # Gluu
 - https://www.gluu.org/blog/gluu-versus-keycloak/
@@ -55,9 +62,16 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://www.appsdeveloperblog.com/category/keycloak/
 - https://medium.com/@gauravwadhone/keycloak-create-custom-rest-api-86e24bff4c1e
 
+# Wren
+- https://wrensecurity.org/
+- https://github.com/WrenSecurity/
+
 # WSO2
 - https://is.docs.wso2.com/en/latest/
 - https://github.com/wso2/product-is
 - https://docs.wso2.com/display/IS540/Developer+Guide
 - https://docs.wso2.com/display/IS540/Extending+the+Identity+Server
 - https://store.wso2.com/store/assets/isconnector/list
+
+
+

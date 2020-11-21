@@ -7,11 +7,12 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [Building Analytics Teams](https://www.packtpub.com/product/building-analytics-teams/9781800203167) - 2020 by John K. Thompson.
 - [Essential Resources for Data Engineers](https://www.scling.com/reading-list/)
 
-# Podcasts
+# Podcasts & Newsletters
 - [Towards Data Science](https://towardsdatascience.com/podcast/home) - less engineering/analytics and more data science but still some good episodes
 - [Data Sceptic](https://dataskeptic.com/)
 - [The Experiencing Data Podcast](https://designingforanalytics.com/experiencing-data-podcast/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+- [Data Engineering Weekly](https://dataengineeringweekly.substack.com/archive)
 
 # Data Products
 - [Managing Data Science as Products](https://towardsdatascience.com/managing-data-science-as-products-671077e625b3)

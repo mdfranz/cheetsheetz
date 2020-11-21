@@ -7,6 +7,23 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [Building Analytics Teams](https://www.packtpub.com/product/building-analytics-teams/9781800203167) - 2020 by John K. Thompson.
 - [Essential Resources for Data Engineers](https://www.scling.com/reading-list/)
 
+# Podcasts
+- [Towards Data Science](https://towardsdatascience.com/podcast/home) - less engineering/analytics and more data science but still some good episodes
+- [Data Sceptic](https://dataskeptic.com/)
+- [The Experiencing Data Podcast](https://designingforanalytics.com/experiencing-data-podcast/)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+
+# Data Products
+- [Managing Data Science as Products](https://towardsdatascience.com/managing-data-science-as-products-671077e625b3)
+- [A step-by-step guide to becoming a Data Product Manager](https://towardsdatascience.com/a-step-by-step-guide-to-becoming-a-data-product-manager-c1ad6d111160) - September 2020
+- [Designing Data Products from a Customer Viewpoint](https://towardsdatascience.com/designing-data-products-from-a-customer-viewpoint-8e9f622ec27b) - February 2020
+- [How to Build Great Data Products](https://hbr.org/2018/10/how-to-build-great-data-products) - Octover 2018, HBR
+- [Designing Data Products: The 15 faces of Data Products are a little bit different.](https://towardsdatascience.com/designing-data-products-b6b93edf3d23)
+
+# Roles & Job Functions
+- [The Dynamics of Data Roles & Teams](https://towardsdatascience.com/the-dynamics-of-data-roles-teams-6c450b27e59e) - November 2018 by Deepesh Nair
+- [Establish a Center of Excellence](https://docs.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish) - Microsoft Power BI
+
 # Articles on Team Structure
 - [Team structure for Successful BI/Data Warehouse/Assisted Intelligence and Machine Learning](https://medium.com/analytics-vidhya/team-structure-for-successful-bi-data-warehouse-assisted-intelligence-and-machine-learning-bd245a5e2858) - April 2020 by Geoff Leigh
 - [Designing the data team](https://www.helenanderson.co.nz/designing-data-team/) - January 2020 by Helen Anderson
@@ -17,18 +34,8 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [How to Organize Your Analytics Team](https://fivetran.com/blog/how-to-organize-your-analytics-team) by Erik Jones
 - [Advanced Analytics - How to Build a Team in 6 Steps](https://quanthub.com/advanced-analytics/)
 
-# Roles & Job Functions
-- [The Dynamics of Data Roles & Teams](https://towardsdatascience.com/the-dynamics-of-data-roles-teams-6c450b27e59e) - November 2018 by Deepesh Nair
-- [Establish a Center of Excellence](https://docs.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish) - Microsoft Power BI
-
 # Data Mesh
 - [The Distributed Data Mesh as a Solution to Centralized Data Monoliths](https://www.infoq.com/news/2020/01/distributed-data-mesh/) - January 2020
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [What is a Data Mesh — and How Not to Mesh it Up](https://towardsdatascience.com/what-is-a-data-mesh-and-how-not-to-mesh-it-up-210710bb41e0) - July 2020 
 
-# Data Products
-- [Managing Data Science as Products](https://towardsdatascience.com/managing-data-science-as-products-671077e625b3)
-- [A step-by-step guide to becoming a Data Product Manager](https://towardsdatascience.com/a-step-by-step-guide-to-becoming-a-data-product-manager-c1ad6d111160) - September 2020
-- [Designing Data Products from a Customer Viewpoint](https://towardsdatascience.com/designing-data-products-from-a-customer-viewpoint-8e9f622ec27b) - February 2020
-- [How to Build Great Data Products](https://hbr.org/2018/10/how-to-build-great-data-products) - Octover 2018, HBR
-- [Designing Data Products: The 15 faces of Data Products are a little bit different.](https://towardsdatascience.com/designing-data-products-b6b93edf3d23)

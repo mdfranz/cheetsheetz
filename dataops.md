@@ -23,7 +23,6 @@
 # Tooling
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [MLOps, Kubeflow, and Tekton - Simon Kaegi, IBM](https://www.youtube.com/watch?v=npQkdeU2cEM)
-- [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
 
 ## Airflow (Apache, Originally AirBnb)
 - [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
@@ -57,11 +56,20 @@
 ## Data Versioning & Validation 
 - [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality and https://greatexpectations.io/
 - [DVC](https://dvc.org/) - is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
+- [DBT](https://www.getdbt.com/)
+
+## Other Open Source Tools 
+- [Airbyte](https://github.com/airbytehq/airbyte)
+- [Hopsworks](https://github.com/logicalclocks/hopsworks)
+- [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
+- [Meltano](https://gitlab.com/meltano/meltano)
+- [PipelineWise](https://github.com/transferwise/pipelinewise) 
+- [Singer](https://www.singer.io/) 
 
 # Vendors 
 - [Dot Science](https://dotscience.com)
 - [Data Kitche](https://datakitchen.io)
-- [StreamSets](https://streamsets.com/)
+- [StreamSets](https://streamsets.com/) - see https://github.com/streamsets
 
 # Cloud Offerings
 ## Google

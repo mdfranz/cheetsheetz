@@ -33,6 +33,14 @@
 - [We’re All Using Airflow Wrong and How to Fix It ](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 - [Testing in Airflow Part 1 — DAG Validation Tests, DAG Definition Tests and Unit Tests](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
 
+## Dask - doesn't exactly fit here but close
+- [Dask](https://dask.org/) and [why dask?](https://docs.dask.org/en/latest/why.html)
+- [Why every Data Scientist should use Dask?](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)(June 2018)
+- [DASK Scheduler Dashboard: Understanding resource and task allocation in Local Machines](https://medium.com/@kartikbhanot/dask-scheduler-dashboard-understanding-resource-and-task-allocation-in-local-machines-bc5aa60eca6e)
+- [Distributed Data Pre-processing using Dask, Amazon ECS and Python (Part 1)](https://towardsdatascience.com/serverless-distributed-data-pre-processing-using-dask-amazon-ecs-and-python-part-1-a6108c728cc4)
+- [From Local Machine to Dask Cluster with Terraform](https://www.datacamp.com/community/tutorials/dask-ec2-terraform)
+- [Adaptive Dask clusters on Kubernetes and AWS](https://archived.informaticslab.co.uk/dask/2017/07/21/adaptive-dask-clusters-on-kubernetes-and-aws.html)
+
 ## Mlfow (DataBricks)
 - [Simplifying Model Management with MLflow](https://databricks.com/session_eu19/1-simplifying-model-management-with-mlflow)
 - [mlfow](https://www.mlflow.org/) - an open source platform for managing the end-to-end machine learning lifecycle. It tackles three primary functions: 1) tracking experiments to record and compare parameters and results 2) packaging ML code in a reusable, reproducible form in order to share with other data scientists or transfer to production 3) managing and deploying models from a variety of ML libraries to a variety of model serving and inference platforms (MLflow Models). By [Databricks](https://databricks.com)
@@ -54,15 +62,23 @@
 - [Waimak](https://github.com/CoxAutomotiveDataSolutions/waimak) - an open-source framework that makes it easier to create complex data flows in Apache Spark
 
 ## Data Versioning & Validation 
-- [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality and https://greatexpectations.io/
+
 - [DVC](https://dvc.org/) - is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
 - [DBT](https://www.getdbt.com/)
+
+### Great Expectations
+- [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality and https://greatexpectations.io/
+- [Using GitHub Actions for MLOps & Data Science](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
+- [Keeping your data pipelines healthy with the Great Expectations GitHub Action](https://github.blog/2020-10-01-keeping-your-data-pipelines-healthy-with-the-great-expectations-github-action/)
+- [Great Expectations: Validating datasets in machine learning pipelines](https://blog.codecentric.de/en/2020/02/great-expectations-validating-datasets-in-machine-learning-pipeline/)
+- [Database Testing with Great Expectations](https://blog.testproject.io/2020/06/24/database-testing-with-great-expectations/) - June 2020
 
 ## Other Open Source Tools 
 - [Airbyte](https://github.com/airbytehq/airbyte)
 - [Hopsworks](https://github.com/logicalclocks/hopsworks)
 - [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
 - [Meltano](https://gitlab.com/meltano/meltano)
+- [PrefectCore](https://github.com/prefecthq/prefect) 
 - [PipelineWise](https://github.com/transferwise/pipelinewise) 
 - [Singer](https://www.singer.io/) 
 

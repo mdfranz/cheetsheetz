@@ -1,6 +1,7 @@
 # General Articles, Blogs, and Talks
+- [InnoQ MLOps Site](https://ml-ops.org/)
 - [What are Model Governance and Model Operations](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/) (OReilly, June 2019)
-- [DotScience MLOps Manifesto](https://dotscience.com/manifesto/)
+- [DotScience MLOps Manifesto](https://dotscience.com/manifesto/) and https://www.dataopsmanifesto.org/
 - [Productionizing Machine Learning Models with MLOps](https://www.xenonstack.com/blog/mlops/)
 - [Deploying ML Models in Distributed Real-time Data Streaming Applications](https://www.kharekartik.dev/2020/01/12/streaming-machine-learning/)
 - [The Rise of the Term “MLOps:” Properly Operationalized Machine Learning is the New Holy Grail](https://towardsdatascience.com/the-rise-of-the-term-mlops-3b14d5bd1bdb)
@@ -10,15 +11,21 @@
 - [Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [Deploying and Versioning Data Piplines at Scale](https://medium.com/@QuantumBlack/deploying-and-versioning-data-pipelines-at-scale-942b1d81b5f5)
+- [Machine learning deserves its own flavor of Continuous Delivery](https://towardsdatascience.com/machine-learning-deserves-its-own-flavor-of-continuous-delivery-f4d1e76e6b69) - April 2020
+- [Continuous Delivery For Machine Learning: Patterns And Pains - Emily Gorcenski](https://www.youtube.com/watch?v=bFW5mZmj0nQ) - great talk, I saw this in person in January 2020.
+- [CI/CD + ML == MLOps - The Way To Speed Bringing Machine Learning To Production - David Aronchick](https://www.youtube.com/watch?v=uOCR4Xw-BZ8) - this as well!
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
 - [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
+- [Continuous Delivery for Machine Learning: Automating the end-to-end lifecycle of Machine Learning application](https://martinfowler.com/articles/cd4ml.html)
+- [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V)
 
-# Conferences
+# Conferences & Workshops
 - https://www.mlopsnyc.com/agenda-sessions - see https://www.youtube.com/channel/UChmi6ZzsZd9doYYVut1ppUg
 - https://www.usenix.org/sites/default/files/opml19_full_proceedings.pdf
+- https://github.com/thoughtworksInc/CD4ML-Scenarios
 
 # Tooling
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
@@ -62,7 +69,6 @@
 - [Waimak](https://github.com/CoxAutomotiveDataSolutions/waimak) - an open-source framework that makes it easier to create complex data flows in Apache Spark
 
 ## Data Versioning & Validation 
-
 - [DVC](https://dvc.org/) - is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
 - [DBT](https://www.getdbt.com/)
 
@@ -74,6 +80,7 @@
 - [Database Testing with Great Expectations](https://blog.testproject.io/2020/06/24/database-testing-with-great-expectations/) - June 2020
 
 ## Other Open Source Tools 
+- [Apache Camel](https://camel.apache.org/)
 - [Airbyte](https://github.com/airbytehq/airbyte)
 - [Hopsworks](https://github.com/logicalclocks/hopsworks)
 - [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
@@ -85,6 +92,7 @@
 # Vendors 
 - [Dot Science](https://dotscience.com)
 - [Data Kitche](https://datakitchen.io)
+- [Hydrosphere](https://hydrosphere.io/)
 - [StreamSets](https://streamsets.com/) - see https://github.com/streamsets
 
 # Cloud Offerings

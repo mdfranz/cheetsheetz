@@ -14,13 +14,13 @@
 - [Machine learning deserves its own flavor of Continuous Delivery](https://towardsdatascience.com/machine-learning-deserves-its-own-flavor-of-continuous-delivery-f4d1e76e6b69) - April 2020
 - [Continuous Delivery For Machine Learning: Patterns And Pains - Emily Gorcenski](https://www.youtube.com/watch?v=bFW5mZmj0nQ) - great talk, I saw this in person in January 2020.
 - [CI/CD + ML == MLOps - The Way To Speed Bringing Machine Learning To Production - David Aronchick](https://www.youtube.com/watch?v=uOCR4Xw-BZ8) - this as well!
+- [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V)
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
 - [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 - [Continuous Delivery for Machine Learning: Automating the end-to-end lifecycle of Machine Learning application](https://martinfowler.com/articles/cd4ml.html)
-- [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V)
 
 # Conferences & Workshops
 - https://www.mlopsnyc.com/agenda-sessions - see https://www.youtube.com/channel/UChmi6ZzsZd9doYYVut1ppUg

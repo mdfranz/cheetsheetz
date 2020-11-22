@@ -55,7 +55,7 @@
 - [Waimak](https://github.com/CoxAutomotiveDataSolutions/waimak) - an open-source framework that makes it easier to create complex data flows in Apache Spark
 
 ## Data Versioning & Validation 
-- [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality.
+- [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality and https://greatexpectations.io/
 - [DVC](https://dvc.org/) - is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
 
 # Vendors 
@@ -64,11 +64,9 @@
 - [StreamSets](https://streamsets.com/)
 
 # Cloud Offerings
-
 ## Google
 - [Architecture for MLOps using TFX, Kubeflow Pipelines, and Cloud Build](https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
 - [Google ](https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline)
-
 
 ## Azure
 - https://azure.microsoft.com/en-us/services/machine-learning/mlops/

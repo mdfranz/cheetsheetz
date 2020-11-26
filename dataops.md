@@ -21,6 +21,7 @@
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
 - [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 - [Continuous Delivery for Machine Learning: Automating the end-to-end lifecycle of Machine Learning application](https://martinfowler.com/articles/cd4ml.html)
+- [What Is MLOps And Why Your Team Should Implement It](https://medium.com/smb-lite/what-is-mlops-and-why-your-team-should-implement-it-b05b741cdf94) 
 
 # Conferences & Workshops
 - https://www.mlopsnyc.com/agenda-sessions - see https://www.youtube.com/channel/UChmi6ZzsZd9doYYVut1ppUg
@@ -30,6 +31,7 @@
 # Tooling
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [MLOps, Kubeflow, and Tekton - Simon Kaegi, IBM](https://www.youtube.com/watch?v=npQkdeU2cEM)
+- [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791)
 
 ## Airflow (Apache, Originally AirBnb)
 - [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
@@ -45,6 +47,10 @@
 ## Mlfow (DataBricks)
 - [Simplifying Model Management with MLflow](https://databricks.com/session_eu19/1-simplifying-model-management-with-mlflow)
 - [mlfow](https://www.mlflow.org/) - an open source platform for managing the end-to-end machine learning lifecycle. It tackles three primary functions: 1) tracking experiments to record and compare parameters and results 2) packaging ML code in a reusable, reproducible form in order to share with other data scientists or transfer to production 3) managing and deploying models from a variety of ML libraries to a variety of model serving and inference platforms (MLflow Models). By [Databricks](https://databricks.com)
+
+## Feature Stores
+- [Feast](https://feast.dev/)
+- [Hopsworks](https://github.com/logicalclocks/hopsworks)
 
 ## Kubeflow
 - [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19](https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
@@ -76,9 +82,10 @@
 ## Other Open Source Tools 
 - [Apache Camel](https://camel.apache.org/)
 - [Airbyte](https://github.com/airbytehq/airbyte)
-- [Hopsworks](https://github.com/logicalclocks/hopsworks)
 - [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
+- [H20 AutoML](https://www.h2o.ai/products/h2o/)
 - [Meltano](https://gitlab.com/meltano/meltano)
+- [Pachyderm](https://github.com/pachyderm/pachyderm) and [Deploy on a Cloud via K8s](https://docs.pachyderm.com/latest/deploy-manage/deploy/amazon_web_services/)
 - [PrefectCore](https://github.com/prefecthq/prefect) 
 - [PipelineWise](https://github.com/transferwise/pipelinewise) 
 - [Singer](https://www.singer.io/) 

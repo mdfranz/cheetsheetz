@@ -1,9 +1,13 @@
 # Primary Abstractions
-## Solid
+## Solids
 
-Functional unity of computation with inputs and outputs.
+Functional unity of computation with inputs and outputs. Meant to be re-useable chunks of business logic. 
 
-## Pipeline
+There can also be `composite_solids` 
+
+Something with `.alias`
+
+## Pipelines
 
 A dependency graph of build by connecting the inputs and outputs of solids. A set of solids that forms a DAG. 
 
@@ -18,8 +22,17 @@ Collection of repositories
 ## Partitions
 
 # Deployment
-- Service
-- K8S
+
+See https://docs.dagster.io/deploying/local
+
+## Service
+
+`dagit` is run by systemd as long as proper environment variables are set and proper workspace is configured and path where pipeline code runs
+
+## ECS/K8S
+
+
+
 
 # Storage
 - Postgres (RDS, Cloud SQL) 

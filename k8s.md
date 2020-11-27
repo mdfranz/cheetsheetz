@@ -11,7 +11,6 @@ scheduler            <unknown>
 etcd-0               <unknown>
 ```
 
-
 ### Nodes
 
 https://kubernetes.io/docs/concepts/architecture/nodes/

@@ -8,3 +8,9 @@
 - [Adaptive Dask clusters on Kubernetes and AWS](https://archived.informaticslab.co.uk/dask/2017/07/21/adaptive-dask-clusters-on-kubernetes-and-aws.html)
 - [Dask Kubernetes](https://kubernetes.dask.org/en/latest/) and [Dask Helm Charts](https://github.com/dask/helm-chart)
 - [Data Science with Dask Course](https://github.com/mardatade/Course-Data-Science-with-Dask)
+
+
+
+# Misc Code
+- https://github.com/ashleysuiter/For_My_Reference
+

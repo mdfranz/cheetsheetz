@@ -33,7 +33,6 @@ See https://docs.dagster.io/deploying/local
 
 
 
-
 # Storage
 - Postgres (RDS, Cloud SQL) 
 - Object Storage (S3, GCS) 

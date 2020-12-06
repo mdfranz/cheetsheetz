@@ -1,3 +1,6 @@
+# Tutorial Sites
+- https://datatofish.com/
+
 # Dask
 - [Dask](https://dask.org/) and [why dask?](https://docs.dask.org/en/latest/why.html)
 - [Tutorial](https://github.com/dask/dask-tutorial)

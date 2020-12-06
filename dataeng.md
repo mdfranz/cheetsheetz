@@ -34,6 +34,7 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [What is a Productive Data Engineering Team](https://www.oreilly.com/content/what-is-a-productive-data-engineering-team/) - April 2017 by Jesse Anderson
 - [How to Organize Your Analytics Team](https://fivetran.com/blog/how-to-organize-your-analytics-team) by Erik Jones
 - [Advanced Analytics - How to Build a Team in 6 Steps](https://quanthub.com/advanced-analytics/)
+- [How to build a data science methodology that works for your team](https://medium.com/atlassiandata/build-a-data-science-methodology-7633935dc644)
 
 # Data Mesh
 - [The Distributed Data Mesh as a Solution to Centralized Data Monoliths](https://www.infoq.com/news/2020/01/distributed-data-mesh/) - January 2020

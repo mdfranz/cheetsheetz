@@ -13,7 +13,7 @@
 - [OrientDB](https://orientdb.org/)
 - [Basic Concepts](https://orientdb.org/docs/3.0.x/datamodeling/Concepts.html)
 - [Installing in a Docker Container](https://orientdb.com/docs/2.2.x/Docker-Home.html)
-- [PyOrient](https://orientdb.com/docs/2.2.x/PyOrient.html)
+- [PyOrient](https://orientdb.com/docs/2.2.x/PyOrient.html) - only seems to be supported for versions up to 2.0 and hasn't been updated since 2018
 
 # TerminusDB
 - [TerminusDB](https://terminusdb.com/)

@@ -24,6 +24,8 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 # Roles & Job Functions
 - [The Dynamics of Data Roles & Teams](https://towardsdatascience.com/the-dynamics-of-data-roles-teams-6c450b27e59e) - November 2018 by Deepesh Nair
 - [Establish a Center of Excellence](https://docs.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish) - Microsoft Power BI
+- [Analytics at Netflix: Who We Are and What We Do](https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965)
+- [Roles in a Data Team](https://towardsdatascience.com/roles-in-a-data-team-d97a87fdabaa)
 
 # Articles on Team Structure
 - [Team structure for Successful BI/Data Warehouse/Assisted Intelligence and Machine Learning](https://medium.com/analytics-vidhya/team-structure-for-successful-bi-data-warehouse-assisted-intelligence-and-machine-learning-bd245a5e2858) - April 2020 by Geoff Leigh
@@ -35,6 +37,13 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [How to Organize Your Analytics Team](https://fivetran.com/blog/how-to-organize-your-analytics-team) by Erik Jones
 - [Advanced Analytics - How to Build a Team in 6 Steps](https://quanthub.com/advanced-analytics/)
 - [How to build a data science methodology that works for your team](https://medium.com/atlassiandata/build-a-data-science-methodology-7633935dc644)
+- [Organizing Data Teams — Where to Make The Cut](https://towardsdatascience.com/organizing-data-teams-where-to-make-the-cut-49969c5ec093)
+- [Analytics Engineering at Spotify](https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722)
+- [How should our company structure our data team?](https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d)
+
+# Observability
+- [https://towardsdatascience.com/introducing-the-five-pillars-of-data-observability-e73734b263d5](https://towardsdatascience.com/introducing-the-five-pillars-of-data-observability-e73734b263d5)
+
 
 # Data Mesh
 - [The Distributed Data Mesh as a Solution to Centralized Data Monoliths](https://www.infoq.com/news/2020/01/distributed-data-mesh/) - January 2020

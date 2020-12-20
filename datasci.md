@@ -12,8 +12,6 @@
 - [Dask Kubernetes](https://kubernetes.dask.org/en/latest/) and [Dask Helm Charts](https://github.com/dask/helm-chart)
 - [Data Science with Dask Course](https://github.com/mardatade/Course-Data-Science-with-Dask)
 
-
-
 # Misc Code
 - https://github.com/ashleysuiter/For_My_Reference
 

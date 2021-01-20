@@ -4,9 +4,6 @@
 - https://github.com/GalvanizeDataScience/data-science-primer
 - https://github.com/datasciencemasters/go
 
-
-
-
 # Airflow
 
 ## Concepts
@@ -36,3 +33,13 @@ Consists of different types of tasks (that consist of operators)
 
 - [https://github.com/jghoman/awesome-apache-airflow#best-practices-lessons-learned-and-cool-use-cases](Best practices, lessons learned and cool use cases)
 - [https://humansofdata.atlan.com/2018/06/apache-airflow-disease-outbreaks-india/](How to Create a Workflow in Apache Airflow to Track Disease Outbreaks in India)
+
+# Time Series 
+- [Forecasting with a Time Series Model using Python: Part One](https://www.bounteous.com/insights/2020/09/15/forecasting-time-series-model-using-python-part-one/)
+- [ARIMA Model Python Example — Time Series Forecasting](https://towardsdatascience.com/machine-learning-part-19-time-series-and-autoregressive-integrated-moving-average-model-arima-c1005347b0d7)
+- [Anomaly Detection in Time Series Sensor Data](https://towardsdatascience.com/anomaly-detection-in-time-series-sensor-data-86fd52e62538)
+
+## Anomaly Detection & Forecasting Libraries
+- [Luminaire](https://zillow.github.io/luminaire/)
+- [Prophet](https://facebook.github.io/prophet/docs/quick_start.html) - a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. 
+

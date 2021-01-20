@@ -19,3 +19,6 @@
 - [pcapd3](https://github.com/carloschulo/pcapd3)
 - [pcap2frame](https://github.com/devmece/pcap2frame)
 - [WiresharkDatawithPandas](https://github.com/irawansyahh/WiresharkDatawithPandas)
+
+## Jupyter
+- [Infosec Jupyterthon!](https://infosecjupyterthon.com/introduction.html)

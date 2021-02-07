@@ -17,7 +17,6 @@ See https://help.ubuntu.com/lts/serverguide/cloud-images-and-uvtool.html
 See https://help.ubuntu.com/community/KVM/Installation
 
 
-
 # Sync VMs
 
 ```
@@ -52,3 +51,44 @@ Welcome to Ubuntu 18.04.4 LTS (GNU/Linux 4.15.0-112-generic x86_64)
 To run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
 ```
+
+
+# Virsh
+
+```
+mfranz@mfranz-h30:~$ virsh dominfo gitlab
+Id:             4
+Name:           gitlab
+UUID:           006bfa59-3abb-44cf-942d-48f80ed6365d
+OS Type:        hvm
+State:          running
+CPU(s):         2
+CPU time:       6424.5s
+Max memory:     6291456 KiB
+Used memory:    6291456 KiB
+Persistent:     yes
+Autostart:      disable
+Managed save:   no
+Security model: apparmor
+Security DOI:   0
+Security label: libvirt-006bfa59-3abb-44cf-942d-48f80ed6365d (enforcing)
+```
+
+Show domain config for editing
+
+```
+mfranz@mfranz-h30:~$ virsh dumpxml gitlab | egrep -i '(memory|cpu)'
+  <memory unit='KiB'>6291456</memory>
+  <currentMemory unit='KiB'>6291456</currentMemory>
+  <vcpu placement='static'>2</vcpu>
+```
+
+## Changing Hardware
+
+```
+$ virsh edit <domain>
+```
+
+Settings that I've changed
+- memory
+- vcpu

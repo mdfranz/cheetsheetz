@@ -22,14 +22,18 @@
   report_active = false
 ```
 
+## Containers & Virtualizaiton
 
+Telegraf user must be added to the `docker` group for this to work 
+
+```
+[[inputs.docker]]
+   endpoint = "unix:///var/run/docker.sock"
+```
 
 
 ## Application Endpoints
 
-```
-[[inputs.netstat]]
-```
 
 This was for Benthos
 
@@ -46,7 +50,9 @@ data_format = "json"
 
 ## Networking
 
-### External Connectivity
+```
+[[inputs.netstat]]
+```
 
 ```
 [[inputs.ping]]

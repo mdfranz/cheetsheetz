@@ -32,6 +32,7 @@
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [MLOps, Kubeflow, and Tekton - Simon Kaegi, IBM](https://www.youtube.com/watch?v=npQkdeU2cEM)
 - [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791)
+- [End-to-end Machine Learning Platforms Compared](https://towardsdatascience.com/end-to-end-machine-learning-platforms-compared-c530d626151b)
 
 ## Airflow (Apache, Originally AirBnb)
 - [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
@@ -41,6 +42,7 @@
 - [How we used AirFlow at CrowdStrike](https://www.crowdstrike.com/blog/how-we-use-apache-airflow-part-1/)
 - [We’re All Using Airflow Wrong and How to Fix It ](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 - [Testing in Airflow Part 1 — DAG Validation Tests, DAG Definition Tests and Unit Tests](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
+- [Speed up your Airflow development with Docker and tests](https://ulysse-hg.medium.com/speed-up-your-airflow-development-with-docker-and-tests-a8449d443174)
 
 ## Dagster
 
@@ -54,6 +56,7 @@
 
 ## Kubeflow
 - [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19](https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
+- [Kubeflow: Simplified, Extended and Operationalized](https://towardsdatascience.com/kubeflow-simplified-extended-and-operationalized-fcbcc34f79e5)
 
 ## General K8s
 - [Seldon](https://github.com/SeldonIO) - Seldon Core an open source platform for deploying machine learning models on a Kubernetes cluster.

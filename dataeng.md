@@ -44,7 +44,6 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 # Observability
 - [https://towardsdatascience.com/introducing-the-five-pillars-of-data-observability-e73734b263d5](https://towardsdatascience.com/introducing-the-five-pillars-of-data-observability-e73734b263d5)
 
-
 # Data Mesh
 - [The Distributed Data Mesh as a Solution to Centralized Data Monoliths](https://www.infoq.com/news/2020/01/distributed-data-mesh/) - January 2020
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)

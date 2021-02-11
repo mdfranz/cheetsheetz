@@ -1,6 +1,12 @@
 # Ops
+
+## Get & Config
 - https://github.com/nats-io/nats-server/releases
+- https://docs.nats.io/nats-server/configuration
+
+## Monitor
 - https://docs.nats.io/nats-tools/nats_top
+- https://github.com/devfacet/natsboard
 
 Monitoring with Telegraf
 
@@ -12,6 +18,11 @@ Monitoring with Telegraf
    ]
    method = "GET"
 ```
+
+## Management
+
+- https://docs.nats.io/nats-tools/nsc
+
 
 # Hello World-ish
 

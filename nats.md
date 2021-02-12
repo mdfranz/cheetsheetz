@@ -7,7 +7,7 @@
 
 ## Monitor
 - https://docs.nats.io/nats-tools/nats_top
-- https://github.com/devfacet/natsboard
+
 
 Monitoring with Telegraf
 

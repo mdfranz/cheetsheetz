@@ -2,6 +2,7 @@
 
 ## Get & Config
 - https://github.com/nats-io/nats-server/releases
+- https://github.com/nats-io/nats-streaming-server/releases
 - https://docs.nats.io/nats-server/configuration
 
 ## Monitor

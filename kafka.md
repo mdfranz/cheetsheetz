@@ -40,9 +40,11 @@ Retrieving a record from a topic does not remove from the topic and maintain an 
 *Consumer Groups* serve as Load balancing mechanisms for distributing partition assignment across consumer instances in the group
 
 
+
 # Simple Tutorials
 - https://codetober.com/apache-kafka-on-raspberry-pi-4/
 - https://medium.com/better-programming/a-simple-apache-kafka-cluster-with-docker-kafdrop-and-python-cf45ab99e2b9
+- https://dattell.com/data-architecture-blog/understanding-kafka-consumer-offset/
 
 # FOSS Admin Tools
 - https://github.com/provectus/kafka-ui

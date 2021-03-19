@@ -1,18 +1,16 @@
-# Ops
-
-## Intro Articles
+# Intro Articles
 - [https://hansonkd.medium.com/nats-the-secret-to-microservices-in-go-and-python-that-scale-without-complexity-620f7ca66cc1](NATS: the Secret to Microservices in Go and Python that Scale without Complexity) - 2018
 - [https://medium.com/capital-one-tech/lightweight-cloud-native-messaging-with-nats-ad730ca2becf](Lightweight, Cloud-Native Messaging with NATS) - 2018
 - [https://oswalt.dev/2019/09/kicking-the-tires-with-the-nats-go-client/](Kicking the Tires With the NATS Go Client)
 - [https://www.slideshare.net/wallyqs/sf-python-meetup-introduction-to-nats-messaging-with-python3k](SF Python Meetup - Introduction to NATS Messaging with Python3) - June 2019
 
-
+# Ops
 ## Get & Config
 - https://github.com/nats-io/nats-server/releases
 - https://github.com/nats-io/nats-streaming-server/releases
 - https://docs.nats.io/nats-server/configuration
 
-## Monitor
+## Monitoring
 - https://docs.nats.io/nats-tools/nats_top
 
 Monitoring with Telegraf

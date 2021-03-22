@@ -45,6 +45,8 @@
 - [Speed up your Airflow development with Docker and tests](https://ulysse-hg.medium.com/speed-up-your-airflow-development-with-docker-and-tests-a8449d443174)
 
 ## Dagster
+- [Dagster Concepts](https://docs.dagster.io/concepts)
+- [Building shared spaces for data teams at Drizly](https://dagster.io/blog/shared-spaces-at-drizly)
 
 ## Mlfow (DataBricks)
 - [Simplifying Model Management with MLflow](https://databricks.com/session_eu19/1-simplifying-model-management-with-mlflow)

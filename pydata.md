@@ -4,6 +4,10 @@
 - https://github.com/GalvanizeDataScience/data-science-primer
 - https://github.com/datasciencemasters/go
 
+# Apache Arrow
+- [https://towardsdatascience.com/a-gentle-introduction-to-apache-arrow-with-apache-spark-and-pandas-bb19ffe0ddae](A gentle introduction to Apache Arrow with Apache Spark and Pandas)
+
+
 # Airflow
 
 ## Concepts

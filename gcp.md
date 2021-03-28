@@ -1,5 +1,6 @@
+# First Steps
 
-# Installing on Cloud SDK ChromeBook (Crostini amd64/arm64)
+## Installing on Cloud SDK ChromeBook (Crostini amd64/arm64)
 
 From https://github.com/GoogleContainerTools/base-images-docker/issues/50 this worked on my Lenovo S33
 
@@ -11,7 +12,7 @@ echo "deb http://packages.cloud.google.com/apt cloud-sdk-stretch main" | tee -a 
 
 This takes suprisingly long for some reason. 
 
-# Setting up SDK/CLI (this works on Crostini)
+## Setting up SDK/CLI (this works on Crostini)
 
 ```
 gcloud auth login
@@ -20,9 +21,7 @@ Your browser has been opened to visit:
     https://accounts.google.com/
 ...
 ```
-
 Then authorize within the browser
-
 
 ```
 $ gcloud config set project <PROJECT>
@@ -43,7 +42,11 @@ You can use the [interactive shell](https://cloud.google.com/sdk/docs/interactiv
 $ gcloud beta interactive
 ```
 
-# Config settings
+## Running through Docker
+
+See https://cloud.google.com/sdk/docs/downloads-docker
+
+## Config settings
 
 ```
 $ gcloud config list
@@ -52,4 +55,10 @@ account = XXXX
 disable_usage_reporting = True
 project = XXXX
 ```
+## Authentication
 
+From https://cloud.google.com/docs/authentication
+* Principals - user & service accounts
+* Registered Applications - unique identities that present credentials
+
+ADC - see https://cloud.google.com/sdk/gcloud/reference/auth/application-default

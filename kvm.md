@@ -83,6 +83,13 @@ mfranz@mfranz-h30:~$ virsh dumpxml gitlab | egrep -i '(memory|cpu)'
   <vcpu placement='static'>2</vcpu>
 ```
 
+## Ensuring it starts on boot
+
+```
+$ virsh autostart <domain>
+
+```
+
 ## Changing Hardware
 
 ```

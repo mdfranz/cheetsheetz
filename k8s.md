@@ -11,10 +11,24 @@ scheduler            <unknown>
 etcd-0               <unknown>
 ```
 
+Default on k3s
+```
+ubuntu@k3s-xps7100:~$ k3ctl get componentstatuses
+Warning: v1 ComponentStatus is deprecated in v1.19+
+NAME                 STATUS    MESSAGE   ERROR
+controller-manager   Healthy   ok        
+scheduler            Healthy   ok   
+```
+
 ### Nodes
 
-https://kubernetes.io/docs/concepts/architecture/nodes/
+VM or hardware that includes:
+* kublet - agent that runs on each node 
+* container runtime
+* kube-proxy - maintains networking and firewall rules
 
+
+https://kubernetes.io/docs/concepts/architecture/nodes/
 https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md#the-kubernetes-node
 
 ## Service
@@ -51,7 +65,6 @@ Oauth
 # Bad things
 
 - https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/
-
 
 # Resources
 
@@ -123,6 +136,11 @@ Port
 Node Port
 Target Port
 
+
+# Helm
+
+- https://github.com/helm/helm/releases
+- https://helm.sh/docs/intro/quickstart/ 
 
 # Lite Implementations
 

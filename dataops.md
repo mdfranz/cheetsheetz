@@ -15,6 +15,7 @@
 - [Continuous Delivery For Machine Learning: Patterns And Pains - Emily Gorcenski](https://www.youtube.com/watch?v=bFW5mZmj0nQ) - great talk, I saw this in person in January 2020.
 - [CI/CD + ML == MLOps - The Way To Speed Bringing Machine Learning To Production - David Aronchick](https://www.youtube.com/watch?v=uOCR4Xw-BZ8) - this as well!
 - [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V)
+- [Data Pipelines @ Samsara](https://medium.com/samsara-engineering/data-pipelines-samsara-64596dbc2137) - March 2021
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -43,6 +44,7 @@
 - [We’re All Using Airflow Wrong and How to Fix It ](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 - [Testing in Airflow Part 1 — DAG Validation Tests, DAG Definition Tests and Unit Tests](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
 - [Speed up your Airflow development with Docker and tests](https://ulysse-hg.medium.com/speed-up-your-airflow-development-with-docker-and-tests-a8449d443174)
+- [Viewflow](https://github.com/datacamp/viewflow) - a framework built on the top of Airflow that enables data scientists to create materialized views. It allows data scientists to focus on the logic of the view creation in their preferred tool
 
 ## Dagster
 - [Dagster Concepts](https://docs.dagster.io/concepts)
@@ -75,7 +77,11 @@
 
 ## Data Versioning & Validation 
 - [DVC](https://dvc.org/) - is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
+
+### DBT
 - [DBT](https://www.getdbt.com/)
+- [Taming the Dependency Hell with dbt](https://medium.com/tiqets-tech/taming-the-dependency-hell-with-dbt-2491771a11be) - March 2021
+
 
 ### Great Expectations
 - [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality and https://greatexpectations.io/

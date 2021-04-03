@@ -61,4 +61,16 @@ From https://cloud.google.com/docs/authentication
 * Principals - user & service accounts
 * Registered Applications - unique identities that present credentials
 
-ADC - see https://cloud.google.com/sdk/gcloud/reference/auth/application-default
+
+# IAC Tools
+- https://cloud.google.com/foundation-toolkit
+
+
+## Terraform
+- https://cloud.google.com/docs/terraform
+- https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
+
+## Deployment Manager
+- https://cloud.google.com/deployment-manager
+- https://github.com/GoogleCloudPlatform/deploymentmanager-samples/
+- https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/tree/master/dm

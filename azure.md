@@ -17,11 +17,10 @@ See https://github.com/rlevchenko/terraform-azure-data has multiple data and mes
 - https://github.com/grayjeremy/terraform-azurerm-eventgrid-blob 
 
 ## Event Hubs
-- [Azure Event Hubs — A big data streaming platform and event ingestion service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
+- [Azure Event Hubs — A big data streaming platform and event ingestion service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about) 
 - [Azure Event Hubs Documentation](https://docs.microsoft.com/en-us/azure/event-hubs/)
-
 - [Automatically deploy and configure EventHubs, Stream Analytics, and CosmosDB using Terraform](https://tsuyoshiushio.medium.com/automatically-deploy-and-configure-eventhubs-stream-analytics-and-cosmosdb-using-terraform-16aa5a34240e_) (March, 2018)
 
 ### Code
+- [Send events to or receive events from event hubs by using Python (azure-eventhub)](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-python-get-started-send) using [azure-eventhub](https://pypi.org/project/azure-eventhub/)
 - https://github.com/claranet/terraform-azurerm-eventhub
-- 

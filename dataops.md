@@ -93,13 +93,18 @@
 ## Other Open Source Tools 
 - [Apache Camel](https://camel.apache.org/)
 - [Airbyte](https://github.com/airbytehq/airbyte)
+- [Benthos](https://www.benthos.dev)
 - [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
 - [H20 AutoML](https://www.h2o.ai/products/h2o/)
 - [Meltano](https://gitlab.com/meltano/meltano)
+- [Firebolt](https://github.com/digitalocean/firebolt)
 - [Pachyderm](https://github.com/pachyderm/pachyderm) and [Deploy on a Cloud via K8s](https://docs.pachyderm.com/latest/deploy-manage/deploy/amazon_web_services/)
 - [PrefectCore](https://github.com/prefecthq/prefect) 
 - [PipelineWise](https://github.com/transferwise/pipelinewise) 
 - [Singer](https://www.singer.io/) 
+
+## Observability
+- [Databand](https://github.com/databand-ai)
 
 # Vendors 
 - [Dot Science](https://dotscience.com)

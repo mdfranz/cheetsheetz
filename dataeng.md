@@ -1,4 +1,4 @@
-This is a set of resources on analytics and data engineering teams. Focuses more architectural and organizational issues
+This is a set of resources on analytics and data engineering teams. Focuses more architectural and organizational issues than technical tooling.
 
 # Books & Guides
 - [Introducing the New ABCs of Data](https://medium.com/analytics-vidhya/introducing-the-new-abcs-of-data-8f4f3b6418b6) - September 2020
@@ -42,7 +42,7 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [How should our company structure our data team?](https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d)
 
 # Observability
-- [https://towardsdatascience.com/introducing-the-five-pillars-of-data-observability-e73734b263d5](https://towardsdatascience.com/introducing-the-five-pillars-of-data-observability-e73734b263d5)
+- [Introducing the Five Pillars of Observability](https://towardsdatascience.com/introducing-the-five-pillars-of-data-observability-e73734b263d5)
 
 # Data Mesh
 - [The Distributed Data Mesh as a Solution to Centralized Data Monoliths](https://www.infoq.com/news/2020/01/distributed-data-mesh/) - January 2020

@@ -26,6 +26,7 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [Establish a Center of Excellence](https://docs.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish) - Microsoft Power BI
 - [Analytics at Netflix: Who We Are and What We Do](https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965)
 - [Roles in a Data Team](https://towardsdatascience.com/roles-in-a-data-team-d97a87fdabaa)
+- [What Skills Does a Data Engineer Need?](https://betterprogramming.pub/what-skills-does-a-data-engineer-need-55ea69f77422) - April 2021
 
 # Articles on Team Structure
 - [Team structure for Successful BI/Data Warehouse/Assisted Intelligence and Machine Learning](https://medium.com/analytics-vidhya/team-structure-for-successful-bi-data-warehouse-assisted-intelligence-and-machine-learning-bd245a5e2858) - April 2020 by Geoff Leigh

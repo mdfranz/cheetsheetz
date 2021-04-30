@@ -76,8 +76,12 @@ Oauth
 
 ## Attachable Volumes
 
-# System Services (kube-system)
 
+## CRD
+- https://www.bmc.com/blogs/kubernetes-crd-custom-resource-definitions/
+- https://itnext.io/crd-is-just-a-table-in-kubernetes-13e15367bbe4
+
+# System Services (kube-system)
 
 ## Kube Proxy
 
@@ -136,11 +140,22 @@ Port
 Node Port
 Target Port
 
+# Packaging 
 
-# Helm
-
+##  Helm
 - https://github.com/helm/helm/releases
 - https://helm.sh/docs/intro/quickstart/ 
+- https://codefresh.io/docs/docs/new-helm/helm-best-practices/
+- https://rafay.co/the-kubernetes-current/the-ultimate-guide-to-helm-charts/
+
+## Operator Pattern
+
+- https://codeburst.io/kubernetes-operators-by-example-99a77ea4ac43
+- https://digitalis.io/blog/kubernetes/kubernetes-operators-pros-and-cons/
+- https://www.bluematador.com/blog/using-helm-for-kubernetes-management-and-configuration
+- https://cloudblogs.microsoft.com/opensource/2020/04/02/when-to-use-helm-operators-kubernetes-ops/
+- https://www.openshift.com/blog/build-kubernetes-operators-from-helm-charts-in-5-steps
+- https://medium.com/operators/operator-pattern-kubernetes-openshift-380ddc6a147c
 
 # Lite Implementations
 

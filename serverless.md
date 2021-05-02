@@ -7,10 +7,11 @@
 ## OpenFAAS
 
 # Deployment 
+
+## ARC
+- [Architect](https://arc.codes/docs/en/guides/get-started/quickstart)
+
 ## Serverless Framework
-
-
-
 # Security
 - [PureSec Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security)
 - [CSA Top 12](https://cloudsecurityalliance.org/blog/2019/02/11/critical-risks-serverless-applications/) - Feb 2019

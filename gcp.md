@@ -74,3 +74,12 @@ From https://cloud.google.com/docs/authentication
 - https://cloud.google.com/deployment-manager
 - https://github.com/GoogleCloudPlatform/deploymentmanager-samples/
 - https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/tree/master/dm
+
+# Account Security
+
+## Auditing
+
+- [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit)
+- [Managing Log Buckets](https://cloud.google.com/logging/docs/buckets)
+
+

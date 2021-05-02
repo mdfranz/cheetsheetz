@@ -3,16 +3,18 @@
 
 ## Using Documentation
 
+See https://golang.org/doc/
+
 ### Install local godoc server
 
 ```
-$go get -v  golang.org/x/tools/cmd/godoc
+go get -v  golang.org/x/tools/cmd/godoc
 ```
 
 and run from a non-code directory (or else, LOL)
 
 ```
-$ godoc -http=:9999
+godoc -http=:9999
 using GOPATH mode
 ```
 

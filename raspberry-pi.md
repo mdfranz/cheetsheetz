@@ -1,6 +1,3 @@
-
-
-
 # Hardware / Architecture
 
 | Name | |  Processor from lshw | Linux Kernel | Bits |
@@ -13,3 +10,6 @@ See https://elinux.org/RPi_HardwareHistory
 
 # Pi Specific Code
 - https://github.com/raspberrypi/userland
+
+
+# Argon Code 

@@ -51,7 +51,10 @@
 - [Building shared spaces for data teams at Drizly](https://dagster.io/blog/shared-spaces-at-drizly)
 - [Dagster: Workflows for Data Science, Machine Learning, and Data Engineering](https://www.datacouncil.ai/talks/dagster-workflows-for-data-science-machine-learning-and-data-engineering)
 
-
+## Metaflow (Netflix) 
+- [Metaflow](https://metaflow.org/) 
+- [source](https://github.com/Netflix/metaflow)
+- [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
 
 ## Mlfow (DataBricks)
 - [Simplifying Model Management with MLflow](https://databricks.com/session_eu19/1-simplifying-model-management-with-mlflow)

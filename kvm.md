@@ -7,7 +7,7 @@ KVM acceleration can be used
 ```
 
 # Install  uvtools
-```apt install uvtool virt-manager```
+```apt install uvtool```
 
 See https://help.ubuntu.com/lts/serverguide/cloud-images-and-uvtool.html
 
@@ -20,7 +20,7 @@ See https://help.ubuntu.com/community/KVM/Installation
 # Sync VMs
 
 ```
-uvt-simplestreams-libvirt --verbose sync release=xenial arch=amd64
+uvt-simplestreams-libvirt --verbose sync release=focal arch=amd64
 uvt-simplestreams-libvirt --verbose sync release=bionic arch=amd64
 ```
 
@@ -96,6 +96,6 @@ $ virsh autostart <domain>
 $ virsh edit <domain>
 ```
 
-Settings that I've changed
+Settings that I've changed:
 - memory
 - vcpu

@@ -15,6 +15,14 @@
 - https://github.com/russellhaering/gosaml2
 - https://gluu.org/docs/gluu-server/4.0/admin-guide/saml/
 
+## Python
+- https://pysaml2.readthedocs.io/en/latest/
+- https://pythonhosted.org/python-saml/
+- https://pypi.org/project/django-saml2-pro-auth/ 
+- https://python-social-auth.readthedocs.io/en/latest/backends/saml.html
+- https://developers.onelogin.com/saml/python
+- https://github.com/OTA-Insight/djangosaml2idp 
+
 # Tutorials
 
 - https://medium.com/disney-streaming/setup-a-single-sign-on-saml-test-environment-with-docker-and-nodejs-c53fc1a984c9

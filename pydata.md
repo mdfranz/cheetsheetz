@@ -7,7 +7,6 @@
 - [https://towardsdatascience.com/a-gentle-introduction-to-apache-arrow-with-apache-spark-and-pandas-bb19ffe0ddae](A gentle introduction to Apache Arrow with Apache Spark and Pandas)
 
 
-
 # Airflow
 ## Concepts
 ### DAG
@@ -41,6 +40,9 @@ Consists of different types of tasks (that consist of operators)
 ## Anomaly Detection & Forecasting Libraries
 - [Luminaire](https://zillow.github.io/luminaire/)
 - [Prophet](https://facebook.github.io/prophet/docs/quick_start.html) - a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. 
+
+# Querybook
+- [Querybook](https://www.querybook.org/) - Querybook is Pinterest’s open-source big data IDE via a notebook interface.
 
 # Ray
 - [Ray Open Source](https://www.anyscale.com/ray-open-source) - Ray provides a simple, universal API for building distributed applications.

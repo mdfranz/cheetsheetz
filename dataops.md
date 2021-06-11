@@ -40,6 +40,8 @@
 - [Airflow Confluence Site](https://cwiki.apache.org/confluence/display/AIRFLOW/)
 - [ETL Best Practices with Apache Airflow](https://gtoonstra.github.io/etl-with-airflow/index.html)
 - [AirFlow on K8S](https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/)
+- [Running Airflow on AWS Fargate](https://aws.amazon.com/blogs/containers/running-airflow-on-aws-fargate/) - 2021
+- [Amazon Managed Workflows for Apache Airflow (MWAA)](https://aws.amazon.com/managed-workflows-for-apache-airflow/)
 - [How we used AirFlow at CrowdStrike](https://www.crowdstrike.com/blog/how-we-use-apache-airflow-part-1/)
 - [We’re All Using Airflow Wrong and How to Fix It ](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 - [Testing in Airflow Part 1 — DAG Validation Tests, DAG Definition Tests and Unit Tests](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)

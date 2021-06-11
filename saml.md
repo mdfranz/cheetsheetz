@@ -16,12 +16,9 @@
 ## Online
 - https://samltest.id/
 
-## Full Solutions
-- https://www.keycloak.org/docs/latest/server_admin/#_saml
-- https://gluu.org/docs/gluu-server/4.0/admin-guide/saml/
-
-# Misc
-- https://github.com/amdonov/lite-idp
+## Packaged Solutions
+- [Keycloak](https://www.keycloak.org/docs/latest/server_admin/#_saml)
+- [Gluu](https://gluu.org/docs/gluu-server/4.0/admin-guide/saml/)
 
 ## Python
 - https://pysaml2.readthedocs.io/en/latest/
@@ -35,9 +32,9 @@
 - https://github.com/crewjam/saml
 - https://github.com/russellhaering/gosaml2
 - https://github.com/BeryJu/saml-test-sp
+- https://github.com/amdonov/lite-idp
 
 # Docker Rigs
-
 - https://hub.docker.com/r/tozny/simplesaml/
 - https://github.com/chrisUsick/docker-test-saml-sp
 - https://github.com/kristophjunge/docker-test-saml-idp

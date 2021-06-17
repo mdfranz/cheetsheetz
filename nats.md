@@ -3,6 +3,7 @@
 - [https://medium.com/capital-one-tech/lightweight-cloud-native-messaging-with-nats-ad730ca2becf](Lightweight, Cloud-Native Messaging with NATS) - 2018
 - [https://oswalt.dev/2019/09/kicking-the-tires-with-the-nats-go-client/](Kicking the Tires With the NATS Go Client)
 - [https://www.slideshare.net/wallyqs/sf-python-meetup-introduction-to-nats-messaging-with-python3k](SF Python Meetup - Introduction to NATS Messaging with Python3) - June 2019
+- [Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13) - May 2021
 
 # Ops
 ## Get & Config
@@ -25,9 +26,8 @@ Monitoring with Telegraf
 ```
 
 ## Management
-
 - https://docs.nats.io/nats-tools/nsc
-
+- https://github.com/nats-io/natscli - This should have everything now for 2.2.x
 
 # Hello World-ish
 
@@ -37,10 +37,6 @@ go get github.com/nats-io/go-nats-examples/tools/nats-sub`
 ```
 
 And follow https://docs.nats.io/nats-server/clients
-
-# Libraries
-- https://github.com/nats-io/nats.rs
-- https://github.com/nats-io/stan.py
 
 # Videos
 [Think Differently](https://www.youtube.com/watch?v=ud-cdirF8OA) - OSCON 2019

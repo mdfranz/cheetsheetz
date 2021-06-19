@@ -4,6 +4,7 @@
 - [https://oswalt.dev/2019/09/kicking-the-tires-with-the-nats-go-client/](Kicking the Tires With the NATS Go Client)
 - [https://www.slideshare.net/wallyqs/sf-python-meetup-introduction-to-nats-messaging-with-python3k](SF Python Meetup - Introduction to NATS Messaging with Python3) - June 2019
 - [Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13) - May 2021
+- [NATS Messaging - Part 1](https://choria.io/blog/post/2020/03/23/nats_patterns_1/)
 
 # Ops
 ## Get & Config
@@ -41,3 +42,8 @@ And follow https://docs.nats.io/nats-server/clients
 # Videos
 [Think Differently](https://www.youtube.com/watch?v=ud-cdirF8OA) - OSCON 2019
 
+
+# Sample Code & Projects (JetStream)
+## Golang
+- https://github.com/pkbhowmick/nats-demo
+- 

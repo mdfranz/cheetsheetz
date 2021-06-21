@@ -6,6 +6,7 @@
 - [Semgrep](https://semgrep.dev/)
 
 # Programs
+- [Gitlab Security Engineering](https://about.gitlab.com/handbook/engineering/security/)
 - [A Warrior's Journey: Building a Global AppSec Program - OWASP Global AppSec 2020](https://www.linkedin.com/pulse/warriors-journey-building-global-appsec-program-owasp-brian-levine)
 
 # Standards & Maturity Models

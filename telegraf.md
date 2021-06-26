@@ -6,6 +6,25 @@
 
 # Inputs
 
+
+Dropping Fields that are bad
+
+I encountered 
+
+```
+Jun 25 21:19:20 dell-inspiron-15 telegraf[7719]: 2021-06-26T01:19:20Z E! [outputs.influxdb] E! [outputs.influxdb] Failed to write metric (will be dropped: 400 Bad Request): partial write: field type conflict: input field "allocator_frag_bytes" on measurement "redis" is type float, already exists as type integer dropped=1
+
+```
+
+So dropped it
+
+```
+[[inputs.redis]]
+   servers = ["tcp://localhost:6379"]
+   fielddrop = ["allocator_frag_bytes"]
+```
+
+
 ## Physical Stuff
 
 ```
@@ -46,6 +65,8 @@ This was for Benthos
 
 data_format = "json"
 ```
+
+
 
 
 ## Networking

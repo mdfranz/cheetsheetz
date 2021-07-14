@@ -42,3 +42,4 @@
 - https://github.com/winstonhong/Shibboleth-SAML-IdP-and-SP
 - https://github.com/kenchan0130/docker-simplesamlphp 
 - https://hub.docker.com/r/beryju/saml-test-sp
+- https://github.com/keycloak/keycloak-containers/tree/master/docker-compose-examples

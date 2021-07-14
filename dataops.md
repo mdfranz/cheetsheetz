@@ -16,6 +16,7 @@
 - [CI/CD + ML == MLOps - The Way To Speed Bringing Machine Learning To Production - David Aronchick](https://www.youtube.com/watch?v=uOCR4Xw-BZ8) - this as well!
 - [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V)
 - [Data Pipelines @ Samsara](https://medium.com/samsara-engineering/data-pipelines-samsara-64596dbc2137) - March 2021
+- [MLOps — Is it a Buzzword??? Part -1](https://medium.com/walmartglobaltech/mlops-is-it-a-buzzword-part-1-8573fe95290e) - June 2021, Walmart Labs
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)

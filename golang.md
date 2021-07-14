@@ -28,3 +28,9 @@ You should see all your installed packages under *Third Party*
 - https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae 
 - https://levelup.gitconnected.com/how-to-use-context-to-manage-your-goroutines-like-a-boss-ef1e478919e6
 - 
+
+
+# JSON Parsing
+
+# Logging
+- https://www.honeybadger.io/blog/golang-logging/

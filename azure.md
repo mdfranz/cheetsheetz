@@ -1,4 +1,18 @@
-# Messaging 
+
+# Azure Functions
+
+## Python
+- [Azure Functions Python Developer Guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=application-level)
+
+## Go 
+- [Deploying an Azure Function in Go](https://www.hildeberto.com/2021/01/azure-function-golang-2.html)
+
+
+## Deployment 
+- [How to deploy a Python Function App in Azure with Terraform](https://medium.com/datasparq-technology/how-to-deploy-a-python-function-app-in-azure-with-terraform-68af428a6c9a) and 
+- [Provisioning Azure Functions Using Terraform](https://www.hildeberto.com/2021/03/terraform-azure-function.html)
+
+# Messaging Services
 [AMQP 1.0 in Azure Service Bus and Event Hubs protocol guide](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide)
 
 See https://github.com/rlevchenko/terraform-azure-data has multiple data and messaging services

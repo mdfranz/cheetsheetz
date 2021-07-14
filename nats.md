@@ -5,7 +5,7 @@
 - [SF Python Meetup - Introduction to NATS Messaging with Python3](https://www.slideshare.net/wallyqs/sf-python-meetup-introduction-to-nats-messaging-with-python3k)
 - June 2019
 - [Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13) - May 2021
-- [NATS Messaging - Part 1](https://choria.io/blog/post/2020/03/23/nats_patterns_1/)
+- [NATS Messaging - Part 1](https://choria.io/blog/post/2020/03/23/nats_patterns_1/) and [Part 6](https://choria.io/blog/post/2020/03/30/nats_patterns_6/)
 
 ## Comps
 - [Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)

@@ -2,8 +2,8 @@
 - Get tgz from  https://golang.org/dl/ and go to https://golang.org/doc/install
 
 ## Using Documentation
-
-See https://golang.org/doc/
+- https://golang.org/doc/
+- https://pkg.go.dev/
 
 ### Install local godoc server
 

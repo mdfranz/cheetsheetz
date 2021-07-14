@@ -112,6 +112,14 @@
 - [PipelineWise](https://github.com/transferwise/pipelinewise) 
 - [Singer](https://www.singer.io/) 
 
+
+## Lineage and Metadata Management
+- [DataHub](https://github.com/linkedin/datahub)
+- [OpenLineage](https://github.com/OpenLineage/OpenLineage)
+- [Apache Atlas](https://atlas.apache.org/#/)
+- [Marquez](https://github.com/MarquezProject/marquez)
+- [Tokern](https://tokern.io/)
+
 ## Observability
 - [Databand](https://github.com/databand-ai)
 

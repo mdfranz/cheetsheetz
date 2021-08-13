@@ -48,6 +48,10 @@
 - [Testing in Airflow Part 1 — DAG Validation Tests, DAG Definition Tests and Unit Tests](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
 - [Speed up your Airflow development with Docker and tests](https://ulysse-hg.medium.com/speed-up-your-airflow-development-with-docker-and-tests-a8449d443174)
 - [Viewflow](https://github.com/datacamp/viewflow) - a framework built on the top of Airflow that enables data scientists to create materialized views. It allows data scientists to focus on the logic of the view creation in their preferred tool
+- [AirFlow DAG Best Practices](https://medium.com/swlh/airflow-dag-best-practices-716ac95b82d1)
+
+### AirFlow 2.0
+- [Is Apache Airflow 2.0 good enough for current data engineering needs?](https://towardsdatascience.com/is-apache-airflow-2-0-good-enough-for-current-data-engineering-needs-6e152455775c#85c9)
 
 ## Dagster
 - [Dagster Concepts](https://docs.dagster.io/concepts)
@@ -75,6 +79,7 @@
 - [Seldon](https://github.com/SeldonIO) - Seldon Core an open source platform for deploying machine learning models on a Kubernetes cluster.
 - [Argo CD](https://argoproj.github.io/argo-cd/) 
 - [Flyte](https://lyft.github.io/flyte/) - a structured programming and distributed processing platform created at Lyft that enables highly concurrent, scalable and maintainable workflows for machine learning and data processing.
+- [
 
 ## Mleap
 - https://medium.com/rv-data/mleap-providing-near-real-time-data-science-with-apache-spark-c34e7df093ca

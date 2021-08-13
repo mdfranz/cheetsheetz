@@ -9,6 +9,10 @@
 - [Smart Church 2020](https://smartchurch2020.org/)
 - [Ministry Business Services](https://www.mbsinc.com/) - see their [articles](https://www.mbsinc.com/articles/)
 
+## Portals & Hubs
+- [Church Tech Today](https://churchtechtoday.com/)
+- [Faith Engineer](https://www.faithengineer.com/)
+
 
 # Non-Profit Tech
 

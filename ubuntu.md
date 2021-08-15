@@ -38,5 +38,37 @@ Would you like the LXD server to be available over the network? (yes/no) [defaul
 Would you like stale cached images to be updated automatically? (yes/no) [default=yes] 
 Would you like a YAML "lxd init" preseed to be printed? (yes/no) [default=no]: no
 ```
+# Citrix
 
-	
+Download [Workspaces](https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html)
+
+Do not install app protection component
+
+```
+ sudo dpkg -i icaclient_21.6.0.28_amd64.deb 
+[sudo] password for mfranz: 
+Selecting previously unselected package icaclient.
+(Reading database ... 218596 files and directories currently installed.)
+Preparing to unpack icaclient_21.6.0.28_amd64.deb ...
+Unpacking icaclient (21.6.0.28) ...
+Setting up icaclient (21.6.0.28) ...
+^[[1;3B/usr/bin/sudo
+Synchronizing state of ctxlogd.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable ctxlogd
+Created symlink /etc/systemd/system/multi-user.target.wants/ctxlogd.service → /lib/systemd/system/ctxlogd.service.
+Processing triggers for systemd (245.4-4ubuntu3.11) ...
+Processing triggers for gnome-menus (3.36.0-1ubuntu1) ...
+Processing triggers for desktop-file-utils (0.24-1ubuntu3) ...
+Processing triggers for mime-support (3.64ubuntu1) ...
+```
+
+Login to your foo.blah.com domain in Firefox
+
+Select detect receiver
+
+You will receive multiple errors, but ultimately you'll need to do
+
+```
+sudo ln -s /usr/share/ca-certificates/mozilla/* /opt/Citrix/ICAClient/keystore/cacerts
+```
+

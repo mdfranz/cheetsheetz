@@ -4,6 +4,7 @@
 
 # Open Source Static Analysis
 - [Semgrep](https://semgrep.dev/)
+- [gokart](https://github.com/praetorian-inc/gokart)
 
 # Programs
 - [Gitlab Security Engineering](https://about.gitlab.com/handbook/engineering/security/)

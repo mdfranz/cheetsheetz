@@ -16,5 +16,7 @@
 
 # Non-Profit Tech
 
+- [Tech Soup](https://www.techsoup.org/)  - great place to get reduce price software
+
 ## Organizations / Consortia
 - [nten](https://www.nten.org/)

@@ -6,9 +6,9 @@ This is the basic setup I use on bare-metal Ubuntu Servers (amd64 or aarch64)
 
 # Raspberry Pi Disk Setup
 
-For RPI (Jetson) that I use non-trivially I put the /var and /home partition on an external USB drive
+For RPI (or Jetson) that I use non-trivially I put the /var and /home partition on an external USB drive
 
-This is so whatever you are doing in your home directory or /var (for docker or LXC or whatever) doesn't hit the SD-Card. 
+This is so whatever you are doing in your home directory or /var (for docker or LXC or whatever) doesn't hit the SD-Card. Reminder `blkid` allows you to see the LABELs. 
 
 I usually stop `snapd` and `lxd` services  prior to rsyncing over
 

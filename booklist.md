@@ -1,4 +1,3 @@
-[X] are MUST READs IMHO. 
 
 # Product Development 
 - Abbot & Fisher, _The Art of Scalability: Scalable Web Architecture, Proceses & Organizations for the Modern Enterprise_ (Wiley, 2010)
@@ -82,3 +81,6 @@
 
 ## Vietnam
 - Saliba, _Death in the Highlands: The Seige of Special Forces Camp Plei Mei_
+
+# Caveats
+- [X] are MUST READ not the ones I've read, 

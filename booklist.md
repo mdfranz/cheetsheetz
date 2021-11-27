@@ -15,7 +15,7 @@
 - Nygard, _Release It: Design & Deploy Production-Ready Software_ (Pragmatic Pogrammers, 2007)
 - Perri, _Escaping the Build Trap: How Effective Product Management Creates Real Value_
 - Seiden, _Outcomes Over Output: Why customer behvior is the key metric for business success_
-* Skelton & Pais, _Team Topologies: Organization Business and Technology Teams for Fast Flow_, (IT Revolution, 2019)
+- [X] Skelton & Pais, _Team Topologies: Organization Business and Technology Teams for Fast Flow_, (IT Revolution, 2019)
 
 # Management & Leadership
 - Garvey Berger, _Unlocking Leadership Mindtraps: How to Thrive in Complexity_

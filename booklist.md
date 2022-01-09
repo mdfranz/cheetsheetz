@@ -1,4 +1,3 @@
-
 # Product Development 
 - Abbot & Fisher, _The Art of Scalability: Scalable Web Architecture, Proceses & Organizations for the Modern Enterprise_ (Wiley, 2010)
 - [X] Belotti, _Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)_ (No Starch, 2021)
@@ -17,6 +16,7 @@
 - Perri, _Escaping the Build Trap: How Effective Product Management Creates Real Value_
 - Seiden, _Outcomes Over Output: Why customer behvior is the key metric for business success_
 - [X] Skelton & Pais, _Team Topologies: Organization Business and Technology Teams for Fast Flow_, (IT Revolution, 2019)
+- Whittaker & _How Google Tests Software_
 
 # Management & Leadership
 - [X]  Garvey Berger, _Unlocking Leadership Mindtraps: How to Thrive in Complexity_
@@ -34,7 +34,7 @@
 - Larson & Reilly, _Staff Engineer: Leaderhisp beyond the management track_
 - [X] Larson, _An Elegant Puzzle: Systems of Engineering Management_
 - Nazaria, _Technical Minds: Leading and Getting the Best Work from you Technicall-Minded Team_ (2010)
-- Nighitngale, _How F*cked Up is Your Management: An uncomfortable conversation about modern leadership_
+- Nightingale, _How F*cked Up is Your Management: An uncomfortable conversation about modern leadership_
 
 ## Military-Style Leadership
 - Edwards, _The Burden of Command_ (2014)
@@ -56,6 +56,7 @@
 - [X] Helfland, _Dynamic Reteaming: The Art & Wisdom of Changing Teams_
 - Kotter, _Leading Change_
 - [X] McCord, _Powerful: Building a Culture of Freedom & Responsibility_
+- [X] Naryan, _Agile IT Organizational Design_ (Wiley)
 - Schein, _Organizational Culture & Leadership_
 
 # Systems Thinking & Complexity Science
@@ -69,6 +70,8 @@
 
 # CyberSecurity
 - Carlson, _How to Manage Cybersecurity Risk: A Security Leader's Roadmap with Open FAIR_
+- Kaplan, _Beyond CyberSecurity_
+
 
 # History & Biography
 ## WW2
@@ -78,6 +81,7 @@
 - Orange, _Park: The Biography of Air Chief Marshal Sir Keith Park_
 - Roll, _George Marshall: Defender of the Republic_
 - Truscott, _Command Missions: A Personal Story_
+
 
 ## Vietnam
 - Saliba, _Death in the Highlands: The Seige of Special Forces Camp Plei Mei_

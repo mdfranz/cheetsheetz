@@ -6,8 +6,8 @@
 - [Manager Tools: Solution to Stalled Tech Career](https://www.manager-tools.com/2005/06/solution-to-a-stalled-technical-career)
 
 # Blogs & Newsletters
--[Building a technical career path at Spotify](https://engineering.atspotify.com/2016/02/technical-career-path/)
--[Why we re-designed our engineering career paths at CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
+- [Building a technical career path at Spotify](https://engineering.atspotify.com/2016/02/technical-career-path/)
+- [Why we re-designed our engineering career paths at CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
 
 # Career Ladders
 See [Every Public Engineering Career Ladder](https://www.swyx.io/career-ladders) and [progression.fyi](https://www.progression.fyi/)

@@ -6,4 +6,13 @@
 - [Manager Tools: Solution to Stalled Tech Career](https://www.manager-tools.com/2005/06/solution-to-a-stalled-technical-career)
 
 # Blogs & Newsletters
-- 
+-[Building a technical career path at Spotify](https://engineering.atspotify.com/2016/02/technical-career-path/)
+-[Why we re-designed our engineering career paths at CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
+
+# Career Ladders
+See [Every Public Engineering Career Ladder](https://www.swyx.io/career-ladders) and [progression.fyi](https://www.progression.fyi/)
+- [How Individuals Advance at Buffer, Without Becoming Managers](https://buffer.com/resources/career-framework/)
+- [Engineering levels at Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
+- [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+- [Square's Growth Framework for Engineers & Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)

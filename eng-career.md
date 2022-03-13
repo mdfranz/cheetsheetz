@@ -19,3 +19,5 @@ See [Every Public Engineering Career Ladder](https://www.swyx.io/career-ladders)
 - [Gitlab Engineering Roles](https://about.gitlab.com/job-families/engineering/)
 - [Lifery Career Ladder](https://github.com/liefery-it-legacy/it-career-ladder)
 - [Square's Growth Framework for Engineers & Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)
+
+I've saved some [here](https://gitlab.com/mdfranz/cheetsheetz/-/tree/master/career)

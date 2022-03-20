@@ -6,4 +6,11 @@
 - [Manager Tools: Solution to Stalled Tech Career](https://www.manager-tools.com/2005/06/solution-to-a-stalled-technical-career)
 
 # Blogs & Newsletters
+
+# Career Ladders
+- [Engineering Ladders](http://www.engineeringladders.com/)
+- [Better Engineering Career Ladder](https://better.engineering/career-ladder/)
+
+# Examples from Org
+- [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
 - 

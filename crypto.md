@@ -6,6 +6,9 @@
 
 ## Smart Contracts 
 - [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05/) - July 2016
+- [How to develop, test, and deploy smart contracts using Ganache](https://blog.logrocket.com/develop-test-deploy-smart-contracts-ganache/) - Oct 2021
+
+
 
 # Ethereum
 - [A Gentle Introduction to Ethereum Programming](https://blog.openzeppelin.com/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094/)
@@ -22,4 +25,9 @@
 
 ### Tooling
 - [Truffle Suite](https://trufflesuite.com/) including [ganache](https://github.com/trufflesuite/ganache) 
+- [How to Fork Ethereum Blockchain with Ganache](https://www.quicknode.com/guides/web3-sdks/how-to-fork-ethereum-blockchain-with-ganache)
+- [How to Setup Local Development Environment for Solidity](https://www.quicknode.com/guides/web3-sdks/how-to-setup-local-development-environment-for-solidity)
+- [Hardhat](https://hardhat.org/)
 
+# Misc
+- https://github.com/rsksmart/

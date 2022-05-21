@@ -75,3 +75,6 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 
 
 
+# Security
+- [Account Takeover (ATO) Checklist](https://github.com/magoo/ato-checklist/blob/master/README.md)
+- [dorothy](https://github.com/elastic/dorothy)

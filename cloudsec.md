@@ -13,6 +13,8 @@
 - [So You Inherited an AWS Account](https://medium.com/swlh/so-you-inherited-an-aws-account-e5fe6550607d) - April 2020
 - [AWS Organizations in 2021](https://www.chrisfarris.com/post/aws-organizations-in-2021/)
 
+## Logs
+- [Overview of AWS Logs](https://dev-website.lab-terraform.mhg.ovh/overview-of-aws-logs.html) - October 2020
 
 ## IR
 - [AWS Security Hub Automated Response and Remediation](https://github.com/aws-solutions/aws-security-hub-automated-response-and-remediation)

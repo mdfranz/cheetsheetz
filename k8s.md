@@ -168,3 +168,6 @@ Target Port
 ## Microk8s
 
 ## KIND
+
+# Security Tools
+- [pixie](https://github.com/pixie-io/pixie)

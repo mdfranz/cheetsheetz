@@ -1,16 +1,14 @@
 
 
-# DeFi
-## Security
+# Security
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/index.html) and [repo](https://github.com/tinchoabbate/damn-vulnerable-defi)
 
-## Smart Contracts 
+# Smart Contracts 
 - [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05/) - July 2016
 
 # Ethereum
 - [A Gentle Introduction to Ethereum Programming](https://blog.openzeppelin.com/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094/)
 - [Ethereum in Depth](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/)
-
 
 ## Solidity
 - [Docs](https://docs.soliditylang.org)

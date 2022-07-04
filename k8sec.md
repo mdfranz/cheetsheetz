@@ -4,6 +4,11 @@
 - [Mapping Risks and Threats in Kubernetes to the MITRE ATT&CK Framework](https://blog.aquasec.com/mitre-attack-framework-for-containers)
 - [Center for Threat-Informed Defense teams up with Microsoft, partners to build the ATT&CK® for Containers matrix](https://www.microsoft.com/security/blog/2021/04/29/center-for-threat-informed-defense-teams-up-with-microsoft-partners-to-build-the-attck-for-containers-matrix/)
 
+# Attacking & Defending
+- [KubeCon NA 2019 CTF Guide](https://github.com/securekubernetes/securekubernetes/)
+- [Attacking and Defending K8S Cluster](https://www.youtube.com/watch?v=UdMFTdeAL1s) - Tutorial: Attacking and Defending Kube... Brad Geesaman, Jimmy Mesta, Tabitha Sable & Peter Benjamin (November 2019) 
+
+
 # Azure
 - [Microsoft Defender for Containers](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction)
 - [Security alerts - a reference guide](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference#alerts-k8scluster)

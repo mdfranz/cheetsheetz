@@ -1,5 +1,6 @@
 # Links Pages
 - [CloudSecDocs](https://cloudsecdocs.com/)
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 
@@ -10,6 +11,7 @@
 
 
 # AWS
+- https://github.com/jassics/awesome-aws-security
 - [Complete AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)
 - [Permissions Cloud](https://aws.permissions.cloud/)
 - [So You Inherited an AWS Account](https://medium.com/swlh/so-you-inherited-an-aws-account-e5fe6550607d) - April 2020

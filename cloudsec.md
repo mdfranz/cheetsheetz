@@ -1,5 +1,6 @@
 # Links Pages
 - [CloudSecDocs](https://cloudsecdocs.com/)
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 
@@ -9,6 +10,7 @@
 
 # AWS
 - [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
+- [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
 - [Complete AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)
 - [Permissions Cloud](https://aws.permissions.cloud/)
 - [So You Inherited an AWS Account](https://medium.com/swlh/so-you-inherited-an-aws-account-e5fe6550607d) - April 2020
@@ -52,6 +54,6 @@
 ## Forensics
 - [Cloud Forensic Utils](https://github.com/google/cloud-forensics-utils)
 - [Automated Incident Response & Forensics Framework](https://github.com/awslabs/aws-automated-incident-response-and-forensics)
+- [AWS Incident Response](https://github.com/easttimor/aws-incident-response)
 
 ## IAM
-

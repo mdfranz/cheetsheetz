@@ -7,9 +7,8 @@
 - [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 - [On Establishing a Cloud Security Program](On Establishing a Cloud Security Program) - May 2021
 
-
-
 # AWS
+- [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 - [Complete AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)
 - [Permissions Cloud](https://aws.permissions.cloud/)
 - [So You Inherited an AWS Account](https://medium.com/swlh/so-you-inherited-an-aws-account-e5fe6550607d) - April 2020

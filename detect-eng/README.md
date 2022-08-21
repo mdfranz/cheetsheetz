@@ -2,12 +2,12 @@
 - https://github.com/infosecB/awesome-detection-engineering
 
 # Blogs
-- [Detection Engineering and SOAR at Mercari](https://engineering.mercari.com/en/blog/entry/20220513-detection-engineering-and-soar-at-mercari/)
+- [Introducing Threatest, a Go framework for end-to-end testing of threat detection rules](https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/) - Aug 2022
+- [A Technical Primer in Detection Engineering](https://panther.com/cyber-explained/detection-engineering-benefits/) - June 2022
+- [Detection Engineering and SOAR at Mercari](https://engineering.mercari.com/en/blog/entry/20220513-detection-engineering-and-soar-at-mercari/) - May 2022
 - [Scale Incident Response with Detection Engineering: Intezer Detect & Hunt](https://www.intezer.com/blog/threat-hunting/scale-incident-response-detection-engineering/) - Mar 2022 
-- [https://cloud.google.com/blog/products/identity-security/security-automation-lessons-from-site-reliability-engineering-for-security-operations-center](https://cloud.google.com/blog/products/identity-security/security-automation-lessons-from-site-reliability-engineering-for-security-operations-center)
-- [https://panther.com/cyber-explained/detection-engineering-benefits/](https://panther.com/cyber-explained/detection-engineering-benefits/)
+- [Achieving Autonomic Security Operations: Automation as a Force Multiplier](https://cloud.google.com/blog/products/identity-security/security-automation-lessons-from-site-reliability-engineering-for-security-operations-center) - Feb 2022
 - [Lessons Learned in Detection Engineering](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856) - Ryan McGeehan, 2017 
-- [Introducing Threatest, a Go framework for end-to-end testing of threat detection rules](https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/)
 
 # Videos
 - [Threat Hunting SANS: What is Detection Engineering?](https://www.youtube.com/watch?v=ZcXTUKPK6x0) - Mar 2022

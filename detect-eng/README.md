@@ -1,5 +1,6 @@
 # Links Pages
 - https://github.com/infosecB/awesome-detection-engineering
+- https://twitter.com/i/lists/952735755838738432
 
 # Blogs
 - [Introducing Threatest, a Go framework for end-to-end testing of threat detection rules](https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/) - Aug 2022

@@ -16,6 +16,13 @@
 - [So You Inherited an AWS Account](https://medium.com/swlh/so-you-inherited-an-aws-account-e5fe6550607d) - April 2020
 - [AWS Organizations in 2021](https://www.chrisfarris.com/post/aws-organizations-in-2021/)
 
+## Detection Rules
+- [Elastic](https://github.com/elastic/detection-rules/tree/main/rules/integrations/aws)
+
+## Adversary Emulation Tools
+- [Stratus Red Team](https://github.com/DataDog/stratus-red-team)
+- [Pacu](https://github.com/RhinoSecurityLabs/pacu)
+
 ## Ransomware 
 - [Introducing the Ransomware Risk Management on AWS Whitepaper](https://aws.amazon.com/blogs/security/introducing-the-ransomware-risk-management-on-aws-whitepaper/) - Sept 2021
 - [NISTIR 7374](https://docs.aws.amazon.com/whitepapers/latest/ransomware-risk-management-on-aws-using-nist-csf/nistir-8374-ransomware-profile.html)

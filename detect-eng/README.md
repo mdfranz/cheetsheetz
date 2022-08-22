@@ -4,6 +4,7 @@
 
 # Blogs
 - [Introducing Threatest, a Go framework for end-to-end testing of threat detection rules](https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/) - Aug 2022
+- [Democratizing Security Detection](https://blog.palantir.com/democratizing-security-detection-71c689b667a5) - June 2022
 - [A Technical Primer in Detection Engineering](https://panther.com/cyber-explained/detection-engineering-benefits/) - June 2022
 - [Detection Engineering and SOAR at Mercari](https://engineering.mercari.com/en/blog/entry/20220513-detection-engineering-and-soar-at-mercari/) - May 2022
 - [Scale Incident Response with Detection Engineering: Intezer Detect & Hunt](https://www.intezer.com/blog/threat-hunting/scale-incident-response-detection-engineering/) - Mar 2022 
@@ -20,7 +21,7 @@
 - [Ryan Stillions Detection Maturity Level Model](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
 - [Detection Engineering Maturity Matrix](https://kyle-bailey.medium.com/detection-engineering-maturity-matrix-f4f3181a5cc7) - 2021
 
-## Palantir ADS
+## Palantir
 - [Alerting and Detection Strategy Framework](https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2) - 2017
 - [alerting-detection-strategy-frameowkr](https://github.com/palantir/alerting-detection-strategy-framework) - Github 
 

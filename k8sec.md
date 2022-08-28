@@ -12,6 +12,7 @@
 # Attacking & Defending
 - [KubeCon NA 2019 CTF Guide](https://github.com/securekubernetes/securekubernetes/)
 - [Attacking and Defending K8S Cluster](https://www.youtube.com/watch?v=UdMFTdeAL1s) - Tutorial: Attacking and Defending Kube... Brad Geesaman, Jimmy Mesta, Tabitha Sable & Peter Benjamin (November 2019) 
+- [OWASP K8S Top Ten](https://github.com/OWASP/www-project-kubernetes-top-ten)
 
 
 # Azure
@@ -23,8 +24,8 @@
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
 # SIEM Usage
-
-[Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)
+- [Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)
+- [Threat Hunting with Kubernetes Audit Logs](https://developer.squareup.com/blog/threat-hunting-with-kubernetes-audit-logs/)
 
 # Maintained Scanning Tools
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)

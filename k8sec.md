@@ -27,9 +27,16 @@
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
 # Logging and SIEM
+
+
 - [Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)
 - [Threat Hunting with Kubernetes Audit Logs](https://developer.squareup.com/blog/threat-hunting-with-kubernetes-audit-logs/)
 - [Analyze Falco Logs from K3S Cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster)
+
+## Audit Logs
+- [Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
+- [Kubernetes Audit Logs | Use Cases & Best Practices](https://www.containiq.com/post/kubernetes-audit-logs) - July 2022
+- [sysdig-cloud-scripts](https://github.com/draios/sysdig-cloud-scripts/tree/master/k8s_audit_config)
 
 
 # Maintained Scanning Tools

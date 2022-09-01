@@ -1,3 +1,7 @@
+# References
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+
 # Namespaces
 
 
@@ -22,8 +26,20 @@ metrics-server   ClusterIP      10.43.141.215   <none>          443/TCP         
 traefik          LoadBalancer   10.43.132.75    192.168.3.171   80:32314/TCP,443:32762/TCP   51d
 ```
 
+
+```
+# kubectl get services -A
+NAMESPACE     NAME             TYPE           CLUSTER-IP      EXTERNAL-IP     PORT(S)                      AGE
+default       kubernetes       ClusterIP      10.43.0.1       <none>          443/TCP                      51d
+kube-system   kube-dns         ClusterIP      10.43.0.10      <none>          53/UDP,53/TCP,9153/TCP       51d
+kube-system   metrics-server   ClusterIP      10.43.141.215   <none>          443/TCP                      51d
+kube-system   traefik          LoadBalancer   10.43.132.75    192.168.3.171   80:32314/TCP,443:32762/TCP   51d
+```
+
+
 # Pods
 
+- [smallest deployable unit consisting of one or more containers](https://kubernetes.io/docs/concepts/workloads/pods/)
 
 ```
 $ k3s kubectl get pods -A

@@ -1,5 +1,6 @@
 # Links Pages
 - [CloudSecDocs](https://cloudsecdocs.com/)
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 
@@ -7,13 +8,20 @@
 - [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 - [On Establishing a Cloud Security Program](On Establishing a Cloud Security Program) - May 2021
 
-
-
 # AWS
+- [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
+- [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
 - [Complete AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)
 - [Permissions Cloud](https://aws.permissions.cloud/)
 - [So You Inherited an AWS Account](https://medium.com/swlh/so-you-inherited-an-aws-account-e5fe6550607d) - April 2020
 - [AWS Organizations in 2021](https://www.chrisfarris.com/post/aws-organizations-in-2021/)
+
+## Detection Rules
+- [Elastic](https://github.com/elastic/detection-rules/tree/main/rules/integrations/aws)
+
+## Adversary Emulation Tools
+- [Stratus Red Team](https://github.com/DataDog/stratus-red-team)
+- [Pacu](https://github.com/RhinoSecurityLabs/pacu)
 
 ## Ransomware 
 - [Introducing the Ransomware Risk Management on AWS Whitepaper](https://aws.amazon.com/blogs/security/introducing-the-ransomware-risk-management-on-aws-whitepaper/) - Sept 2021
@@ -53,6 +61,6 @@
 ## Forensics
 - [Cloud Forensic Utils](https://github.com/google/cloud-forensics-utils)
 - [Automated Incident Response & Forensics Framework](https://github.com/awslabs/aws-automated-incident-response-and-forensics)
+- [AWS Incident Response](https://github.com/easttimor/aws-incident-response)
 
 ## IAM
-

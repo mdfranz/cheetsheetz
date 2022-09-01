@@ -4,6 +4,7 @@
 
 # Namespaces
 
+[a mechanism for isolating groups of resources within a single cluster](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) and most Kubernetes resources (e.g. pods, services, replication controllers, and others) are in some namespaces. However namespace resources are not themselves in a namespaces. Resource naming must be unique *within* but not *across* namespaces
 
 ```
 # k3s kubectl get namespaces
@@ -17,6 +18,7 @@ kube-node-lease   Active   51d
 
 
 # Services
+[An abstract way to expose an application running on a set of Pods as a network service, which defines a logical set of Pods and a policy by which to access them](https://kubernetes.io/docs/concepts/services-networking/service/)
 
 ```
 $ kubectl get services --namespace kube-system
@@ -25,7 +27,7 @@ kube-dns         ClusterIP      10.43.0.10      <none>          53/UDP,53/TCP,91
 metrics-server   ClusterIP      10.43.141.215   <none>          443/TCP                      51d
 traefik          LoadBalancer   10.43.132.75    192.168.3.171   80:32314/TCP,443:32762/TCP   51d
 ```
-
+and
 
 ```
 # kubectl get services -A
@@ -38,8 +40,7 @@ kube-system   traefik          LoadBalancer   10.43.132.75    192.168.3.171   80
 
 
 # Pods
-
-- [smallest deployable unit consisting of one or more containers](https://kubernetes.io/docs/concepts/workloads/pods/)
+- [The smallest deployable unit consisting of one or more containers and each pod gets its own IP address](https://kubernetes.io/docs/concepts/workloads/pods/)
 
 ```
 $ k3s kubectl get pods -A
@@ -69,6 +70,7 @@ traefik-7cd4fcff68-k2rvq                  1/1     Running     1 (7m4s ago)   51d
 ```
 
 # Nodes
+[Workloads consist of containers placed into pods that run on nodes](https://kubernetes.io/docs/concepts/architecture/nodes/) and nodes consist of components that consist of [kubelet, kube-proxy, and a container runtime](https://kubernetes.io/docs/concepts/overview/components/#node-components)
 
 ```
 k3s kubectl get node

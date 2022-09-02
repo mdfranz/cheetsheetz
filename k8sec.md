@@ -1,13 +1,19 @@
 # Links Pages
-- [ksoc-labs awesome-k8s-securiyt](https://github.com/ksoclabs/awesome-kubernetes-security)
+- [ksoc-labs awesome-k8s-security](https://github.com/ksoclabs/awesome-kubernetes-security)
 
 # Starting Points
 - [OWASP K8S Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html) 
 - [Vinum Security K8S Checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
 
+
+# Knobs
+
+## Pod
+- [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+
 # TTPs / ATT&CK
 - [Mitre ATT&CK Matrix for Kubernetes](https://www.magalix.com/blog/mitre-attck-matrix-for-kubernetes)
-- [Mitre Container Attach](https://attack.mitre.org/matrices/enterprise/containers/)
+- [Mitre Container ATT&CK](https://attack.mitre.org/matrices/enterprise/containers/)
 - [Mapping Risks and Threats in Kubernetes to the MITRE ATT&CK Framework](https://blog.aquasec.com/mitre-attack-framework-for-containers)
 - [Center for Threat-Informed Defense teams up with Microsoft, partners to build the ATT&CK® for Containers matrix](https://www.microsoft.com/security/blog/2021/04/29/center-for-threat-informed-defense-teams-up-with-microsoft-partners-to-build-the-attck-for-containers-matrix/)
 - [The Current State of K8S Threat Modeling](https://blog.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
@@ -31,7 +37,6 @@
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
 # Logging and SIEM
-
 - [Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)
 - [Threat Hunting with Kubernetes Audit Logs](https://developer.squareup.com/blog/threat-hunting-with-kubernetes-audit-logs/)
 - [Analyze Falco Logs from K3S Cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster)

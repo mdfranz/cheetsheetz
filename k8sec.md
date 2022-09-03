@@ -1,13 +1,19 @@
 # Links Pages
-- [ksoc-labs awesome-k8s-securiyt](https://github.com/ksoclabs/awesome-kubernetes-security)
+- [ksoc-labs awesome-k8s-security](https://github.com/ksoclabs/awesome-kubernetes-security)
 
 # Starting Points
 - [OWASP K8S Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html) 
 - [Vinum Security K8S Checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
 
+
+# Knobs
+
+## Pod
+- [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+
 # TTPs / ATT&CK
 - [Mitre ATT&CK Matrix for Kubernetes](https://www.magalix.com/blog/mitre-attck-matrix-for-kubernetes)
-- [Mitre Container Attach](https://attack.mitre.org/matrices/enterprise/containers/)
+- [Mitre Container ATT&CK](https://attack.mitre.org/matrices/enterprise/containers/)
 - [Mapping Risks and Threats in Kubernetes to the MITRE ATT&CK Framework](https://blog.aquasec.com/mitre-attack-framework-for-containers)
 - [Center for Threat-Informed Defense teams up with Microsoft, partners to build the ATT&CK® for Containers matrix](https://www.microsoft.com/security/blog/2021/04/29/center-for-threat-informed-defense-teams-up-with-microsoft-partners-to-build-the-attck-for-containers-matrix/)
 - [The Current State of K8S Threat Modeling](https://blog.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
@@ -26,8 +32,14 @@
 
 # EKS & Guard Duty
 - [Guide to AWS GuardDuty findings in EKS](https://medium.com/@cloud_tips/guide-to-aws-guardduty-findings-in-eks-62babbd7da88)
-- [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
+<<<<<<< HEAD
+=======
+
+# Comparisons
+- [Threat Detection on EKS – Comparing Falco and GuardDuty For EKS Protection](https://dev.to/aws-builders/threat-detection-on-eks-comparing-falco-and-guardduty-for-eks-protection-2m6b) 
+- [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
+>>>>>>> b9a16f3442eccd904dd11fddfd52373a16a29c5b
 
 # Logging and SIEM
 - [Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)

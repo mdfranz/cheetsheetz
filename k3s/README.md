@@ -8,7 +8,9 @@
 
 # Security 
 - [Running Falco and k3s at the edge with 64-bit ARM](https://blog.alexellis.io/falco-at-the-edge-arm64/) - October 2020
+- [K3s + Sysdig: Deploying and securing your cluster… in less than 8 minutes!](https://sysdig.com/blog/k3s-sysdig-falco/) - October 2020
 
 # Related Tools
+- [autok3s](https://github.com/cnrancher/autok3s)
 - [k3d](https://k3d.io/) - k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker
 - [k3sup](https://github.com/alexellis/k3sup) - a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM. All you need is ssh access and the k3sup binary to get kubectl access immediately.

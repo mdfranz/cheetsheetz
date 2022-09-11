@@ -5,8 +5,8 @@
 - [OWASP K8S Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html) 
 - [Vinum Security K8S Checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
 
-
 # Knobs
+- [Kubernetes API Server Bypass Risks](https://kubernetes.io/docs/concepts/security/api-server-bypass-risks/)
 
 ## Pod
 - [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
@@ -33,13 +33,9 @@
 # EKS & Guard Duty
 - [Guide to AWS GuardDuty findings in EKS](https://medium.com/@cloud_tips/guide-to-aws-guardduty-findings-in-eks-62babbd7da88)
 
-<<<<<<< HEAD
-=======
-
 # Comparisons
 - [Threat Detection on EKS – Comparing Falco and GuardDuty For EKS Protection](https://dev.to/aws-builders/threat-detection-on-eks-comparing-falco-and-guardduty-for-eks-protection-2m6b) 
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
->>>>>>> b9a16f3442eccd904dd11fddfd52373a16a29c5b
 
 # Logging and SIEM
 - [Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)
@@ -48,7 +44,9 @@
 ## Falco
 - [awesome-falco](https://github.com/developer-guy/awesome-falco)
 - [Analyze Falco Logs from K3S Cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster)
-- [(Analyze AWS EKS Audit logs with Falco](https://faun.pub/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
+- [Analyze AWS EKS Audit logs with Falco](https://faun.pub/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
+- [Falco Sidekick](https://github.com/falcosecurity/falcosidekick)
+- [Falco Driverkit with Docker on Debian](https://falco.org/blog/falco-driverkit-debian-docker/)
 
 ## Audit Logs
 - [Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)

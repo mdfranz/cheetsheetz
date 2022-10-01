@@ -52,6 +52,15 @@ To run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
 ```
 
+Or with a disk and bridge
+
+```
+uvt-kvm create --memory 4096 nats release=bionic --disk 40 --bridge br0
+```
+
+You won't be able to uvt-ssh into this and there will be no way to find the IP address
+
+
 
 # Virsh
 

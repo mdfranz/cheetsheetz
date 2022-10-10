@@ -4,5 +4,5 @@
 - [Creating Splunk Alerts with API](https://avleonov.com/2019/01/17/creating-splunk-alerts-using-api/)
 
 # Tools
-- [Alerter][https://github.com/adobe/alerter]
-- [Ksconf][https://github.com/Kintyre/ksconf]
+- [Alerter](https://github.com/adobe/alerter)
+- [Ksconf](https://github.com/Kintyre/ksconf)

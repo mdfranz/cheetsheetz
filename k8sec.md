@@ -47,6 +47,7 @@
 - [Analyze AWS EKS Audit logs with Falco](https://faun.pub/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
 - [Falco Sidekick](https://github.com/falcosecurity/falcosidekick)
 - [Falco Driverkit with Docker on Debian](https://falco.org/blog/falco-driverkit-debian-docker/)
+- [Restructuring the Kubernetes Threat Matrix and Evaluating Attack Detection by Falco](https://engineering.mercari.com/en/blog/entry/20220928-kubernetes-threat-matrix-and-attack-detection-by-falco/)
 
 ## Audit Logs
 - [Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
@@ -58,6 +59,7 @@
 - [kube-bench](https://github.com/aquasecurity/kube-bench)
 - [kubaudit](https://github.com/Shopify/kubeaudit)
 - [kubescape](https://github.com/armosec/kubescape) 
+- [badrobot](https://github.com/controlplaneio/badrobot)
 
 ## SBOM
 - [kubeclarity](https://github.com/openclarity/kubeclarity)
@@ -66,3 +68,11 @@
 
 # Books
 - [Hacking Kubernetes](https://www.oreilly.com/library/view/hacking-kubernetes/9781492081722/) - Martin & Hausenblas, October 2021
+
+# PCI Compliance
+## Lite Blogs
+- [PCI Compliance for Containers and Kubernetes](https://sysdig.com/blog/container-pci-compliance/) - March 2020
+- [Full Sail Ahead: Navigating PCI Compliance on Kubernetes - Part 1, Networking](https://www.schellman.com/blog/full-sail-ahead-part-1) 
+- [PCI Compliance for Kubernetes in detail - Part 2 - Authorization](https://raesene.github.io/blog/2022/10/08/PCI-Kubernetes-Section2-Authorization/) - Oct 2022
+
+## WhitePapers

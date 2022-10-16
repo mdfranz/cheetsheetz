@@ -1,4 +1,3 @@
-
 # Security
 - [Securing DataStax Enterprise ports](https://docs.datastax.com/en/security/5.1/security/secFirewallPorts.html)
 - https://cassandra.apache.org/doc/4.1/cassandra/operating/security.html

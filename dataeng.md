@@ -13,6 +13,7 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [The Experiencing Data Podcast](https://designingforanalytics.com/experiencing-data-podcast/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Engineering Weekly](https://dataengineeringweekly.substack.com/archive)
+- [Data Engineering in 3 Hours](https://www.youtube.com/watch?v=0udzI-KTcRQ&list=PLMgj6ks4i626ZCmtzuxu_mBriSk2Hk4jQ)
 
 # Data Products
 - [Managing Data Science as Products](https://towardsdatascience.com/managing-data-science-as-products-671077e625b3)

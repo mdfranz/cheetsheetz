@@ -3,6 +3,7 @@
 - https://twitter.com/i/lists/952735755838738432
 
 # Blogs
+- [About Detection Engineering](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0) - September 2022
 - [Introducing Threatest, a Go framework for end-to-end testing of threat detection rules](https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/) - Aug 2022
 - [Democratizing Security Detection](https://blog.palantir.com/democratizing-security-detection-71c689b667a5) - June 2022
 - [A Technical Primer in Detection Engineering](https://panther.com/cyber-explained/detection-engineering-benefits/) - June 2022

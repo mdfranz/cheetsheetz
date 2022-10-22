@@ -92,6 +92,32 @@ local-path-storage   local-path-provisioner-9cd9bd544-wxslr       1/1     Runnin
 
 ```
 
+For a cluster that we have deployed acorn.io and a simple webapp, which gives us 3 pods for acorn and 1 for the webapp (holy-darkness)
+
+```
+$ kubectl get pod -A
+NAMESPACE                    NAME                                      READY   STATUS      RESTARTS   AGE
+kube-system                  local-path-provisioner-7b7dc8d6f5-npjm6   1/1     Running     0          95m
+kube-system                  coredns-b96499967-ptmsd                   1/1     Running     0          95m
+kube-system                  metrics-server-668d979685-gnssd           1/1     Running     0          95m
+kube-system                  helm-install-traefik-crd-vmzjd            0/1     Completed   0          95m
+kube-system                  helm-install-traefik-4nvq9                0/1     Completed   2          95m
+kube-system                  svclb-traefik-b8c67b47-r8szh              2/2     Running     0          93m
+kube-system                  traefik-7cd4fcff68-7xqrp                  1/1     Running     0          93m
+acorn-system                 acorn-controller-9db8698f4-wqqfh          1/1     Running     0          76m
+acorn-system                 acorn-api-7b65bf697c-6h8q7                1/1     Running     0          76m
+acorn-system                 buildkitd-68cdbf6979-dgrsl                2/2     Running     0          62m
+holy-darkness-a4929cb9-d11   web-57cdb44457-xh4vs                      1/1     Running     0          59m
+```
+
+
+
+
+
+
+
+
+
 # Nodes
 [Workloads consist of containers placed into pods that run on nodes](https://kubernetes.io/docs/concepts/architecture/nodes/) and nodes consist of components that consist of [kubelet, kube-proxy, and a container runtime](https://kubernetes.io/docs/concepts/overview/components/#node-components)
 

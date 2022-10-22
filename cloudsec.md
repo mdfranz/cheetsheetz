@@ -64,3 +64,6 @@
 - [AWS Incident Response](https://github.com/easttimor/aws-incident-response)
 
 ## IAM
+
+# Misc
+- [Lateral movement risks in the cloud and how to prevent them – Part 1: the network layer (VPC)](https://www.wiz.io/blog/lateral-movement-risks-in-the-cloud-and-how-to-prevent-them-part-1-the-network-layer)

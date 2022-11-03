@@ -1,6 +1,7 @@
 # Tutorials
 
-[Learning Kubernetes, the Easy Way](https://medium.com/towards-data-science/learn-kubernetes-the-easy-way-d1cfa460c013)
+- [A Crash Course on Kubernetes](https://blog.gruntwork.io/a-crash-course-on-kubernetes-a96c3891ad82) - July 2022
+- [Learning Kubernetes, the Easy Way](https://medium.com/towards-data-science/learn-kubernetes-the-easy-way-d1cfa460c013) - September 2022
 
 
 # Packaging 

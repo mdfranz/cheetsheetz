@@ -28,3 +28,9 @@
 
 ## ATT&CK
 - [Data Sources](https://attack.mitre.org/datasources/)
+
+# Examples & Kits
+- [https://github.com/chainguard-dev/osquery-defense-kit](Production-ready detection & response queries for osquery)
+
+
+

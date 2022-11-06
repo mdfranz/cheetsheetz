@@ -24,6 +24,21 @@ So dropped it
    fielddrop = ["allocator_frag_bytes"]
 ```
 
+## Disks
+
+To avoid things like  telegraf[4583]: 2022-10-22T06:00:10Z E! [inputs.disk] [SystemPS] => error getting disk usage ("/var/snap/lxd/common/ns/shmounts"): permission denied
+
+```
+[inputs.disk]]
+  ## By default stats will be gathered for all mount points.
+  ## Set mount_points will restrict the stats to only the specified mount points.
+  # mount_points = ["/"]
+
+  ## Ignore mount points by filesystem type.
+  ignore_fs = ["nsfs","hostfs","gvfs","run","tmpfs", "devtmpfs", "devfs", "iso9660", "overlay", "aufs", "squashfs","fuse.gvfsd-fuse"]
+
+```
+
 
 ## Physical Stuff
 

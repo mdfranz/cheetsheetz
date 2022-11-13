@@ -1,9 +1,10 @@
-
 # Use Cases 
-- [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/IntroductionUseCases.html](Use Cases)
-- [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/IntroductionUseCases.html#IntroductionUseCasesProgrammableCDN](Programmable CDN) with [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html](Lambda@Edge) such as [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-examples.html](sample function) 
 
-# What is it
+See [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/IntroductionUseCases.html](Use Cases) such as
+ [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/IntroductionUseCases.html#IntroductionUseCasesProgrammableCDN](Programmable CDN) with [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html](Lambda@Edge) such as [https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-examples.html](sample function) 
+
+# What is it?
+
 ## Distribution
 
 - Has xxx.cloudfront.net cdmain name

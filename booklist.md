@@ -28,6 +28,7 @@
 - Nightingale, _Unmanageable: Leadership Lessons from an Impossible Year_ (2021) 
 
 ## Engineering Leadership
+- Drasner, Sarah, _Engineering Management for the Rest of Us_
 - [X] Fitzpatrick & Collins-Sussman, _Debugging Tams: Better Productivity through Collaboration_
 - [X] Lopp, _The Art of Leadership: Small Things, Done Well_
 - [X] Lopp, _Managing Humans_
@@ -72,16 +73,14 @@
 - Carlson, _How to Manage Cybersecurity Risk: A Security Leader's Roadmap with Open FAIR_
 - Kaplan, _Beyond CyberSecurity_
 
-
 # History & Biography
 ## WW2
 - Barr, _Eisenhower's Armies_
-- McManus, _September Hope: The American Side of a Bridge Too Far_ (am)
+- McManus, _September Hope: The American Side of a Bridge Too Far_ 
 - Latimer, _Burma: The Forgotten War_ 
 - Orange, _Park: The Biography of Air Chief Marshal Sir Keith Park_
 - Roll, _George Marshall: Defender of the Republic_
 - Truscott, _Command Missions: A Personal Story_
-
 
 ## Vietnam
 - Saliba, _Death in the Highlands: The Seige of Special Forces Camp Plei Mei_

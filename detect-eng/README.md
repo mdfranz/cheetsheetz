@@ -3,6 +3,7 @@
 - https://twitter.com/i/lists/952735755838738432
 
 # Blogs
+- [(Re)building Threat Detection and Incident Response at LinkedIn](https://engineering.linkedin.com/blog/2022/-re-building-threat-detection-and-incident-response-at-linkedin) - Nov 2022
 - [About Detection Engineering](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0) - September 2022
 - [Introducing Threatest, a Go framework for end-to-end testing of threat detection rules](https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/) - Aug 2022
 - [Democratizing Security Detection](https://blog.palantir.com/democratizing-security-detection-71c689b667a5) - June 2022

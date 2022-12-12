@@ -1,8 +1,23 @@
-## CI Configuration
+# Blogs
+
+## Ansible
+- [How to automate your DevOps using GitLab CI/CD + Docker + Ansible](https://medium.com/@a.golmirzaei/how-to-automate-your-devops-using-gitlab-ci-cd-docker-ansible-a32de7a116fc) - April 2022
+- [GitLab E2E Pipeline — Logger Application+ELK Stack Deployment Using Terraform+Ansible on AWS](https://awstip.com/gitlab-e2e-pipeline-logger-application-elk-stack-deployment-using-terraform-ansible-on-aws-78e5d94bd088)
+- [Automating Patching Activity Using Ansible & GitLab CI](https://aws.plainenglish.io/automating-patching-activity-using-ansible-gitlab-ci-f63747515a12)
+- [Ansible CICD pipeline with GitLab](https://kruyt.org/ansible-ci-with-gitlab/) - Jan 2020
+
+
+# CI Configuration
 
 This uses tags and specifies a docker image
 
+`NOTE` tags are specified in each stage not for the entire .yml file
+
+See https://docs.gitlab.com/ee/ci/variables/
+
 ```
+variables:
+  REGION: us-east-2
 image: debian
 before_script:
   - echo "Before script section"
@@ -19,6 +34,7 @@ build:
     - docker
   script:
     - echo "Do your build here"
+    - export
 
 test:
   stage: test
@@ -46,12 +62,24 @@ root      1334  0.1  3.2 829060 30864 ?        Ssl  20:48   0:07 /usr/bin/gitlab
 
 Runs are root so why it doesn't need to be added to the docker group
 
-## Executors
+# Executors
 
 I've tested
 
-### Shell
+## Shell
 
-### Docker
+## Docker
 
-### Troubleshooting
+# Troubleshooting
+
+## Runner
+
+```
+ubuntu@pi4b-b7ead551:~$ journalctl -f -u gitlab-runner
+-- Logs begin at Mon 2022-01-10 04:56:39 UTC. --
+Dec 11 23:51:09 pi4b-b7ead551 gitlab-runner[821]: Checking for jobs...nothing                         runner=H9ZYz2v8
+Dec 11 23:51:12 pi4b-b7ead551 gitlab-runner[821]: Checking for jobs...nothing                         runner=H9ZYz2v8
+Dec 11 23:51:15 pi4b-b7ead551 gitlab-runner[821]: Checking for jobs...nothing                         runner=H9ZYz2v8
+```
+
+

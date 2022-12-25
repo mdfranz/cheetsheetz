@@ -7,8 +7,9 @@
 - [From Terraform to CDK](https://medium.com/carsales-dev/from-terrafrom-to-cdk-our-journey-of-migrating-existing-aws-resource-to-cdk-managed-f533416a4254) - May 2021
 
 # References
-- https://cdkworkshop.com/
+- [AWS CDK Workshop](https://cdkworkshop.com/)
 - [Python Reference](https://docs.aws.amazon.com/cdk/api/v2/python/index.html)
+- [Python Construct Library](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_ec2/README.html)
 
 # Installation
 ## Prep (CDK for Python)

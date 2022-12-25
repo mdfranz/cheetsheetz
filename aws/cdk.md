@@ -1,9 +1,12 @@
+# Blogs on Python Development
+- [How To Setup AWS EC2 Instance Usi ng AWS CDK Python](https://unbiased-coder.com/setup-aws-ec2-instance-cdk-python/)
+- [Build Your First AWS CDK Project](https://towardsdatascience.com/build-your-first-aws-cdk-project-18b1fee2ed2d) 
+
+# References
+- https://cdkworkshop.com/
+
 # Prep (CDK for Python)
-
 - Get nodejs (LTS) from https://nodejs.org/download/release/latest-v18.x/
-
-
-
 
 # Concepts
 

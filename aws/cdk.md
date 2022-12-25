@@ -3,6 +3,9 @@
 - [How To Setup AWS EC2 Instance Usi ng AWS CDK Python](https://unbiased-coder.com/setup-aws-ec2-instance-cdk-python/)
 - [Build Your First AWS CDK Project](https://towardsdatascience.com/build-your-first-aws-cdk-project-18b1fee2ed2d) 
 
+## Other CDK
+- [Provision an Ubuntu-based EC2 instance with CDK](https://loige.co/provision-ubuntu-ec2-with-cdk/)
+
 ## From Terraform
 - [From Terraform to CDK](https://medium.com/carsales-dev/from-terrafrom-to-cdk-our-journey-of-migrating-existing-aws-resource-to-cdk-managed-f533416a4254) - May 2021
 

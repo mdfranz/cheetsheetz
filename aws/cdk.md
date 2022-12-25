@@ -1,8 +1,5 @@
 # Prep (CDK for Python)
-
 - Get nodejs (LTS) from https://nodejs.org/download/release/latest-v18.x/
-
-
 
 
 # Concepts

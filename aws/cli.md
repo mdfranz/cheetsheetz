@@ -1,3 +1,6 @@
+# Installation 
+- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html 
+- https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-completion.html 
 
 # JQ Examples 
 

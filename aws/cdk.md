@@ -1,3 +1,18 @@
+# Installation
+Get nodejs (LTS) from https://nodejs.org/download/release/latest-v18.x/
+
+Get it
+```
+npm install -g aws-cdk
+
+```
+
+Get Python Dependencies (Ubuntu/Debian)
+
+```
+apt -y install python3-pip python3-venv
+```
+
 # Blogs
 ## Python Development
 - [How To Setup AWS EC2 Instance Usi ng AWS CDK Python](https://unbiased-coder.com/setup-aws-ec2-instance-cdk-python/)
@@ -13,10 +28,15 @@
 - [AWS CDK Workshop](https://cdkworkshop.com/)
 - [Python Reference](https://docs.aws.amazon.com/cdk/api/v2/python/index.html)
 - [Python Construct Library](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_ec2/README.html)
+- [Environments](https://docs.aws.amazon.com/cdk/v2/guide/environments.html)
 
-# Installation
-## Prep (CDK for Python)
-- Get nodejs (LTS) from https://nodejs.org/download/release/latest-v18.x/
+
+# Sample Projects
+## OpenSearch
+- https://github.com/patrickmryan/opensearch-cdk
+- https://github.com/ryparker/aws-cdk-sample-opensearch-python
+
+
 
 # Concepts
 From https://docs.aws.amazon.com/cdk/v2/guide/home.html

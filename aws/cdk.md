@@ -25,10 +25,18 @@ apt -y install python3-pip python3-venv
 - [From Terraform to CDK](https://medium.com/carsales-dev/from-terrafrom-to-cdk-our-journey-of-migrating-existing-aws-resource-to-cdk-managed-f533416a4254) - May 2021
 
 # References
+- [Security & Safety Dev Guide](https://github.com/aws/aws-cdk/wiki/Security-And-Safety-Dev-Guide)
 - [AWS CDK Workshop](https://cdkworkshop.com/)
 - [Python Reference](https://docs.aws.amazon.com/cdk/api/v2/python/index.html)
 - [Python Construct Library](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_ec2/README.html)
 - [Environments](https://docs.aws.amazon.com/cdk/v2/guide/environments.html)
+
+## Common Python Modules 
+
+[V2 Modules](https://docs.aws.amazon.com/cdk/api/v2/python/modules.html)
+
+- [IAM](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_iam/README.html)
+- [CloudWatch Logs](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_logs/README.html)
 
 
 # Sample Projects
@@ -44,6 +52,7 @@ From https://docs.aws.amazon.com/cdk/v2/guide/home.html
 Apps are build from [Constructs](https://docs.aws.amazon.com/cdk/v2/guide/constructs.html) which represent [AWS Resources at various levels](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
 
 Apps contain [Stacks](https://docs.aws.amazon.com/cdk/v2/guide/apps.html)
+
 
 
 

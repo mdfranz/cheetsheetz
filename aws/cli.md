@@ -4,6 +4,14 @@
 
 # JQ Examples 
 
+## IAM
+
+*Determine current account*
+
+```
+aws sts get-caller-identity
+```
+
 ## CloudFormation
 ```
 aws --region us-east-2 cloudformation list-stacks | jq -r '.StackSummaries[] | [ .StackId, .StackStatus ] | @csv'

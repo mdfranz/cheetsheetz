@@ -12,17 +12,17 @@ The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s sp
 - [Horns of a Dilemma](https://warontherocks.com/category/podcasts/horns-of-a-dilemma/) - Brought to you by the Texas National Security Review, this podcast features lectures, interviews, and panel discussions at the University of Texas
 
 # Sometimes
-- [In Moscow's Shadows](https://inmoscowsshadows.buzzsprout.com/)
-- [Unchained](https://unchainedpodcast.com/)
-- [The Changelog](https://changelog.com/podcast)
-- [Soft Skills Engineering](https://podcasts.apple.com/us/podcast/soft-skills-engineering/id1091341048)
-- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
-- [On the Media](https://www.wnycstudios.org/podcasts/otm)
-- [Experiencing Data: Designing for Analytics](https://designingforanalytics.com/experiencing-data-podcast/)
-- [Engineering Culture Podcast](https://www.infoq.com/engineering-culture-podcast/)
-- [Radiolab](https://radiolab.org/)
+- [In Moscow's Shadows](https://inmoscowsshadows.buzzsprout.com/) - Russia, behind the headlines as well as in the shadows. This podcast is the audio counterpart to Mark Galeotti's blog of the same name, a place where "one of the most informed and provocative voices on modern Russia", can talk about Russia historical and (more often) contemporary, discuss new books and research, and sometimes talk to other Russia-watchers.
+- [Unchained](https://unchainedpodcast.com/) - Crypto assets and blockchain technology are about to transform every trust-based interaction of our lives, from financial services to identity to the Internet of Things. In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money.
+- [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of the software world
+- [Soft Skills Engineering](https://podcasts.apple.com/us/podcast/soft-skills-engineering/id1091341048) - It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - This show goes behind the scenes for the tools, techniques, and difficulties associated with the discipline of data engineering. Databases, workflows, automation, and data manipulation are just some of the topics that you will find here.
+- [On the Media](https://www.wnycstudios.org/podcasts/otm) - Peabody Award-winning On the Media podcast is your guide to examining how the media sausage is made. Host Brooke Gladstone examines threats to free speech and government transparency, cast a skeptical eye on media coverage of the week’s big stories and unravel hidden political narratives in everything we read, watch and hear.
+- [Experiencing Data: Designing for Analytics](https://designingforanalytics.com/experiencing-data-podcast/) - 
+- [Engineering Culture Podcast](https://www.infoq.com/engineering-culture-podcast/) - Software engineers, architects and team leads have found inspiration to build better, high performing teams by listening to the weekly InfoQ Podcast.
+- [Radiolab](https://radiolab.org/) - Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers.
 
 # Ocassionally 
-- [ThoughtWorks](https://www.thoughtworks.com/en-us/insights/podcasts)
-- [Real Python](https://realpython.com/podcasts/rpp/)
+- [ThoughtWorks](https://www.thoughtworks.com/en-us/insights/podcasts) - plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.
+- [Real Python](https://realpython.com/podcasts/rpp/) - A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
 

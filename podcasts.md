@@ -1,7 +1,7 @@
 # Always 
 - [At the Table](https://www.tablegroup.com/at-the-table/) - Sit across the table from one of the foremost experts in leadership and business. In his simple and approachable style, Pat tackles every topic related to the world of work (and some that aren’t). From culture to family to building world-class organizations, Pat brings his wisdom, humor, and insight together to provide actionable advice for leaders everywhere.
 - [Modern War Institute](https://mwi.usma.edu/category/podcasts/mwi-podcast/) - the flagship podcast of the Modern War Institute at West Point. Featured guests include senior military and defense leaders, scholars, and others who discuss the most important issues related to modern conflict.
-- [War on the Rockes](https://warontherocks.com/category/podcasts/war-on-the-rocks/) - Discussions over drinks with security, defense, and foreign policy insiders and experts. The original War on the Rocks podcast series
+- [War on the Rocks](https://warontherocks.com/category/podcasts/war-on-the-rocks/) - Discussions over drinks with security, defense, and foreign policy insiders and experts. The original War on the Rocks podcast series
 - [Detection At Scale](https://podcasts.apple.com/ph/podcast/detection-at-scale/id1582584270) -  is dedicated to helping security practitioners and their teams succeed at managing and responding to threats at a modern, cloud scale.
 
 # Usually 

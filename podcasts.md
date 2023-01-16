@@ -10,6 +10,7 @@
 The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s spend a few minutes of your life listening and learning about an Important Thing
 - [Product Thinking](https://podcasts.apple.com/us/podcast/product-thinking/id1550800132) - Successful product management isn’t just about training the product managers who work side by side with developers everyday to build better products. It’s about taking a step back, approaching the systems within organizations as a whole, and leveling up product leadership to improve these systems.
 - [Horns of a Dilemma](https://warontherocks.com/category/podcasts/horns-of-a-dilemma/) - Brought to you by the Texas National Security Review, this podcast features lectures, interviews, and panel discussions at the University of Texas
+- [The Knowledge Podcat](https://fs.blog/knowledge-project-podcast/) - Hosted by Shane Parrish, The Knowledge Project Podcast uncovers the best of what other people have already figured out so you can use their insights in your life. New episodes every second Tuesday.
 
 # Sometimes
 - [In Moscow's Shadows](https://inmoscowsshadows.buzzsprout.com/) - Russia, behind the headlines as well as in the shadows. This podcast is the audio counterpart to Mark Galeotti's blog of the same name, a place where "one of the most informed and provocative voices on modern Russia", can talk about Russia historical and (more often) contemporary, discuss new books and research, and sometimes talk to other Russia-watchers.
@@ -20,7 +21,6 @@ The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s sp
 - [On the Media](https://www.wnycstudios.org/podcasts/otm) - Peabody Award-winning On the Media podcast is your guide to examining how the media sausage is made. Host Brooke Gladstone examines threats to free speech and government transparency, cast a skeptical eye on media coverage of the week’s big stories and unravel hidden political narratives in everything we read, watch and hear.
 - [Engineering Culture Podcast](https://www.infoq.com/engineering-culture-podcast/) - Software engineers, architects and team leads have found inspiration to build better, high performing teams by listening to the weekly InfoQ Podcast.
 - [Radiolab](https://radiolab.org/) - Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers.
-- [BBC Global News](https://podcasts.apple.com/us/podcast/global-news-podcast/id135067274)
 
 # Ocassionally 
 - [Experiencing Data: Designing for Analytics](https://designingforanalytics.com/experiencing-data-podcast/) - How do you create innovative machine learning and analytics products? Brian T. O’Neill reveals the strategies and activities that CxOs and innovative leaders in technical product management, data science and analytics are using to deliver indispensable experiences around data

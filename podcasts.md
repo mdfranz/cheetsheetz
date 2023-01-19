@@ -28,3 +28,5 @@ The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s sp
 - [ThoughtWorks](https://www.thoughtworks.com/en-us/insights/podcasts) - plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.
 - [Real Python](https://realpython.com/podcasts/rpp/) - A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
 
+# New Ones to Try
+- [Lenny's Podcast](https://www.lennyspodcast.com/) - Interviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product.

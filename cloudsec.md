@@ -15,6 +15,7 @@
 - [Permissions Cloud](https://aws.permissions.cloud/)
 - [So You Inherited an AWS Account](https://medium.com/swlh/so-you-inherited-an-aws-account-e5fe6550607d) - April 2020
 - [AWS Organizations in 2021](https://www.chrisfarris.com/post/aws-organizations-in-2021/)
+- [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html) - November 2020
 
 ## Detection Rules
 - [Elastic](https://github.com/elastic/detection-rules/tree/main/rules/integrations/aws)

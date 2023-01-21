@@ -22,6 +22,7 @@
 # Frameworks
 - [Ryan Stillions Detection Maturity Level Model](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
 - [Detection Engineering Maturity Matrix](https://kyle-bailey.medium.com/detection-engineering-maturity-matrix-f4f3181a5cc7) - 2021
+- [SOC Automation Capability Matrix](https://www.notion.so/4fd14ccf93e7408c8faf96c5aca8c3fd) and [the blog](https://www.tines.com/blog/enhance-threat-response-with-tines-automation-capability-matrix)
 
 ## Palantir
 - [Alerting and Detection Strategy Framework](https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2) - 2017

@@ -17,6 +17,7 @@
 - [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V)
 - [Data Pipelines @ Samsara](https://medium.com/samsara-engineering/data-pipelines-samsara-64596dbc2137) - March 2021
 - [MLOps — Is it a Buzzword??? Part -1](https://medium.com/walmartglobaltech/mlops-is-it-a-buzzword-part-1-8573fe95290e) - June 2021, Walmart Labs
+- [Airflow vs. Prefect](https://www.restack.io/docs/airflow-vs-prefect) and [Airflow vs. Dagster](https://www.restack.io/docs/airflow-vs-dagster)
 
 # Relevant Research & Serious Articles
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -57,6 +58,8 @@
 - [Dagster Concepts](https://docs.dagster.io/concepts)
 - [Building shared spaces for data teams at Drizly](https://dagster.io/blog/shared-spaces-at-drizly)
 - [Dagster: Workflows for Data Science, Machine Learning, and Data Engineering](https://www.datacouncil.ai/talks/dagster-workflows-for-data-science-machine-learning-and-data-engineering)
+- [Deploying Dagster on Helm](https://docs.dagster.io/deployment/guides/kubernetes/deploying-with-helm)
+- 
 
 ## Metaflow (Netflix) 
 - [Metaflow](https://metaflow.org/) 

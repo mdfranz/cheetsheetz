@@ -1,3 +1,7 @@
+# New Ones I'm Listening to
+- [Lenny's Podcast](https://www.lennyspodcast.com/) - Interviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product.
+- [MLOps Community Weekly](https://podcast.mlops.community/)
+
 # Always 
 - [At the Table](https://www.tablegroup.com/at-the-table/) - Sit across the table from one of the foremost experts in leadership and business. In his simple and approachable style, Pat tackles every topic related to the world of work (and some that aren’t). From culture to family to building world-class organizations, Pat brings his wisdom, humor, and insight together to provide actionable advice for leaders everywhere.
 - [Modern War Institute](https://mwi.usma.edu/category/podcasts/mwi-podcast/) - the flagship podcast of the Modern War Institute at West Point. Featured guests include senior military and defense leaders, scholars, and others who discuss the most important issues related to modern conflict.
@@ -28,5 +32,3 @@ The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s sp
 - [ThoughtWorks](https://www.thoughtworks.com/en-us/insights/podcasts) - plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.
 - [Real Python](https://realpython.com/podcasts/rpp/) - A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
 
-# New Ones to Try
-- [Lenny's Podcast](https://www.lennyspodcast.com/) - Interviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product.

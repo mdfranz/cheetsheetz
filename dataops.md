@@ -55,7 +55,7 @@
 - [Is Apache Airflow 2.0 good enough for current data engineering needs?](https://towardsdatascience.com/is-apache-airflow-2-0-good-enough-for-current-data-engineering-needs-6e152455775c#85c9)
 
 ## Dagster
-- See [Dagster](dagster/README.md)
+- See [Dagster](dagster/)
 
 ## Metaflow (Netflix) 
 - [Metaflow](https://metaflow.org/) 

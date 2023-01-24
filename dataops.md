@@ -55,11 +55,7 @@
 - [Is Apache Airflow 2.0 good enough for current data engineering needs?](https://towardsdatascience.com/is-apache-airflow-2-0-good-enough-for-current-data-engineering-needs-6e152455775c#85c9)
 
 ## Dagster
-- [Dagster Concepts](https://docs.dagster.io/concepts)
-- [Building shared spaces for data teams at Drizly](https://dagster.io/blog/shared-spaces-at-drizly)
-- [Dagster: Workflows for Data Science, Machine Learning, and Data Engineering](https://www.datacouncil.ai/talks/dagster-workflows-for-data-science-machine-learning-and-data-engineering)
-- [Deploying Dagster on Helm](https://docs.dagster.io/deployment/guides/kubernetes/deploying-with-helm)
-- 
+- See [Dagster](dagster/)
 
 ## Metaflow (Netflix) 
 - [Metaflow](https://metaflow.org/) 

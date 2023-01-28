@@ -1,3 +1,7 @@
+# Example Configs
+- https://gitlab.com/mdfranz/static-configs/-/tree/master/vector
+- https://github.com/abulte/vector-test
+- https://github.com/mdfranz/my-unifi/tree/main/files/vector/vector.d
 
 # Blogs
 - [Analyzing CoreDNS logs with Clickhouse and Vector](https://mrkaran.dev/posts/coredns-vector-clickhouse/)

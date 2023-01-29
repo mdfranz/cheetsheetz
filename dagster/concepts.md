@@ -1,4 +1,24 @@
+Declarative vs. Imperative 
+
+Assets (vs. Tasks)  - when was dataset last update 
+
+Declerative Schedule - encode SLA in Asset (how often does it need to be updated) 
+
+# Project
+
+- asset (notebooks, data frames, arbitrary code) 
+
+SQL executes on Local DuckDB (warehouse)
+
+Pr
+
+# Production
+
+Op Retry
+SLA Violations (data freshness) 
+
 # Primary Abstractions
+
 ## Solids
 
 Functional unity of computation with inputs and outputs. Meant to be re-useable chunks of business logic. 

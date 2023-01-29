@@ -3,6 +3,7 @@
 - https://twitter.com/i/lists/952735755838738432
 
 # Blogs
+- [Elevating Security Alert Management using Automation](https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c)
 - [(Re)building Threat Detection and Incident Response at LinkedIn](https://engineering.linkedin.com/blog/2022/-re-building-threat-detection-and-incident-response-at-linkedin) - Nov 2022
 - [About Detection Engineering](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0) - September 2022
 - [Introducing Threatest, a Go framework for end-to-end testing of threat detection rules](https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/) - Aug 2022

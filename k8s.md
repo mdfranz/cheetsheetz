@@ -26,7 +26,7 @@
 
 # Lite Implementations
 
-See (k3s)[k3s/]
+See [k3s](k3s/)
 
 ## Minikube
 - https://fabianlee.org/2019/02/11/kubernetes-running-minikube-locally-on-ubuntu-using-kvm/

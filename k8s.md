@@ -21,7 +21,12 @@
 - https://www.openshift.com/blog/build-kubernetes-operators-from-helm-charts-in-5-steps
 - https://medium.com/operators/operator-pattern-kubernetes-openshift-380ddc6a147c
 
+# Observability & Visualization
+- [caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
+
 # Lite Implementations
+
+See (k3s)[k3s/]
 
 ## Minikube
 - https://fabianlee.org/2019/02/11/kubernetes-running-minikube-locally-on-ubuntu-using-kvm/

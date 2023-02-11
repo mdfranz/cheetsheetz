@@ -21,6 +21,18 @@ using GOPATH mode
 You should see all your installed packages under *Third Party*
 
 
+# Project Sectup 
+- [Starting a Go Project](https://www.wolfe.id.au/2020/03/10/starting-a-go-project/)
+- [How to Build and Install Go Programs](https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs)
+
+# Dependency Management
+- [Managing Dependencies](https://go.dev/doc/modules/managing-dependencies) 
+
+
+# Environment
+- [Go Environment Variables](https://zetcode.com/golang/env/)
+
+
 # Concurrency
 
 ## Context() 

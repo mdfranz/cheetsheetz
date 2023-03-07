@@ -13,8 +13,8 @@
 # Ops
 ## Get & Config
 - https://github.com/nats-io/nats-server/releases
-- https://github.com/nats-io/nats-streaming-server/releases
 - https://docs.nats.io/nats-server/configuration
+- https://github.com/nats-io/natscli
 
 ## Monitoring
 - https://docs.nats.io/nats-tools/nats_top
@@ -44,10 +44,9 @@ go get github.com/nats-io/go-nats-examples/tools/nats-sub`
 And follow https://docs.nats.io/nats-server/clients
 
 # Videos
-[Think Differently](https://www.youtube.com/watch?v=ud-cdirF8OA) - OSCON 2019
+- [Think Differently](https://www.youtube.com/watch?v=ud-cdirF8OA) - OSCON 2019
 
 
 # Sample Code & Projects (JetStream)
 ## Golang
 - https://github.com/pkbhowmick/nats-demo
-- 

@@ -1,11 +1,15 @@
+# Support Resources 
+- [Discord](https://discord.com/invite/tcvwpjfnZx)
+- [GitHub Discussions](https://github.com/duckdb/duckdb/discussions)
+
+
+# Useful Doc Link
+
+- (pragmas)(https://duckdb.org/docs/sql/pragmas) - how to view stats and make configuration changes.
+
 # Blogs
 ## Parquet
 - [Convert or Query Parquet files without Bigdata tool(s)](https://medium.com/datadriveninvestor/convert-or-query-parquet-files-without-bigdata-tool-s-6d58132b99a7)
-
-# Useful Doc Linkes
-
-- (pragmas)(https://duckdb.org/docs/sql/pragmas) - how to view stats and make configuration changes.
-- 
 
 # Commands to Remember
 
@@ -20,7 +24,7 @@ create table aws_cloudtrail as select * from "*.parquet";
 PRAGMA database_size;
 ```
 
-## Modes 
+## Output Modes 
 
 ```
 .mode x

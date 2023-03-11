@@ -1,11 +1,9 @@
-
 # Ops
 
 - https://github.com/influxdata/telegraf/releases
 
 
 # Inputs
-
 
 Dropping Fields that are bad
 
@@ -102,3 +100,17 @@ data_format = "json"
 [[inputs.ethtool]]
     interface_include = ["eth1","eth2"]
 ``
+
+# Windows
+
+It is available on [chocolatey](https://community.chocolatey.org/packages/telegraf) and  [install service](https://docs.influxdata.com/telegraf/v1.25/install/#download-and-run-telegraf-as-a-windows-service)
+
+These are the collectors that work (had to disable processes)
+
+```
+PS C:\Program Files\telegraf> .\telegraf.exe
+2023-03-11T12:25:01Z I! Using config file: C:\Program Files\Telegraf\telegraf.conf
+2023-03-11T12:25:01Z I! Starting Telegraf 1.25.3
+2023-03-11T12:25:01Z I! Available plugins: 210 inputs, 9 aggregators, 26 processors, 21 parsers, 57 outputs, 2 secret-stores
+2023-03-11T12:25:01Z I! Loaded inputs: cpu disk diskio mem swap system
+```

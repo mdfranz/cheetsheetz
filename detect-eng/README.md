@@ -1,6 +1,6 @@
 # Links Pages
 - https://github.com/infosecB/awesome-detection-engineering
-- https://twitter.com/i/lists/952735755838738432
+- https://github.com/jatrost/awesome-detection-rules
 
 # Blogs
 - [Elevating Security Alert Management using Automation](https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c)

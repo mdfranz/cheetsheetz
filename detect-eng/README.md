@@ -3,6 +3,7 @@
 - https://github.com/jatrost/awesome-detection-rules
 
 # Blogs
+- [Building Better Detection Systems: Introducing KRANG at Carta](https://medium.com/building-carta/building-better-detection-systems-introducing-krang-at-carta-55b08af5763e) - Mar 2023
 - [Elevating Security Alert Management using Automation](https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c)
 - [(Re)building Threat Detection and Incident Response at LinkedIn](https://engineering.linkedin.com/blog/2022/-re-building-threat-detection-and-incident-response-at-linkedin) - Nov 2022
 - [About Detection Engineering](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0) - September 2022

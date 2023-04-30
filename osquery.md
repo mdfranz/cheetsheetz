@@ -9,7 +9,6 @@
 - [Schema](https://www.osquery.io/schema/)
 - [Downloads](https://www.osquery.io/downloads/official/) and [releases](https://github.com/osquery/osquery/releases)
 
-
 # Queries
 - [Using Augeas with osquery: How to access configuration files from hundreds of applications](https://www.uptycs.com/blog/using-augeas-with-osquery-how-to-access-configuration-files-from-hundreds-of-applications) 
 - [Parsing Configuration Files With Augeus on Osquery](https://medium.com/swlh/parsing-configuration-files-with-augeas-on-osquery-ec8260a9a50b)
@@ -22,6 +21,12 @@
 
 ## Fleet
 - [fleetdm](https://github.com/fleetdm/fleet) and [releases](https://github.com/fleetdm/fleet/releases)
+- [Deployment](https://fleetdm.com/docs/deploying)  and [load testing](https://fleetdm.com/docs/deploying/load-testing)
+
+### Deployment on AWS
+- [Fleet Terraform Module Announcment](https://fleetdm.com/announcements/fleet-terraform-module) which is [here](https://github.com/fleetdm/fleet/tree/main/terraform)
+- [Deploy Fleet on AWS with Terraform](https://fleetdm.com/deploy/deploying-fleet-on-aws-with-terraform) - November 2021 
+- [DogFood Terraform](https://github.com/fleetdm/fleet/tree/main/infrastructure/dogfood/terraform)
 
 ### Blogs
 - [Use FleetDM to optimize system monitoring with Osquery](https://www.redhat.com/sysadmin/fleetdm-get-started) - Jan 2023 

@@ -9,11 +9,13 @@
 - [Schema](https://www.osquery.io/schema/)
 - [Downloads](https://www.osquery.io/downloads/official/) and [releases](https://github.com/osquery/osquery/releases)
 
-# GitHub Repos
+# GitHub Repos & Extensions
 - https://github.com/palantir/osquery-configuration
+- https://github.com/GSA/laptop-management
 - https://github.com/chainguard-dev/osquery-defense-kit
 - https://github.com/trailofbits/osquery-extensions
 - https://github.com/uptycslabs/uptycs_osquery_extensions
+- https://github.com/burdzwastaken/osquery-s3-config
 
 # Use Cases
 ## FIM 
@@ -23,6 +25,7 @@
 
 ## Compliance
 - [How to Achieve PCI-Compliant FIM & Endpoint Security With One Tool](https://www.uptycs.com/blog/fim-pci) - Mar 2020 
+- [https://www.uptycs.com/blog/does-osquery-violate-gdpr-rules-around-personally-identifiable-data-pii](https://www.uptycs.com/blog/does-osquery-violate-gdpr-rules-around-personally-identifiable-data-pii) - May 2018
 
 # Queries
 
@@ -34,6 +37,7 @@
 ## Repos
 - https://github.com/Cisco-Talos/osquery_queries
 - https://github.com/junecastillote/OSQuery_Queries
+- https://github.com/CyberSift/OSQUERY-PACKS
 
 # Management
 - [Reliable osquery deployment for the paranoid](https://www.youtube.com/watch?v=sq6WX8nUbb8) and [blog](https://robertheaton.com/osquery-deployment/)

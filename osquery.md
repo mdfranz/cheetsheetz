@@ -9,11 +9,31 @@
 - [Schema](https://www.osquery.io/schema/)
 - [Downloads](https://www.osquery.io/downloads/official/) and [releases](https://github.com/osquery/osquery/releases)
 
+# GitHub Repos
+- https://github.com/palantir/osquery-configuration
+- https://github.com/chainguard-dev/osquery-defense-kit
+- https://github.com/trailofbits/osquery-extensions
+- https://github.com/uptycslabs/uptycs_osquery_extensions
+
+# Use Cases
+## FIM 
+- [Basics](https://osquery.readthedocs.io/en/stable/deployment/file-integrity-monitoring/)
+- [Integrate Osquery to enable FIM (File Integrity Monitoring)](https://caswithnitin.medium.com/integrate-osquery-to-enable-fim-file-integrity-management-737331c1ff78) - Jan 2021
+- [File Integrity Monitoring on AWS using OSQuery, Kinesis and Lambda](https://medium.com/@venkat_95554/file-integrity-monitoring-on-aws-using-osquery-kinesis-and-lambda-d7459f6dee2b)
+
+## Compliance
+- [How to Achieve PCI-Compliant FIM & Endpoint Security With One Tool](https://www.uptycs.com/blog/fim-pci) - Mar 2020 
+
 # Queries
+
+## Articles
 - [Using Augeas with osquery: How to access configuration files from hundreds of applications](https://www.uptycs.com/blog/using-augeas-with-osquery-how-to-access-configuration-files-from-hundreds-of-applications) 
 - [Parsing Configuration Files With Augeus on Osquery](https://medium.com/swlh/parsing-configuration-files-with-augeas-on-osquery-ec8260a9a50b)
 - [Panther Osquery Log Analysis Guide](https://panther.com/blog/osquery-log-analysis/) - Aug 2020
 - [Defending Environments and Hunting Malware with Osquery](https://evil.plumbing/defcon27/slides-dc27-osquery-workshop.pdf)
+## Repos
+- https://github.com/Cisco-Talos/osquery_queries
+- https://github.com/junecastillote/OSQuery_Queries
 
 # Management
 - [Reliable osquery deployment for the paranoid](https://www.youtube.com/watch?v=sq6WX8nUbb8) and [blog](https://robertheaton.com/osquery-deployment/)
@@ -22,6 +42,7 @@
 ## Fleet
 - [fleetdm](https://github.com/fleetdm/fleet) and [releases](https://github.com/fleetdm/fleet/releases)
 - [Deployment](https://fleetdm.com/docs/deploying)  and [load testing](https://fleetdm.com/docs/deploying/load-testing)
+- [2022 Pentest/Audit Results](https://fleetdm.com/docs/using-fleet/security-audits) - 
 
 ### Deployment on AWS
 - [Fleet Terraform Module Announcment](https://fleetdm.com/announcements/fleet-terraform-module) which is [here](https://github.com/fleetdm/fleet/tree/main/terraform)

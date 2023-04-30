@@ -46,12 +46,11 @@
 - [Container Security Checklist: From Image to Workload](https://github.com/krol3/container-security-checklist)
 - [Top 20 Dockefile best Practices](https://sysdig.com/blog/dockerfile-best-practices/) - Sysdig, March 2021
 
-# CICD 
-- [Top 10 CICD Security Risks](https://www.cidersecurity.io/top-10-cicd-security-risks/)
 
 # K8S
 - [Detection Engineering for Kubernetes clusters](https://research.nccgroup.com/2021/11/10/detection-engineering-for-kubernetes-clusters/)
 
+See [k8sec.md](k8sec.md)
 
 # Tools
 

@@ -2,7 +2,7 @@
 
 # References
 - [Documentation](https://multipass.run/docs)
-
+- [CLI Commands](https://multipass.run/docs/multipass-cli-commands)
 
 # The basics
 

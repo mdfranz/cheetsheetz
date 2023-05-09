@@ -46,7 +46,6 @@
 - [Container Security Checklist: From Image to Workload](https://github.com/krol3/container-security-checklist)
 - [Top 20 Dockefile best Practices](https://sysdig.com/blog/dockerfile-best-practices/) - Sysdig, March 2021
 
-
 # K8S
 - [Detection Engineering for Kubernetes clusters](https://research.nccgroup.com/2021/11/10/detection-engineering-for-kubernetes-clusters/)
 

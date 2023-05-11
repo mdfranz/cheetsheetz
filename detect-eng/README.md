@@ -1,6 +1,7 @@
 # Links Pages
 - https://github.com/infosecB/awesome-detection-engineering
 - https://github.com/jatrost/awesome-detection-rules
+- [Detection Engineering Notes](https://cyberlibrarian.ca/detection-engineering-notes)
 
 # Blogs
 - [Data Driven Detection Engineering](https://jvehent.org/2023/04/16/Data-Driven-Detection-Engineering.html) - Apr 2023
@@ -37,5 +38,6 @@
 # Examples & Kits
 - [https://github.com/chainguard-dev/osquery-defense-kit](Production-ready detection & response queries for osquery)
 
-
-
+# SOC Design
+- [11 Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/news-insights/publication/11-strategies-world-class-cybersecurity-operations-center) - by Mitre
+- [NCSC Building a Security Operations Centre](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre)

@@ -1,6 +1,6 @@
 # New Ones I'm Listening to
-- [Lenny's Podcast](https://www.lennyspodcast.com/) - Interviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product.
-- [MLOps Community Weekly](https://podcast.mlops.community/)
+- [Practically Intelligent](https://podcasts.apple.com/us/podcast/practically-intelligent/id1678774315) - a podcast where we dive into the latest news and developments in the world of Artificial Intelligence. We bring together builders, founders, and researchers from the AI community to discuss complex technical topics in a way that's accessible and engaging for everyone.
+- [CISO Series Podcast](https://podcasts.apple.com/us/podcast/ciso-series-podcast/id1391337832)
 
 # Always 
 - [At the Table](https://www.tablegroup.com/at-the-table/) - Sit across the table from one of the foremost experts in leadership and business. In his simple and approachable style, Pat tackles every topic related to the world of work (and some that aren’t). From culture to family to building world-class organizations, Pat brings his wisdom, humor, and insight together to provide actionable advice for leaders everywhere.
@@ -10,13 +10,13 @@
 
 # Usually 
 - [CTO Connection](https://podcast.ctoconnection.com/) - If you run an engineering organization, connect with and learn from your peers at CTO Connection - the premier community for senior software engineering leaders. Learn from the experiences of successful engineering leaders at fast-growth tech startups.
-- [The One Important Thing](https://podcasts.apple.com/us/podcast/the-important-thing/id1195704939) - 
-The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s spend a few minutes of your life listening and learning about an Important Thing
+- [The One Important Thing](https://podcasts.apple.com/us/podcast/the-important-thing/id1195704939) - The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s spend a few minutes of your life listening and learning about an Important Thing
 - [Product Thinking](https://podcasts.apple.com/us/podcast/product-thinking/id1550800132) - Successful product management isn’t just about training the product managers who work side by side with developers everyday to build better products. It’s about taking a step back, approaching the systems within organizations as a whole, and leveling up product leadership to improve these systems.
 - [Horns of a Dilemma](https://warontherocks.com/category/podcasts/horns-of-a-dilemma/) - Brought to you by the Texas National Security Review, this podcast features lectures, interviews, and panel discussions at the University of Texas
 - [The Knowledge Podcat](https://fs.blog/knowledge-project-podcast/) - Hosted by Shane Parrish, The Knowledge Project Podcast uncovers the best of what other people have already figured out so you can use their insights in your life. New episodes every second Tuesday.
 
 # Sometimes
+- [HBR IdeaCast](https://podcasts.apple.com/us/podcast/hbr-ideacast/id152022135) - A weekly podcast featuring the leading thinkers in business and management.
 - [In Moscow's Shadows](https://inmoscowsshadows.buzzsprout.com/) - Russia, behind the headlines as well as in the shadows. This podcast is the audio counterpart to Mark Galeotti's blog of the same name, a place where "one of the most informed and provocative voices on modern Russia", can talk about Russia historical and (more often) contemporary, discuss new books and research, and sometimes talk to other Russia-watchers.
 - [Unchained](https://unchainedpodcast.com/) - Crypto assets and blockchain technology are about to transform every trust-based interaction of our lives, from financial services to identity to the Internet of Things. In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money.
 - [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of the software world
@@ -25,9 +25,11 @@ The Important Thing with Michael (“Rands”) Lopp and Lyle Troxell. Let’s sp
 - [On the Media](https://www.wnycstudios.org/podcasts/otm) - Peabody Award-winning On the Media podcast is your guide to examining how the media sausage is made. Host Brooke Gladstone examines threats to free speech and government transparency, cast a skeptical eye on media coverage of the week’s big stories and unravel hidden political narratives in everything we read, watch and hear.
 - [Engineering Culture Podcast](https://www.infoq.com/engineering-culture-podcast/) - Software engineers, architects and team leads have found inspiration to build better, high performing teams by listening to the weekly InfoQ Podcast.
 - [Radiolab](https://radiolab.org/) - Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers.
+- [ThoughtWorks](https://www.thoughtworks.com/en-us/insights/podcasts) - plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.
+
 
 # Ocassionally 
 - [Experiencing Data: Designing for Analytics](https://designingforanalytics.com/experiencing-data-podcast/) - How do you create innovative machine learning and analytics products? Brian T. O’Neill reveals the strategies and activities that CxOs and innovative leaders in technical product management, data science and analytics are using to deliver indispensable experiences around data
-
-- [ThoughtWorks](https://www.thoughtworks.com/en-us/insights/podcasts) - plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.
 - [Real Python](https://realpython.com/podcasts/rpp/) - A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
+- [Lenny's Podcast](https://www.lennyspodcast.com/) - Interviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product.
+- [MLOps Community Weekly](https://podcast.mlops.community/)

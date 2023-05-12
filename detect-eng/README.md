@@ -18,6 +18,7 @@
 - [Lessons Learned in Detection Engineering](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856) - Ryan McGeehan, 2017 
 
 # Videos
+- [BSidesSF 2023 - Detection as Code: The Engineering-Focused Future... (Bow, Sparks, Rozhin, Barrett)](https://www.youtube.com/watch?v=jjgjRsQuUeY)
 - [Threat Hunting SANS: What is Detection Engineering?](https://www.youtube.com/watch?v=ZcXTUKPK6x0) - Mar 2022
 - [Detection Engineering Methodologies](https://www.youtube.com/watch?v=qy_0wGMJc9w&t=843s) - LASCON, Jan 2022
 - [Measuring Detection Engineering Teams](https://www.youtube.com/watch?v=Dxccs8UDu6w&t=29s) - Blue Team Summit, 2021

@@ -1,5 +1,12 @@
 # LLM
 
+## Courses
+
+- [Cohere LLMU](https://docs.cohere.com/docs/llmu) and [YouTube Channel](https://www.youtube.com/@CohereAI)
+
+## Meta
+- https://github.com/facebookresearch/llama/
+
 ## Repos
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/eugeneyan/open-llms

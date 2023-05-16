@@ -33,5 +33,8 @@
 - [Langchain's Pandas & CSV Agents: Revolutionizing Data Querying using OpenAI LLMs](https://blog.futuresmart.ai/langchains-pandas-csv-agents-revolutionizing-data-querying-using-openai-llms) - May '23
 - [Speak Your Queries: How Langchain Lets You Chat with Your Database](https://dev.to/ngonidzashe/speak-your-queries-how-langchain-lets-you-chat-with-your-database-p62)
 
+## Tools built on LangChain
+- https://github.com/imartinez/privateGPT - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection!k
+
 # Other Libraries
 - https://github.com/gventuri/pandas-ai

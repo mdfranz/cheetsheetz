@@ -3,18 +3,18 @@
 - https://github.com/GalvanizeDataScience/data-science-primer
 - https://github.com/datasciencemasters/go
 
+# Application Deployment and Packaging
+
+## Streamlit 
+
+### Fargate Deployment
+- [Deploy PyCaret and Streamlit app using AWS Fargate — serverless infrastructure](https://towardsdatascience.com/deploy-pycaret-and-streamlit-app-using-aws-fargate-serverless-infrastructure-8b7d7c0584c2)
+- https://github.com/nicolasmetallo/deploy-streamlit-on-fargate-with-aws-cdk
+
 # Apache Arrow
 - [https://towardsdatascience.com/a-gentle-introduction-to-apache-arrow-with-apache-spark-and-pandas-bb19ffe0ddae](A gentle introduction to Apache Arrow with Apache Spark and Pandas)
 
-
 # Airflow
-## Concepts
-### DAG
-
-Consists of different types of tasks (that consist of operators)
-
-### Task Instances 
-
 ## Blogs
 
 - [https://gtoonstra.github.io/etl-with-airflow/index.html](ETL Best Practices with Airflow)
@@ -28,7 +28,6 @@ Consists of different types of tasks (that consist of operators)
 - https://github.com/stwind/airflow-on-kubernetes
 
 ## Tutorials
-
 - [https://github.com/jghoman/awesome-apache-airflow#best-practices-lessons-learned-and-cool-use-cases](Best practices, lessons learned and cool use cases)
 - [https://humansofdata.atlan.com/2018/06/apache-airflow-disease-outbreaks-india/](How to Create a Workflow in Apache Airflow to Track Disease Outbreaks in India)
 

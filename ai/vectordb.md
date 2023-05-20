@@ -8,3 +8,6 @@
 # Local Installations of Open Source Vector DB
 - [qdrant Quick Start](https://qdrant.tech/documentation/quick_start/)
 - [Milvus Docker Compose](https://milvus.io/docs/install_standalone-docker.md) and [K8S Operator](https://milvus.io/docs/install_cluster-milvusoperator.md)
+
+# Lightweight/Embedded Vector DB's
+- [Chroma](https://github.com/chroma-core/chroma)

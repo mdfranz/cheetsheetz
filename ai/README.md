@@ -1,3 +1,6 @@
+# Important Papers
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 
+
 # YouTube Channels
 - [Sam Witteveen](https://www.youtube.com/watch?v=9ISVjh8mdlA)
 

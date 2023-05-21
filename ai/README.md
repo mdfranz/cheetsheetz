@@ -1,3 +1,5 @@
+Also see https://gitlab.com/mdfranz/ai-learning
+
 # Models 
 - [Stanford CRFM](https://crfm.stanford.edu/helm/latest/?models=1)
 - [Together WebSite](https://www.together.xyz/) and [GitHub Repo](https://github.com/togethercomputer)

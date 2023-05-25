@@ -12,6 +12,8 @@
 ## Repos
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/eugeneyan/open-llms
+- https://github.com/karpathy
+- https://github.com/simonw/llm - and see [blog](https://simonwillison.net/2023/May/18/cli-tools-for-llms/) 
 
 # LLMOps
 - [LLMOps (LLM Bootcamp)](https://www.youtube.com/watch?v=Fquj2u7ay40) - May '23

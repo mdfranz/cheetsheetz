@@ -33,3 +33,9 @@ PS C:\Users\matth> multipass exec helpful-dog free
 Mem:         8140380      243712     7604520         916      292148     7658384
 Swap:              0           0           0
 ```
+
+Creating
+
+```
+$ multipass launch -m 8G -c4 -d 20G --name awstools jammy
+```

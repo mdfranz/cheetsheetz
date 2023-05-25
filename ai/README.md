@@ -1,5 +1,17 @@
+Also see https://gitlab.com/mdfranz/ai-learning
+
+# Important Papers
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 
+
 # YouTube Channels
 - [Sam Witteveen](https://www.youtube.com/watch?v=9ISVjh8mdlA)
+
+# Podcasts
+- [Gradient Dissent](https://podcasts.apple.com/us/podcast/gradient-dissent-exploring-machine-learning-ai-deep/id1504567418) - Gradient Dissent is a machine learning podcast hosted by Lukas Biewald that takes you behind-the-scenes to learn how industry leaders are putting deep learning models in production at Facebook, Google, Lyft, OpenAI, and more.
+- [Hard Fork](https://podcasts.apple.com/us/podcast/hard-fork/id1528594034) - Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech.
+- [This Day in AI](https://podcasts.apple.com/us/podcast/this-day-in-ai-podcast/id1671087656) - This Day in AI Podcast is a podcast all about AI. It's an hour-long conversation on the influence and rise of AI in technology and society. Hosted by Michael and Chris Sharkey.
+- [Practically Intelligent](https://podcasts.apple.com/us/podcast/practically-intelligent/id1678774315) - We bring together builders, founders, and researchers from the AI community to discuss complex technical topics in a way that's accessible and engaging for everyone. Hosted by Sinan, a successful founder, author, and ML practitioner, and Akshay, a Partner at Tola Capital, our conversations will provide valuable insights into the exciting world of AI.
+- [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235) - Unsupervised Learning is a Security, AI, and Meaning-focused podcast that looks at how best to thrive as humans in a post-AI world. It combines original ideas, analysis, and mental models to bring not just the news, but why it matters and how to respond
 
 # Models 
 - [Stanford CRFM](https://crfm.stanford.edu/helm/latest/?models=1)

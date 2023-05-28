@@ -1,5 +1,8 @@
-# Azure Functions
+# CLI
+- [azure-cli](https://pypi.org/project/azure-cli/) on PyPi
+- [Azure CLI Documentation](https://learn.microsoft.com/en-us/cli/azure/) 
 
+# Azure Functions
 ## Python
 - [Azure Functions Python Developer Guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=application-level)
 
@@ -7,7 +10,6 @@
 - [Deploying an Azure Function in Go](https://www.hildeberto.com/2021/01/azure-function-golang-2.html)
 
 ## Deployment 
-- [How to deploy a Python Function App in Azure with Terraform](https://medium.com/datasparq-technology/how-to-deploy-a-python-function-app-in-azure-with-terraform-68af428a6c9a) and 
 - [Provisioning Azure Functions Using Terraform](https://www.hildeberto.com/2021/03/terraform-azure-function.html)
 
 # Azure Messaging Services

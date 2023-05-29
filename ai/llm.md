@@ -28,6 +28,7 @@
 - [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](https://medium.com/towards-data-science/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c) - Apr 23
 - [Playing with GPT-3, LangChain, and the OpenAI Embeddings API](https://www.shruggingface.com/blog/langchain-cloudflare-qa-agent) - Feb '23
 - [LangChain AI Handbook (Pinecone)](https://www.pinecone.io/learn/langchain/)
+- [LangChain Indexes: Document Loaders](https://www.davidgentile.net/langchain-indexes-document-loaders/) - May '23 
 
 ## Repos
 - https://github.com/kyrolabs/awesome-langchain

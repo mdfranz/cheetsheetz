@@ -1,4 +1,4 @@
-Also see https://gitlab.com/mdfranz/ai-learning
+Also see https://gitlab.com/mdfranz/ai-learning and other topics
 
 # Important Papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 

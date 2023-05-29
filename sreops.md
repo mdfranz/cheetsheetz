@@ -1,7 +1,6 @@
 # Core Works
 - [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
 
-
 # Postmortems
 - [Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems)
 

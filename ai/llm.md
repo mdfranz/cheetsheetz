@@ -1,4 +1,5 @@
 # LLM
+
 ## Blogs
 - [MosaicML](https://www.mosaicml.com/blog)
 
@@ -9,16 +10,23 @@
 ## Meta
 - https://github.com/facebookresearch/llama/
 
-## Repos
+## Repos about LLMs
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/eugeneyan/open-llms
 - https://github.com/karpathy
 - https://github.com/simonw/llm - and see [blog](https://simonwillison.net/2023/May/18/cli-tools-for-llms/) 
+- https://github.com/the-crypt-keeper/can-ai-code
 
 # LLMOps
 - [LLMOps (LLM Bootcamp)](https://www.youtube.com/watch?v=Fquj2u7ay40) - May '23
 - [https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922](https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922)
 - [Microsoft Open Sources LMOps: A New Research Initiative to Enable Applications Development with Foundation Models, Part I](https://medium.com/towards-artificial-intelligence/microsoft-open-sources-lmops-a-new-research-initiative-to-enable-applications-development-with-d6d7e7ca2059)
+
+## AWS
+- [Amazon Bedrock](https://aws.amazon.com/bedrock/) and [Titan](https://aws.amazon.com/bedrock/titan/) and 
+[Amazon SageMaker Notebook Instances](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html)
+- [Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK](https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo)
+- [Use Built-in Algorithms with Pre-trained Models in SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/overview.html#use-sagemaker-jumpstart-algorithms-with-pretrained-models) and https://github.com/aws/amazon-sagemaker-examples/
 
 # OpenAI
 - [How I Turned My Company’s Docs into a Searchable Database with OpenAI](https://medium.com/towards-data-science/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736) - Apr 23
@@ -41,7 +49,8 @@
 
 ## Tools built on LangChain
 
-### Self-Hosting
+### Self-Hosting (aka "Air Gapped" LLMs) 
+- [Privacy-first AI search using LangChain and Elasticsearch](https://www.elastic.co/blog/privacy-first-ai-search-langchain-elasticsearch) - May and see https://github.com/elastic/blog-langchain-elasticsearch
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection
 - [CASALIOY](https://github.com/su77ungr/CASALIOY) - The fastest toolkit for air-gapped LLMs
 

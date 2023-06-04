@@ -29,8 +29,6 @@
 - [Use Built-in Algorithms with Pre-trained Models in SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/overview.html#use-sagemaker-jumpstart-algorithms-with-pretrained-models) and https://github.com/aws/amazon-sagemaker-examples/
 - [Use Machine Learning Frameworks, Python, and R with Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/frameworks.html)
 
-
-
 # OpenAI
 - [How I Turned My Company’s Docs into a Searchable Database with OpenAI](https://medium.com/towards-data-science/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736) - Apr 23
 
@@ -52,9 +50,12 @@
 
 ## Tools built on LangChain
 
+- [localGPT](https://github.com/PromtEngineer/localGPT)
+- [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection
+
+
 ### Self-Hosting (aka "Air Gapped" LLMs) 
 - [Privacy-first AI search using LangChain and Elasticsearch](https://www.elastic.co/blog/privacy-first-ai-search-langchain-elasticsearch) - May and see https://github.com/elastic/blog-langchain-elasticsearch
-- [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection
 - [CASALIOY](https://github.com/su77ungr/CASALIOY) - The fastest toolkit for air-gapped LLMs
 
 # Other Libraries

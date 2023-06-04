@@ -29,3 +29,6 @@ Also see https://gitlab.com/mdfranz/ai-learning and other topics
 
 # Courses
 - [Practical Deep Learning](https://course.fast.ai/)
+
+# Miscellaneous
+- [AICrowd](https://www.aicrowd.com/) and [git repo](https://gitlab.aicrowd.com/aicrowd)

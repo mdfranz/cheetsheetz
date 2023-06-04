@@ -1,6 +1,10 @@
 # Visualization Sites
 - [SecViz](https://secviz.org/)
 
+# Vectors and Embeddings
+- [Pinecone Threat Detection](https://docs.pinecone.io/docs/it-threat-detection) - notebook shows how to use Pinecone's similarity search as a service to build an application for detecting rare events. Such application is common in cyber-security and fraud detection domains wherein only a tiny fraction of the events are malicious.
+- [How we built it: Alert Similarity](https://expel.com/blog/how-we-built-it-alert-similarity/) and see [Preventing Déjà Vu: Vector Similarity Search for Security Alerts, with Expel and Pinecone](https://www.youtube.com/watch?v=C2x2iWjBzBU) 
+
 # Security Data Sets
 ## Links Pages
 - [SecRepo](https://www.secrepo.com/)

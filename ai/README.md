@@ -30,5 +30,9 @@ Also see https://gitlab.com/mdfranz/ai-learning and other topics
 # Courses
 - [Practical Deep Learning](https://course.fast.ai/)
 
+## Google
+- [Google Developer ML Foundational Courses](https://developers.google.com/machine-learning/foundational-courses) - 
+- [Basics of ML with Tensorflow](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning) 
+
 # Miscellaneous
 - [AICrowd](https://www.aicrowd.com/) and [git repo](https://gitlab.aicrowd.com/aicrowd)

@@ -3,7 +3,10 @@
 - [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)
 
 # Vulnerabilities
+- [AVID](https://avidml.org/database/) - an AI Vulnerability Taxonomy
 - [OWASP Top 10 for LLM Aps](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [Atlas](https://atlas.mitre.org/) - Adversarial Threat Landscape for Artificial-Intelligence Systems (think ATT&CK for AI)
+- [Failure Modes in Machine Learning](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning)
 
 # Frameworks
 - [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework)

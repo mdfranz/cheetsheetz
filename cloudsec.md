@@ -9,6 +9,7 @@
 - [On Establishing a Cloud Security Program](On Establishing a Cloud Security Program) - May 2021
 
 # AWS
+- [Automated Incident Response and Forensics Framework](https://github.com/awslabs/aws-automated-incident-response-and-forensics)
 - [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 - [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
 - [Complete AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)

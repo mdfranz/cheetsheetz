@@ -25,6 +25,7 @@
 ## AWS
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/) and [Titan](https://aws.amazon.com/bedrock/titan/) and 
 [Amazon SageMaker Notebook Instances](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) and [Deep Learning Containers](https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/what-is-dlc.html) with [gitlab](https://github.com/aws/deep-learning-containers)
+- [Retrieval Augmented Generation](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html) 
 - [Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK](https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo)
 - [Use Built-in Algorithms with Pre-trained Models in SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/overview.html#use-sagemaker-jumpstart-algorithms-with-pretrained-models) and https://github.com/aws/amazon-sagemaker-examples/
 - [Use Machine Learning Frameworks, Python, and R with Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/frameworks.html)
@@ -49,7 +50,6 @@
 - [Speak Your Queries: How Langchain Lets You Chat with Your Database](https://dev.to/ngonidzashe/speak-your-queries-how-langchain-lets-you-chat-with-your-database-p62)
 
 ## Tools built on LangChain
-
 - [localGPT](https://github.com/PromtEngineer/localGPT)
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection
 

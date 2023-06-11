@@ -10,3 +10,6 @@
 # CICD 
 - [Top 10 CICD Security Risks](https://www.cidersecurity.io/top-10-cicd-security-risks/)
 
+# OPA
+- https://github.com/StyraInc/awesome-opa
+

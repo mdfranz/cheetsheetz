@@ -33,6 +33,11 @@
 # EKS & Guard Duty
 - [Guide to AWS GuardDuty findings in EKS](https://medium.com/@cloud_tips/guide-to-aws-guardduty-findings-in-eks-62babbd7da88)
 
+
+# Admission Controllers
+- [What is an AC](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - from K8S docs
+- [kyverno](https://kyverno.io/)
+
 # Comparisons
 - [Threat Detection on EKS – Comparing Falco and GuardDuty For EKS Protection](https://dev.to/aws-builders/threat-detection-on-eks-comparing-falco-and-guardduty-for-eks-protection-2m6b) 
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)

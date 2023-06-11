@@ -24,3 +24,6 @@
 - [PrivacyRaven Has Left the Nest](https://blog.trailofbits.com/2020/10/08/privacyraven-has-left-the-nest/) - Oct '20
 # Tools
 [rebuff](https://github.com/woop/rebuff) - Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense.
+
+# Products & Companies
+- [predictionGuargd](https://www.predictionguard.com)

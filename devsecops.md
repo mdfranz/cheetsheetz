@@ -14,3 +14,12 @@
 # OPA
 - https://github.com/StyraInc/awesome-opa
 
+# DoD 
+- https://public.cyber.mil/devsecops/
+- https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/DoDEnterpriseDevSecOpsStrategyGuide.pdf
+- https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/DoD-Enterprise-DevSecOps-Reference-Design-v2.0-CNCF-Kubernetes.pdf
+- https://dodcio.defense.gov/Portals/0/Documents/Library/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20-%20AWS%20Managed%20Services_DoD-CIO_20211019.pdf
+- [DoD Enterprise DevSecOps Playbook](https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/DoD-Enterprise-DevSecOps-2.0-Playbook.pdf)
+
+# CNCF
+- [Secure Software Factory Whitepaper](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)

@@ -26,6 +26,7 @@
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu)
 - [CloudSaga](https://github.com/awslabs/aws-cloudsaga)
 
+
 ## Ransomware 
 - [Introducing the Ransomware Risk Management on AWS Whitepaper](https://aws.amazon.com/blogs/security/introducing-the-ransomware-risk-management-on-aws-whitepaper/) - Sept 2021
 - [NISTIR 7374](https://docs.aws.amazon.com/whitepapers/latest/ransomware-risk-management-on-aws-using-nist-csf/nistir-8374-ransomware-profile.html)
@@ -70,3 +71,7 @@ See [k8sec.md](k8sec.md)
 
 # Misc
 - [Lateral movement risks in the cloud and how to prevent them – Part 1: the network layer (VPC)](https://www.wiz.io/blog/lateral-movement-risks-in-the-cloud-and-how-to-prevent-them-part-1-the-network-layer)
+
+
+# CTD
+- [cloudfoxable](https://github.com/BishopFox/cloudfoxable)

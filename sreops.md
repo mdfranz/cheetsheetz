@@ -17,3 +17,9 @@
 - [PagerDuty Best Practices for On Call Teams](https://goingoncall.pagerduty.com/)
 - [On-Call and Incident Response: Lessons for Success, the New Relic Way](https://newrelic.com/blog/best-practices/on-call-and-incident-response-new-relic-best-practices)
 - [A manager’s guide to improving on-call](https://www.atlassian.com/incident-management/on-call/improving-on-call)
+
+# Monitoring
+- [Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/) - from Google SRE Book
+
+# Alerting
+- [An Alerting strategy for the cloud](https://abstraction.blog/2023/06/13/cloud-alerting-strategy)

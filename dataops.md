@@ -1,4 +1,7 @@
+This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Also see [airflow](airflow.md)
+
 # General Articles, Blogs, and Talks
+- [This is how you set up an MLOps platform on AWS EKS with Kubeflow and MLflow](https://medium.com/ubuntu-ai/kubeflow-mlflow-on-eks-136b672e9afa)
 - [InnoQ MLOps Site](https://ml-ops.org/)
 - [What are Model Governance and Model Operations](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/) (OReilly, June 2019)
 - [DotScience MLOps Manifesto](https://dotscience.com/manifesto/) and https://www.dataopsmanifesto.org/
@@ -79,7 +82,6 @@
 - [DBT](https://www.getdbt.com/)
 - [Taming the Dependency Hell with dbt](https://medium.com/tiqets-tech/taming-the-dependency-hell-with-dbt-2491771a11be) - March 2021
 
-
 ### Great Expectations
 - [Great Expectations](https://github.com/great-expectations/great_expectations) -  helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests. Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time). Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality and https://greatexpectations.io/
 - [Using GitHub Actions for MLOps & Data Science](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
@@ -99,7 +101,6 @@
 - [PrefectCore](https://github.com/prefecthq/prefect) 
 - [PipelineWise](https://github.com/transferwise/pipelinewise) 
 - [Singer](https://www.singer.io/) 
-
 
 ## Lineage and Metadata Management
 - [DataHub](https://github.com/linkedin/datahub)

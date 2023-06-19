@@ -74,10 +74,10 @@
 # Books
 - [Hacking Kubernetes](https://www.oreilly.com/library/view/hacking-kubernetes/9781492081722/) - Martin & Hausenblas, October 2021
 
-# PCI Compliance
-## Lite Blogs
+# Compliance
+- [Elastic Compliant K8](https://elastisys.io/compliantkubernetes) - useful mapping of GDPR and ISO to Open Source projects
+
+## PCI 
 - [PCI Compliance for Containers and Kubernetes](https://sysdig.com/blog/container-pci-compliance/) - March 2020
 - [Full Sail Ahead: Navigating PCI Compliance on Kubernetes - Part 1, Networking](https://www.schellman.com/blog/full-sail-ahead-part-1) 
 - [PCI Compliance for Kubernetes in detail - Part 2 - Authorization](https://raesene.github.io/blog/2022/10/08/PCI-Kubernetes-Section2-Authorization/) - Oct 2022
-
-## WhitePapers

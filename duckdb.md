@@ -2,10 +2,11 @@
 - [Discord](https://discord.com/invite/tcvwpjfnZx)
 - [GitHub Discussions](https://github.com/duckdb/duckdb/discussions)
 
+# Useful Doc Links
+- [pragmas](https://duckdb.org/docs/sql/pragmas) - how to view stats and make configuration changes.
 
-# Useful Doc Link
-
-- (pragmas)(https://duckdb.org/docs/sql/pragmas) - how to view stats and make configuration changes.
+# Queries
+- https://github.com/mdfranz/matano-scripts/tree/main/data/cloudtrail/duckdb
 
 # Blogs
 ## Parquet
@@ -13,10 +14,17 @@
 
 # Commands to Remember
 
-## Creating from Parquet
+## Data Loading
+
+### Creating from Parquet
 
 ```
 create table aws_cloudtrail as select * from "*.parquet";
+```
+
+### Loading from JSON
+```
+create table flow as select * from  "vpc_flow.json";
 ```
 
 ## Memory Usage

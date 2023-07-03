@@ -20,6 +20,9 @@
 - [Milvus Docker Compose](https://milvus.io/docs/install_standalone-docker.md) and [K8S Operator](https://milvus.io/docs/install_cluster-milvusoperator.md)
 - [Weaviate Docker Compose](https://weaviate.io/developers/weaviate/installation/docker-compose)
 
+# Postgres
+- [PostgreSQL as a Vector Database: Create, Store, and Query OpenAI Embeddings With pgvector](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/) - Jun '23
+
 # Lightweight/Embedded Vector DB's
 - [Chroma](https://github.com/chroma-core/chroma)
 

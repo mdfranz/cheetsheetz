@@ -17,6 +17,11 @@
 - https://github.com/simonw/llm - and see [blog](https://simonwillison.net/2023/May/18/cli-tools-for-llms/) 
 - https://github.com/the-crypt-keeper/can-ai-code
 
+# AGI and Agents
+
+## Blogs
+- [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) - Apr '23
+
 # LLMOps
 - [LLMOps (LLM Bootcamp)](https://www.youtube.com/watch?v=Fquj2u7ay40) - May '23
 - [https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922](https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922)
@@ -34,6 +39,8 @@ Also see [SageMaker](../aws/sagemaker.md)
 
 # OpenAI
 - [How I Turned My Company’s Docs into a Searchable Database with OpenAI](https://medium.com/towards-data-science/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736) - Apr 23
+
+
 
 # Langchain
 ## Intro Blogs

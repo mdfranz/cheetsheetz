@@ -4,6 +4,7 @@
 - [Detection Engineering Notes](https://cyberlibrarian.ca/detection-engineering-notes)
 
 # Blogs
+- [The Relationships Between Detection Engineering Paradigms](https://medium.com/@gary.j.katz/the-relationships-between-detection-engineering-paradigms-f1ccd5685e23) - Jun 2023
 - [Data Driven Detection Engineering](https://jvehent.org/2023/04/16/Data-Driven-Detection-Engineering.html) - Apr 2023
 - [Building Better Detection Systems: Introducing KRANG at Carta](https://medium.com/building-carta/building-better-detection-systems-introducing-krang-at-carta-55b08af5763e) - Mar 2023
 - [Elevating Security Alert Management using Automation](https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c)

@@ -1,8 +1,6 @@
 # Tutorials
-
 - [A Crash Course on Kubernetes](https://blog.gruntwork.io/a-crash-course-on-kubernetes-a96c3891ad82) - July 2022
 - [Learning Kubernetes, the Easy Way](https://medium.com/towards-data-science/learn-kubernetes-the-easy-way-d1cfa460c013) - September 2022
-
 
 # Packaging 
 
@@ -31,11 +29,14 @@ See [k3s](k3s/)
 ## Minikube
 - https://fabianlee.org/2019/02/11/kubernetes-running-minikube-locally-on-ubuntu-using-kvm/
 - https://medium.com/@nieldw/switching-from-minikube-with-virtualbox-to-kvm-2f742db704c9
+minikube-jammy
+
+### KVM
+- https://minikube.sigs.k8s.io/docs/drivers/kvm2/
 
 ## Microk8s
 
 ## KIND
-
 
 # Platforms and PaaS
 - [acorn](https://acorn.io/)

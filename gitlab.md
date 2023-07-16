@@ -1,7 +1,6 @@
 # Docs
 - [Tutorial: Create and run your first GitLab CI/CD pipeline](https://docs.gitlab.com/ee/ci/quick_start/index.html)
 
-
 # Blogs & Videos
 
 ## Ansible
@@ -20,7 +19,6 @@
 - [How to Govern Terraform States Using GitLab Enterprise](https://www.gofirefly.io/blog/how-to-govern-terraform-states-using-gitlab-enterprise)
 
 Also see [Gitlab Terraform Images](https://gitlab.com/gitlab-org/terraform-images) and [GitLab CI template for Terraform](https://to-be-continuous.gitlab.io/doc/ref/terraform/)
-
 
 
 # CI Configuration
@@ -62,41 +60,18 @@ test:
     - echo "For example run a test suite"
 ```
 
-
-
-
 ## Runners
 
 - https://docs.gitlab.com/ee/ci/runners/README.html 
 - https://gitlab-runner-downloads.s3.amazonaws.com/latest/index.html
 
+# Self Hosting Junk
 
-Process
+- 2 vCPUs and 8GB RAM is minimum resources
 
-```
-root      1334  0.1  3.2 829060 30864 ?        Ssl  20:48   0:07 /usr/bin/gitlab-runner run --working-directory /home/gitlab-runner --config /etc/gitlab-runner/config.toml --service gitlab-runner --user gitlab-runner
-```
-
-Runs are root so why it doesn't need to be added to the docker group
-
-# Executors
-
-I've tested
-
-## Shell
-
-## Docker
-
-# Troubleshooting
-
-## Runner
+Save the stuff in /etc/gitlab after the initial install
 
 ```
-ubuntu@pi4b-b7ead551:~$ journalctl -f -u gitlab-runner
--- Logs begin at Mon 2022-01-10 04:56:39 UTC. --
-Dec 11 23:51:09 pi4b-b7ead551 gitlab-runner[821]: Checking for jobs...nothing                         runner=H9ZYz2v8
-Dec 11 23:51:12 pi4b-b7ead551 gitlab-runner[821]: Checking for jobs...nothing                         runner=H9ZYz2v8
-Dec 11 23:51:15 pi4b-b7ead551 gitlab-runner[821]: Checking for jobs...nothing                         runner=H9ZYz2v8
+root@gitlab16:/etc/gitlab# ls
+gitlab-secrets.json  gitlab.rb  initial_root_password  trusted-certs
 ```
-
-

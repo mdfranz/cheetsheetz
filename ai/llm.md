@@ -40,7 +40,10 @@ Also see [SageMaker](../aws/sagemaker.md)
 # OpenAI
 - [How I Turned My Company’s Docs into a Searchable Database with OpenAI](https://medium.com/towards-data-science/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736) - Apr 23
 
+## ChatGPT Command Line Tools
 
+### Blogs
+- [Unleash the Power of OpenAI’s ChatGPT API: Command-Line Conversations Made Easy with Python](https://medium.com/codingthesmartway-com-blog/unleash-the-power-of-openais-chatgpt-api-command-line-conversations-made-easy-with-python-3442e25899fd) - Mar '23
 
 # Langchain
 ## Intro Blogs

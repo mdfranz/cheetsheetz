@@ -53,6 +53,7 @@
 - [Falco Sidekick](https://github.com/falcosecurity/falcosidekick)
 - [Falco Driverkit with Docker on Debian](https://falco.org/blog/falco-driverkit-debian-docker/)
 - [Restructuring the Kubernetes Threat Matrix and Evaluating Attack Detection by Falco](https://engineering.mercari.com/en/blog/entry/20220928-kubernetes-threat-matrix-and-attack-detection-by-falco/)
+- [PCI/DSS Controls with Falco](https://falco.org/blog/falco-pci-controls/) - July '23
 
 ## Audit Logs
 - [Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)

@@ -22,4 +22,6 @@
 - [Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/) - from Google SRE Book
 
 # Alerting
+- [The Pyramid of Alerting](https://dev.to/karelvandenbussche/the-pyramid-of-alerting-1g48) - Apr '23
 - [An Alerting strategy for the cloud](https://abstraction.blog/2023/06/13/cloud-alerting-strategy)
+

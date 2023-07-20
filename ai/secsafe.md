@@ -16,8 +16,8 @@
 # Bug Bounties and CTF
 - [HackAPrompt: Trick Large Language Models](https://www.aicrowd.com/challenges/hackaprompt-2023) - HackAPrompt is a prompt hacking competition aimed at enhancing AI safety and education by challenging participants to outsmart large language models (e.g. ChatGPT, GPT-3). In particlar, participants will attempt to hack through many prompt hacking defenses as possible
 
-
 # Blogs
+- [A framework to securely use LLMs in companies - Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely) - jul 20230
 - [Guardrails for LLMOps](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4) - Jun '23
 - [We need a new way to measure AI security](https://blog.trailofbits.com/2023/03/14/ai-security-safety-audit-assurance-heidy-khlaaf-odd/) - Mar '23
 - [PrivacyRaven: Implementing a proof of concept for model inversion](https://blog.trailofbits.com/2021/11/09/privacyraven-implementing-a-proof-of-concept-for-model-inversion/) - Nov '21

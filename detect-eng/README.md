@@ -1,7 +1,11 @@
+# Books
+- [Practical Threat Detection Engineering](https://www.packtpub.com/product/practical-threat-detection-engineering/9781801076715) by By Megan Roddie , Jason Deyalsingh , Gary J. Katz (2023)
+
 # Links Pages
 - https://github.com/infosecB/awesome-detection-engineering
 - https://github.com/jatrost/awesome-detection-rules
 - [Detection Engineering Notes](https://cyberlibrarian.ca/detection-engineering-notes)
+- https://github.com/0x4D31/detection-and-response-pipeline
 
 # Blogs
 - [The Relationships Between Detection Engineering Paradigms](https://medium.com/@gary.j.katz/the-relationships-between-detection-engineering-paradigms-f1ccd5685e23) - Jun 2023

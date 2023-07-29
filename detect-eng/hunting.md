@@ -1,4 +1,6 @@
 # Blogs
+- [Turning Hunts Into Detections with PEAK](https://www.splunk.com/en_us/blog/security/peak-turning-hunts-into-detections.html) - July 2023
+- [Baseline Hunting with the PEAK Framework](https://www.splunk.com/en_us/blog/security/peak-baseline-hunting.html) - July 2023
 - [Model-Assisted Threat Hunting (M-ATH) with the PEAK Framework](https://www.splunk.com/en_us/blog/security/peak-framework-math-model-assisted-threat-hunting.html) - May 2023
 - [Introducing the PEAK Threat Hunting Framework](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html) - April 2023
 

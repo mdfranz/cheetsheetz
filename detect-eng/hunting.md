@@ -6,10 +6,15 @@
 - [Introducing the PEAK Threat Hunting Framework](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html) - April 2023
 - [The Relative Strengths of Threat (Detection|Hunting)](https://www.linkedin.com/pulse/relative-strengths-threat-detectionhunting-andrew-vanvleet/) - March 2023
 
+- [The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html) - 2014
 
 # Conference Talks
 - [Achieving PEAK Performance: Introducing the PEAK Threat Hunting Framework](https://conf.splunk.com/files/2023/recordings/SEC1492B.mp4) - 2023
 
-
 # Frameworks
+- PEAK - see blogs above
 - [Sqrrl](https://www.threathunting.net/sqrrl-archive)
+- [TaHiTI](https://www.betaalvereniging.nl/en/safety/tahiti/)
+
+## Pyramid of Pain
+- [Pyramid of Pain in Cyber Threat Intelligence](https://warnerchad.medium.com/the-pyramid-of-pain-in-cti-575a1da23cae) - Dec '21 (this has a Link to Bianco Video) 

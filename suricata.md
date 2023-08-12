@@ -38,6 +38,17 @@ OK
 ```
 
 
+Watching DNS Requests
+
+```
+jq 'select(.event_type == "dns")| .dns' | jq -r 'select(.type == "query")| .rrname'
+```
+
+And TLS SNI
+
+```
+jq 'select(.event_type == "tls")|.tls.sni'
+```
 
 ## General Config
 - https://thehackerwhorolls.blogspot.com/2019/10/suricata-cheat-sheet.html

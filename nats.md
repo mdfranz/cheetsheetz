@@ -11,6 +11,18 @@
 - [Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
 
 # Ops
+
+## CLI Usage
+
+Read from a subject
+
+```
+$ nats -s nats://192.168.2.31 sub suricata.dns -r | jq -c
+
+```
+
+##
+
 ## Get & Config
 - https://github.com/nats-io/nats-server/releases
 - https://docs.nats.io/nats-server/configuration
@@ -45,7 +57,6 @@ And follow https://docs.nats.io/nats-server/clients
 
 # Videos
 - [Think Differently](https://www.youtube.com/watch?v=ud-cdirF8OA) - OSCON 2019
-
 
 # Sample Code & Projects (JetStream)
 ## Golang

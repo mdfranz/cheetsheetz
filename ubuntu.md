@@ -76,4 +76,14 @@ sudo ln -s /usr/share/ca-certificates/mozilla/* /opt/Citrix/ICAClient/keystore/c
 
 ```
 # apt install gnome-terminal xinit openbox
+# snap install firefox
 ```
+
+Install wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb and 
+
+```
+# apt --fix-broken install
+```
+
+
+

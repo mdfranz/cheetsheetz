@@ -72,3 +72,8 @@ You will receive multiple errors, but ultimately you'll need to do
 sudo ln -s /usr/share/ca-certificates/mozilla/* /opt/Citrix/ICAClient/keystore/cacerts
 ```
 
+# X on Ubuntu Server
+
+```
+# apt install gnome-terminal xinit openbox
+```

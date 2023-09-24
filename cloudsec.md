@@ -9,7 +9,7 @@
 - [On Establishing a Cloud Security Program](On Establishing a Cloud Security Program) - May 2021
 
 # AWS
-- [Automated Incident Response and Forensics Framework](https://github.com/awslabs/aws-automated-incident-response-and-forensics)
+- [Automated Incident Response and Forensics Framework](https://github.com/awslabs/aws-automated-incident-response-and-forensics) and https://github.com/aws-samples/aws-customer-playbook-framework
 - [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 - [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
 - [Complete AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/)
@@ -45,6 +45,7 @@
 - [IAMActionHunter](https://github.com/RhinoSecurityLabs/IAMActionHunter)
 - [Pmapper](https://github.com/nccgroup/PMapper)
 - [AWS Lambda Function: IAM User Password Expiry Notice | SES, Boto3 & Terraform](https://blog.jennasrunbooks.com/aws-lambda-function-iam-user-password-expiry-notice-ses-boto3-terraform)j
+- [iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 
 ## IMDS
 - [Add defense in depth against open firewalls, reverse proxies, and SSRF vulnerabilities with enhancements to the EC2 Instance Metadata Service](https://aws.amazon.com/blogs/security/defense-in-depth-open-firewalls-reverse-proxies-ssrf-vulnerabilities-ec2-instance-metadata-service/)

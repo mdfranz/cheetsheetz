@@ -2,6 +2,9 @@
 - [Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling)
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 
+## Tools
+- [Threat Composer](https://github.com/awslabs/threat-composer)
+
 # Open Source Static Analysis
 - [Semgrep](https://semgrep.dev/)
 - [gokart](https://github.com/praetorian-inc/gokart)

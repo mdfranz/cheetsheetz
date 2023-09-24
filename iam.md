@@ -73,7 +73,8 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://docs.wso2.com/display/IS540/Extending+the+Identity+Server
 - https://store.wso2.com/store/assets/isconnector/list
 
-
+# Misc
+- https://authzed.com/products/spicedb
 
 # Security
 - [Account Takeover (ATO) Checklist](https://github.com/magoo/ato-checklist/blob/master/README.md)

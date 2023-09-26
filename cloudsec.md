@@ -1,6 +1,7 @@
 # Links Pages
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+- https://github.com/Funkmyster/awesome-cloud-security
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 

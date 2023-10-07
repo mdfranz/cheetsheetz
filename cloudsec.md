@@ -10,6 +10,7 @@
 - [On Establishing a Cloud Security Program](On Establishing a Cloud Security Program) - May 2021
 
 # AWS
+- [GuardDuty Runbook Generator](https://github.com/aquia-inc/aws-guardduty-runbook-generator) 
 - [Automated Incident Response and Forensics Framework](https://github.com/awslabs/aws-automated-incident-response-and-forensics) and https://github.com/aws-samples/aws-customer-playbook-framework
 - [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 - [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)

@@ -12,4 +12,5 @@ Also see [Engineering Career](./eng-career.md)
 
 # Remote
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
+- [RTO vs WFH: my default recommendations for remote vs colocated teams](https://jacobian.org/2023/sep/29/rto-wfh/) - Sep '23
 

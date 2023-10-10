@@ -4,6 +4,9 @@
 # Postmortems
 - [Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems)
 
+# Platform Engineering
+- [Cloud Native Operational Excellence](https://cnoe.io/) - goal for the CNOE framework is to bring together a cohort of enterprises operating at the same scale so that they can navigate their operational technology decisions together, de-risk their tooling bets, coordinate contribution, and offer guidance to large enterprises on which CNCF technologies to use together to achieve the best cloud efficiencies. Also see [blog](https://cnoe.io/blog)
+
 # On Call
 ## Articles
 - [Increment On Call Issue](https://increment.com/on-call/) - April 2017

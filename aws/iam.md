@@ -1,4 +1,6 @@
-
+# Blogs
+- [Overhauling AWS account access with Terraform, Granted, and GitOps](https://www.duckbillgroup.com/blog/overhauling-aws-account-access-with-terraform-granted-and-gitops/) - 
+- [5 THINGS YOU MAY NOT KNOW ABOUT AWS IAM](https://blog.revolve.team/2023/09/21/5-things-about-aws-iam/) - Sep '23
 
 ## Types of Policies
 

@@ -75,7 +75,7 @@ sudo ln -s /usr/share/ca-certificates/mozilla/* /opt/Citrix/ICAClient/keystore/c
 # X on Ubuntu Server
 
 ```
-# apt install gnome-terminal xinit openbox
+# apt install gnome-terminal xinit openbox gnome-tweaks
 # snap install firefox
 ```
 

@@ -17,3 +17,6 @@
 # REPL
 - https://github.com/paololazzari/terraform-repl
 - https://github.com/andreineculau/tfrepl
+
+# Generating 
+- [former2](https://github.com/iann0036/former20) - allows you to generate Infrastructure-as-Code outputs from your existing resources within your AWS account.

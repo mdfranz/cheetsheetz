@@ -12,6 +12,19 @@
 
 # Account Security
 
+## Billing Account 
+
+- Associated with org, folder, project 
+
+## IAM 
+
+- Types:  Service Accounts or Users
+- Roles: Custom or Built-In
+
+- https://cloudsecdocs.com/gcp/services/iam/projects/
+
+
+
 ## Auditing
 - [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit)
 - [Managing Log Buckets](https://cloud.google.com/logging/docs/buckets)

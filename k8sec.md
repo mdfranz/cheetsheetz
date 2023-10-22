@@ -66,6 +66,7 @@
 - [kubaudit](https://github.com/Shopify/kubeaudit)
 - [kubescape](https://github.com/armosec/kubescape) 
 - [badrobot](https://github.com/controlplaneio/badrobot)
+- [marvin](https://github.com/undistro/marvin)
 
 ## SBOM
 - [kubeclarity](https://github.com/openclarity/kubeclarity)

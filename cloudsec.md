@@ -39,6 +39,7 @@
 - [Overview of AWS Logs](https://dev-website.lab-terraform.mhg.ovh/overview-of-aws-logs.html) - October 2020
 
 ## IR
+- [AWS Forensics Presciptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/cyber-forensics.html)
 - [AWS Security Hub Automated Response and Remediation](https://github.com/aws-solutions/aws-security-hub-automated-response-and-remediation)
 - [AWS Incident Response Playbook Samples](https://github.com/aws-samples/aws-incident-response-playbooks)
 - [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/welcome.html) - Nov 2020

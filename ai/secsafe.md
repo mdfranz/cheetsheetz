@@ -1,3 +1,6 @@
+# Adversary Tooling using LLMs
+- https://github.com/mrwadams/attackgen
+
 # Links Pages
 - [Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks)
 - [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)
@@ -11,7 +14,6 @@
 # Frameworks
 - [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework)
 - [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
-
 
 # Bug Bounties and CTF
 - [HackAPrompt: Trick Large Language Models](https://www.aicrowd.com/challenges/hackaprompt-2023) - HackAPrompt is a prompt hacking competition aimed at enhancing AI safety and education by challenging participants to outsmart large language models (e.g. ChatGPT, GPT-3). In particlar, participants will attempt to hack through many prompt hacking defenses as possible

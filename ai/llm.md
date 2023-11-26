@@ -50,11 +50,23 @@ Also see [SageMaker](../aws/sagemaker.md)
 
 # LlamaIndex
 
+## Podcasts
+- [Data augmentation with LlamaIndex](https://podcasts.apple.com/us/podcast/practical-ai-machine-learning-data-science/id1406537385?i=1000614179108) - (May, 2023)
+
 ## Intro Blogs
+- [Generative AI: An Absolute Beginner’s Guide to LlamaIndex](https://www.singlestore.com/blog/generative-ai-a-guide-to-llamaindex/) - (Nov, 2023)
 - [LlamaIndex for Beginners: A Comprehensive Introduction!](https://medium.com/gitconnected/llamaindex-for-beginners-a-comprehensive-introduction-201ac6b49dee) (Nov, 2023)
+- [A Complete LlamaIndex Guide](https://nanonets.com/blog/llamaindex/) - (Oct, 2023)
 
 ## Docs
 - https://docs.llamaindex.ai/en/stable/module_guides/models/llms.html
+
+## Examples with Vector Storage
+
+- https://weaviate.io/blog/llamaindex-and-weaviate
+
+## Sample Projects
+- https://github.com/Woodpecker2000/llamaindex-example-woodpecker
 
 
 # Langchain
@@ -84,3 +96,9 @@ Also see [SageMaker](../aws/sagemaker.md)
 
 # Other Libraries
 - https://github.com/gventuri/pandas-ai
+
+
+# Contraptions
+
+- https://github.com/LangStream/
+

@@ -1,11 +1,10 @@
+# InfluxDB 3.0
+- [Flight, DataFusion, Arrow, and Parquet: Using the FDAP Architecture to build InfluxDB 3.0](https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/)
+
 # InfluxDB 2.x OSS
 
 - See https://docs.influxdata.com/influxdb/v2.6/install/?t=Linux#install-influxdb-as-a-service-with-systemd
 - Get from https://github.com/influxdata/influxdb/releases
-
-
-
-
 
 # Old
 

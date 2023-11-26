@@ -48,6 +48,15 @@ Also see [SageMaker](../aws/sagemaker.md)
 ### Blogs
 - [Unleash the Power of OpenAI’s ChatGPT API: Command-Line Conversations Made Easy with Python](https://medium.com/codingthesmartway-com-blog/unleash-the-power-of-openais-chatgpt-api-command-line-conversations-made-easy-with-python-3442e25899fd) - Mar '23
 
+# LlamaIndex
+
+## Intro Blogs
+- [LlamaIndex for Beginners: A Comprehensive Introduction!](https://medium.com/gitconnected/llamaindex-for-beginners-a-comprehensive-introduction-201ac6b49dee) (Nov, 2023)
+
+## Docs
+- https://docs.llamaindex.ai/en/stable/module_guides/models/llms.html
+
+
 # Langchain
 ## Intro Blogs
 - [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](https://medium.com/towards-data-science/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c) - Apr 23

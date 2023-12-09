@@ -4,7 +4,15 @@
 ## Blogs
 - [https://www.torahmusings.com/](Torah Musings)
 
-# Reconstruction(ist/ing) Judiasm
+# Traditions
+
+## Reconstruction(ist/ing) Judiasm
 - https://www.reconstructingjudaism.org/
 - [Evolve](https://evolve.reconstructingjudaism.org/) 
 - [RRC](https://rrc.edu/) -  Reconstructionist Rabbinical College
+
+# Reform
+- [Union for Reform Juaism](https://urj.org/)
+
+# Consersvative
+- [USCJ](https://uscj.org/)

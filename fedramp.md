@@ -1,4 +1,6 @@
-
+# News
+- [December Modernization Overview](https://www.fedramp.gov/2023-12-14-fedramp-modernization-overview/)
+- [October 27 OMB Memo](https://www.fedramp.gov/2023-10-27-omb-fedramp-memo/)
 
 # IAC
 - https://github.com/Coalfire-CF/Coalfire-AWS-RAMPpak

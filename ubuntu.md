@@ -38,6 +38,30 @@ Would you like the LXD server to be available over the network? (yes/no) [defaul
 Would you like stale cached images to be updated automatically? (yes/no) [default=yes] 
 Would you like a YAML "lxd init" preseed to be printed? (yes/no) [default=no]: no
 ```
+
+## Using Non Ubuntu Images
+
+```
+mfranz@notakia:~$ lxc image list images: | grep amazon
+| amazonlinux/2 (3 more)                   | 8b7940ce7f91 | yes    | Amazonlinux 2 amd64 (20231219_05:09)       | x86_64       | CONTAINER       | 63.27MiB   | Dec 19, 2023 at 12:00am (UTC) |
+| amazonlinux/2/arm64 (1 more)             | 16ff9c2c08d6 | yes    | Amazonlinux 2 arm64 (20231219_05:09)       | aarch64      | CONTAINER       | 62.92MiB   | Dec 19, 2023 at 12:00am (UTC) |
+| amazonlinux/2023 (3 more)                | c1ab4fd6dc12 | yes    | Amazonlinux 2023 amd64 (20231219_05:09)    | x86_64       | CONTAINER       | 63.07MiB   | Dec 19, 2023 at 12:00am (UTC) |
+
+```
+
+Disable CGroupv2 with the following command to get AWS Linux to work and run `update-grub` and reboot
+
+
+```
+GRUB_CMDLINE_LINUX="systemd.unified_cgroup_hierarchy=0"
+```
+
+And create container with 
+
+```
+$ lxc launch images:amazonlinux/2
+```	
+
 # Citrix
 
 Download [Workspaces](https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html)

@@ -21,6 +21,8 @@ UUID="685a37b9-5405-4397-8539-9e005db9bcd4" /var ext4  defaults        0 0
 
 # LXD Setup 
 
+See [Rocky Linux LXD Beginners guide](https://docs.rockylinux.org/guides/containers/lxd_web_servers/)
+
 This is the most simple setup for non-bridged LXD
 
 ```
@@ -49,7 +51,7 @@ mfranz@notakia:~$ lxc image list images: | grep amazon
 
 ```
 
-Disable CGroupv2 with the following command to get AWS Linux to work and run `update-grub` and reboot
+Disable [CGroupv2](https://chrisdown.name/talks/cgroupv2/cgroupv2-fosdem.pdf) with the following command to get AWS Linux to work and run `update-grub` and reboot
 
 
 ```
@@ -108,6 +110,3 @@ Install wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd
 ```
 # apt --fix-broken install
 ```
-
-
-

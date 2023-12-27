@@ -1,3 +1,8 @@
+# Blogs
+- [Surfing Complexity](https://surfingcomplexity.blog/) - Lorin Hochstein's ramblings about software, complex systems, and incidents.
+
+
+
 # Core Works
 - [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
 

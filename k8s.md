@@ -2,6 +2,7 @@
 - [ramitsurana github awesome-k8s](https://github.com/ramitsurana/awesome-kubernetes) and [HTML rendered](https://ramitsurana.gitbook.io/awesome-kubernetes/docs)
 
 # Tutorials
+- [Learn K8s Weekly](https://learnk8s.io/issues/) - and [blog](https://learnk8s.io/blog)
 - [A Crash Course on Kubernetes](https://blog.gruntwork.io/a-crash-course-on-kubernetes-a96c3891ad82) - July 2022
 - [Learning Kubernetes, the Easy Way](https://medium.com/towards-data-science/learn-kubernetes-the-easy-way-d1cfa460c013) - September 2022
 

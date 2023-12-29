@@ -18,6 +18,7 @@
 - https://github.com/the-crypt-keeper/can-ai-code
 
 # AGI and Agents
+- https://github.com/AaronWard/generative-ai-workbook
 
 ## Blogs
 - [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) - Apr '23

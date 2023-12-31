@@ -2,7 +2,6 @@
 - [Surfing Complexity](https://surfingcomplexity.blog/) - Lorin Hochstein's ramblings about software, complex systems, and incidents.
 
 
-
 # Core Works
 - [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
 
@@ -33,3 +32,6 @@
 - [The Pyramid of Alerting](https://dev.to/karelvandenbussche/the-pyramid-of-alerting-1g48) - Apr '23
 - [An Alerting strategy for the cloud](https://abstraction.blog/2023/06/13/cloud-alerting-strategy)
 
+# Incident Management
+- [A guide to running Incident Command](https://argoday.medium.com/incident-command-guide-9872b51d7c94) - Oct 2023
+- [Incident Response and DevOps in the Age of Generative AI](https://www.heavybit.com/library/article/generative-ai-incident-response-devops) - Oct 2023

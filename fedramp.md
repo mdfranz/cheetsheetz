@@ -13,3 +13,7 @@
 - https://kupczynski.info/posts/fips-golang/
 - https://www.suse.com/c/go-and-fips-140-2-140-3-certified-cryptography/
 
+
+
+# JAB Process
+[Navigating a JAB Provisional ATO (P-ATO)](https://stackarmor.com/navigating-a-jab-provisional-ato-p-ato/) - June 2023

@@ -2,6 +2,7 @@
 
 ## Blogs
 - [MosaicML](https://www.mosaicml.com/blog)
+- [Databricks Gen AI](https://www.databricks.com/blog/category/generative-ai)
 
 ## Courses
 - [Cohere LLMU](https://docs.cohere.com/docs/llmu) and [YouTube Channel](https://www.youtube.com/@CohereAI)
@@ -27,6 +28,9 @@
 - [LLMOps (LLM Bootcamp)](https://www.youtube.com/watch?v=Fquj2u7ay40) - May '23
 - [https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922](https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922)
 - [Microsoft Open Sources LMOps: A New Research Initiative to Enable Applications Development with Foundation Models, Part I](https://medium.com/towards-artificial-intelligence/microsoft-open-sources-lmops-a-new-research-initiative-to-enable-applications-development-with-d6d7e7ca2059)
+
+## Performance
+- [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices) - Oct 2023
 
 ## AWS
 - [Deploy Generative AI on EKS](https://aws.amazon.com/blogs/containers/deploy-generative-ai-models-on-amazon-eks/)

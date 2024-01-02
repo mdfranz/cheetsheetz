@@ -13,8 +13,10 @@
 
 # On Call
 ## Articles
-- [Increment On Call Issue](https://increment.com/on-call/) - April 2017
+- [How to Be On Call](https://www.gybe.ca/how-to-be-on-call/) - Oct 2023
+- [How to Build an Effective and Sustainable On-Call Schedule For Your Team](https://hackernoon.com/how-to-build-an-effective-and-sustainable-on-call-schedule-for-your-team-3p11a3txy)
 - [How to build a successful on-call culture: A guide for engineering teams](https://blog.usebutton.com/fostering-a-strong-engineering-on-call-culture) - June 2018 
+- [Increment On Call Issue](https://increment.com/on-call/) - April 2017
 - [Alice Goldfuss Oncall Handbook](https://github.com/alicegoldfuss/oncall-handbook)
 
 ## Videos

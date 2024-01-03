@@ -22,5 +22,10 @@ It now accepts [out of order writes](https://grafana.com/docs/loki/latest/config
 
 See [architecture](https://grafana.com/docs/loki/latest/get-started/architecture/) and [deployment modes](https://grafana.com/docs/loki/latest/get-started/deployment-modes/#simple-scalable)  and [components](https://grafana.com/docs/loki/latest/get-started/components/)
 
-[Labels](https://grafana.com/docs/loki/latest/get-started/labels/bp-labels/) can be added via [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail/) and includes [pipelines](https://grafana.com/docs/loki/latest/send-data/promtail/pipelines/) that can [parse, transform, and filter](https://grafana.com/docs/loki/latest/send-data/promtail/stages/#prometheus-pipeline-stages)
+[Labels](https://grafana.com/docs/loki/latest/get-started/labels/bp-labels/) (see [concise guide](https://grafana.com/blog/2020/08/27/the-concise-guide-to-labels-in-loki/)) can be added via [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail/) and includes [pipelines](https://grafana.com/docs/loki/latest/send-data/promtail/pipelines/) that can [parse, transform, and filter](https://grafana.com/docs/loki/latest/send-data/promtail/stages/#prometheus-pipeline-stages)
+
+[LogQL Filter Expressions](https://grafana.com/docs/loki/latest/query/#filter-expression) are used to search and alert. 
+
+# Other Tooling
+- https://github.com/grafana/grafonnet (based on (jsonnet)[https://jsonnet.org]
 

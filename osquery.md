@@ -16,6 +16,7 @@
 - https://github.com/trailofbits/osquery-extensions
 - https://github.com/uptycslabs/uptycs_osquery_extensions
 - https://github.com/burdzwastaken/osquery-s3-config
+- https://github.com/chainguard-dev/osqtool
 
 # Use Cases
 ## FIM 

@@ -17,3 +17,4 @@
 
 # Misc
 - [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd/blob/master/README-k3s.md)
+- https://rpi4cluster.com/

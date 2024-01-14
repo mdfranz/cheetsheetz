@@ -1,3 +1,6 @@
+# Installation
+- https://vector.dev/docs/setup/installation/package-managers/apt/
+
 # Example Configs
 - https://gitlab.com/mdfranz/static-configs/-/tree/master/vector
 - https://github.com/abulte/vector-test

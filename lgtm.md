@@ -5,6 +5,7 @@
 - https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/
 
 ## K8s Deployment
+- [Kubernetes Logging with Grafana Loki & Promtail in under 10 minutes](https://akyriako.medium.com/kubernetes-logging-with-grafana-loki-promtail-in-under-10-minutes-d2847d526f9e) - Feb 2023
 - [Official Helm Charts](https://grafana.com/docs/helm-charts/) 
 - [Install Grafana Loki with Helm](https://grafana.com/docs/loki/latest/setup/install/helm/)  and [Install the simple scalable Helm chart](https://grafana.com/docs/loki/latest/setup/install/helm/install-scalable/) 
 

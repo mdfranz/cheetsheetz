@@ -6,7 +6,7 @@
 - [pragmas](https://duckdb.org/docs/sql/pragmas) - how to view stats and make configuration changes.
 
 # Queries
-- https://github.com/mdfranz/matano-scripts/tree/main/data/cloudtrail/duckdb
+- https://github.com/mdfranz/matano-scripts/tree/main/data/cloudtrail/duckd
 
 # Blogs
 ## Parquet

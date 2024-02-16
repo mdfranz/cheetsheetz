@@ -8,6 +8,8 @@
 - [A Quick Tutorial on Multi-Agent Workflows with AutoGen](https://medium.com/ai-mind-labs/a-quick-tutorial-on-multi-agent-workflows-with-autogen-354a394d3df1) - Nov 2023
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework/) - Aug 2023
 
+# Rubra
+- https://github.com/acorn-io/rubra
 
 # Griptape 
 - https://github.com/griptape-ai/griptape

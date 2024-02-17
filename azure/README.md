@@ -1,6 +1,11 @@
-# CLI
-- [azure-cli](https://pypi.org/project/azure-cli/) on PyPi
-- [Azure CLI Documentation](https://learn.microsoft.com/en-us/cli/azure/) 
+# Top Level Abstractions
+
+
+## Resource Groups
+
+
+## Management Groups 
+- https://learn.microsoft.com/en-us/azure/governance/management-groups/
 
 # Azure Functions
 ## Python

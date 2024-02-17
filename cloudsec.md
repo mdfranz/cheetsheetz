@@ -53,6 +53,9 @@
 ## IMDS
 - [Add defense in depth against open firewalls, reverse proxies, and SSRF vulnerabilities with enhancements to the EC2 Instance Metadata Service](https://aws.amazon.com/blogs/security/defense-in-depth-open-firewalls-reverse-proxies-ssrf-vulnerabilities-ec2-instance-metadata-service/)
 
+# Azure
+- [WithSecure Azure Security Framework](https://www.withsecure.com/content/dam/with-secure/en/resources/withsecure-consulting-microsoft-azure-security-framework-guide-en.pdf)
+
 # Containers 
 - [Container Security Checklist: From Image to Workload](https://github.com/krol3/container-security-checklist)
 - [Top 20 Dockefile best Practices](https://sysdig.com/blog/dockerfile-best-practices/) - Sysdig, March 2021

@@ -1,4 +1,3 @@
-
 # Installation
 
 ```pip3 install azure-cli```
@@ -48,5 +47,9 @@ $ az resource list | jq '.[]|{name,location}'
     "location": "eastus"
 }
 ```
+
+# Resource Graph CLI Usage
+
+See https://learn.microsoft.com/en-us/azure/governance/resource-graph/first-query-azurecli
 
 

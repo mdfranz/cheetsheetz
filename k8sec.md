@@ -2,8 +2,11 @@
 - [ksoc-labs awesome-k8s-security](https://github.com/ksoclabs/awesome-kubernetes-security)
 
 # Starting Points
-- [OWASP K8S Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html) 
+- [OWASP K8S Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)  and [OWAS K8S Top Ten](https://github.com/OWASP/www-project-kubernetes-top-ten/tree/main)
 - [Vinum Security K8S Checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
+- [Official Kubernetes Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
+- [Risk Analysis of K8S Clusters](https://tldrsec.com/p/guides-kubernetes) - Jun 2023
+- [Kubernetes Security Best Practices](https://github.com/freach/kubernetes-security-best-practice)
 
 # Knobs
 - [Kubernetes API Server Bypass Risks](https://kubernetes.io/docs/concepts/security/api-server-bypass-risks/)
@@ -19,6 +22,7 @@
 - [The Current State of K8S Threat Modeling](https://blog.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
 - [CNCF k8s-threat-model](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
 - [NCC K8S Threat Model](https://research.nccgroup.com/2017/11/23/kubernetes-security-consider-your-threat-model/)
+- [CloudSecDocs K8S Threat Model](https://cloudsecdocs.com/container_security/theory/threats/k8s_threat_model/)
 
 # Attacking & Defending
 - [KubeCon NA 2019 CTF Guide](https://github.com/securekubernetes/securekubernetes/)
@@ -32,7 +36,10 @@
 
 # EKS & Guard Duty
 - [Guide to AWS GuardDuty findings in EKS](https://medium.com/@cloud_tips/guide-to-aws-guardduty-findings-in-eks-62babbd7da88)
+- [EKS Best Practices for Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
+# GKE
+- [GKE Harden Your Cluster](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
 
 # Admission Controllers
 - [What is an AC](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - from K8S docs

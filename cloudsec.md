@@ -55,6 +55,8 @@
 
 # Azure
 - [WithSecure Azure Security Framework](https://www.withsecure.com/content/dam/with-secure/en/resources/withsecure-consulting-microsoft-azure-security-framework-guide-en.pdf)
+- [Azure Threat Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
+
 
 # Containers 
 - [Container Security Checklist: From Image to Workload](https://github.com/krol3/container-security-checklist)

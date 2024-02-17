@@ -1,3 +1,10 @@
+# Intros
+- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
+
+# From AWS 
+- https://learn.microsoft.com/en-us/azure/architecture/aws-professional/
+
+
 # Top Level Abstractions
 
 

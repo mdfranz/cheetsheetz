@@ -4,12 +4,8 @@
 # From AWS 
 - https://learn.microsoft.com/en-us/azure/architecture/aws-professional/
 
-
 # Top Level Abstractions
-
-
 ## Resource Groups
-
 
 ## Management Groups 
 - https://learn.microsoft.com/en-us/azure/governance/management-groups/
@@ -25,7 +21,7 @@
 - [Provisioning Azure Functions Using Terraform](https://www.hildeberto.com/2021/03/terraform-azure-function.html)
 
 # Azure Messaging Services
-[AMQP 1.0 in Azure Service Bus and Event Hubs protocol guide](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide)
+- [AMQP 1.0 in Azure Service Bus and Event Hubs protocol guide](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide)
 
 See https://github.com/rlevchenko/terraform-azure-data has multiple data and messaging services
 

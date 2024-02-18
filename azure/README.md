@@ -1,12 +1,8 @@
 # Intros 
-- [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) 
+- [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) to include [security](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/) 
 - [Architecture Home](https://learn.microsoft.com/en-us/azure/architecture/)
+- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 
-## From Other CSP
+# Coming from Other CSPs
 - [AWS](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/) and [GCP](https://learn.microsoft.com/en-us/azure/architecture/gcp-professional/)
 
-# Top Level Abstractions
-## Resource Groups
-
-## Management Groups 
-- https://learn.microsoft.com/en-us/azure/governance/management-groups/

@@ -1,3 +1,6 @@
+# Terraform
+- https://github.com/Azure/alz-terraform-accelerator
+
 # Bicep
 - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/
 - https://medium.com/@mike_tyson_cloud/bicep-vs-terraform-a-comparative-study-of-infrastructure-as-code-on-azure-fd0468174c6

@@ -1,3 +1,6 @@
+# Terraform
+- https://github.com/Azure/alz-terraform-accelerator
+
 # Bicep
 - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/
 - https://learn.microsoft.com/en-us/training/paths/advanced-bicep/?source=recommendations

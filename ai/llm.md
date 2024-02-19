@@ -11,6 +11,9 @@
 ## Meta
 - https://github.com/facebookresearch/llama/
 
+## Other Models
+- https://github.com/ContextualAI/gritlm
+
 ## Repos about LLMs
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/eugeneyan/open-llms
@@ -101,7 +104,6 @@ Also see [SageMaker](../aws/sagemaker.md)
 
 # Other Libraries
 - https://github.com/gventuri/pandas-ai
-
 
 # Contraptions
 

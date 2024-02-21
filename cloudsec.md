@@ -39,10 +39,21 @@
 - [Overview of AWS Logs](https://dev-website.lab-terraform.mhg.ovh/overview-of-aws-logs.html) - October 2020
 
 ## IR
+
+### GCP
+- [Google Cloud Incident Response Cheat Sheet](https://medium.com/google-cloud/google-cloud-incident-response-cheat-sheet-dfde9054ac16) - Jan 2024
+
+### Azure
+
+- [How to be IR prepared in Azure](https://www.cadosecurity.com/how-to-be-ir-prepared-in-azure/) - Feb 2024
+
+### AWS
+- [How to be IR Prepared in AWS](https://www.cadosecurity.com/how-to-be-ir-prepared-in-aws/)
 - [AWS Forensics Presciptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/cyber-forensics.html)
 - [AWS Security Hub Automated Response and Remediation](https://github.com/aws-solutions/aws-security-hub-automated-response-and-remediation)
 - [AWS Incident Response Playbook Samples](https://github.com/aws-samples/aws-incident-response-playbooks)
 - [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/welcome.html) - Nov 2020
+
 
 ## IAM
 - [IAMActionHunter](https://github.com/RhinoSecurityLabs/IAMActionHunter)

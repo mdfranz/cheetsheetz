@@ -19,7 +19,8 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://github.com/OpenIdentityPlatform
 
 # Gluu
-- https://www.gluu.org/blog/gluu-versus-keycloak/
+- [Gluu](https://gluu.org/) including [docs](https://gluu.org/docs/)
+- [Jansen](https://github.com/JanssenProject/jans) - An open source digital identity platforms that scales, Janssen is a software distribution of standards-based, developer-friendly components that are engineered to work together in any cloud.
 
 ## Deployment & Operation
 - https://gluu.org/docs/gluu-server/reference/container-image-refs/

@@ -1,7 +1,27 @@
-# O'Reilly Conversational AI
+# Conversational AI
 
-Utterances
-Intent
+See https://www.manning.com/books/conversational-ai
+
+## Chapter 1 
+
+Types of AI Assistances
+- Coversational AI
+- Command Interpreters
+- Event classifiers 
+
+## Components
+
+- Interface 
+- Dialogue Enginer
+- NLU (Natural Language Understanding)
+- Orchestrator 
+
+
+## Chapter 2 - Building your first conversational AI 
+
+- Utterances
+- Intent
+
 
 ## Chapter 6
 

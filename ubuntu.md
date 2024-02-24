@@ -110,3 +110,13 @@ Install wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd
 ```
 # apt --fix-broken install
 ```
+
+# Extending a Volume Group that was too small during the install
+
+```
+# vextend -l +100%FREE -r /dev/ubuntu-vg/ubuntu-lv
+```
+
+From https://4sysops.com/archives/extending-lvm-space-in-ubuntu/
+
+

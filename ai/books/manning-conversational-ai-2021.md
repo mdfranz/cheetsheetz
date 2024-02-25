@@ -19,8 +19,16 @@ Types of AI Assistances
 
 ## Chapter 2 - Building your first conversational AI 
 
-- Utterances
-- Intent
+* Utterances - what is said in a chat interface, the *user input*
+* Intent - the goal that is being accomplished, the normalization of what the user means by their utterance
+* entitity - noun-based term or phrase
+
+NLUs have the follwoing
+- intent classifier - finds meaning 
+- entity extractor 
+
+
+## Chapter 3 - Designing Effective Processes 
 
 
 ## Chapter 6

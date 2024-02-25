@@ -24,6 +24,8 @@ uvt-simplestreams-libvirt --verbose sync release=focal arch=amd64
 uvt-simplestreams-libvirt --verbose sync release=bionic arch=amd64
 ```
 
+Add `jammy` to get the latest (22.04.x) 
+
 # Creating VMs
 
 ```
@@ -56,6 +58,12 @@ Or with a disk and bridge
 
 ```
 uvt-kvm create --memory 4096 nats release=bionic --disk 40 --bridge br0
+```
+
+Or with a password, so you can get into the console at the beginning
+
+```
+uvt-kvm create --memory 4096 elastic1 release=jammy --disk 20 --bridge br0 --password ubuntu
 ```
 
 You won't be able to uvt-ssh into this and there will be no way to find the IP address

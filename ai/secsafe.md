@@ -1,6 +1,9 @@
 # Adversary Tooling using LLMs
 - https://github.com/mrwadams/attackgen
 
+# Security Applications
+- [OpenAI Collaboration Yields 14 Recommendations for Evaluating LLMs for Cybersecurity](https://insights.sei.cmu.edu/blog/openai-collaboration-yields-14-recommendations-for-evaluating-llms-for-cybersecurity/) and [paper](https://insights.sei.cmu.edu/documents/5834/SEIOpenAICyberSecWhitepaper_FINAL.pdf) - Feb 2024
+
 # Links Pages
 - [Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks)
 - [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)

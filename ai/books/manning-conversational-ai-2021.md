@@ -45,9 +45,12 @@ Goal is to capture user interfaces
 
 #### SME
 
-
 ### 6.3 Assessing Training Data
 
 Variety - sampling approach 
 Volume - how many examples per intent are required? 
 Veracity - unambiguity of data (is intent matched) 
+
+## Chapter 8 - Testing Dialogue Flows
+
+

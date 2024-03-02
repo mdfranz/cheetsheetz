@@ -2,6 +2,7 @@
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 - https://github.com/Funkmyster/awesome-cloud-security
+- https://github.com/4ndersonLin/awesome-cloud-security
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 
@@ -42,6 +43,7 @@
 
 ### GCP
 - [Google Cloud Incident Response Cheat Sheet](https://medium.com/google-cloud/google-cloud-incident-response-cheat-sheet-dfde9054ac16) - Jan 2024
+- https://github.com/google/gcp_scanner
 
 ### Azure
 

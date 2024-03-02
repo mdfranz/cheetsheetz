@@ -22,4 +22,11 @@ Goal is to predict next work/character/sentenice based on previous sequence
 
 Representation learning - a model learning its internal representations of raw data to perform a machine learning task, rather than relying only on engineered feature extraction
 
+### What is a GPT? 
+
+A deep neural network architectures that utilize the transformer model and undergo pre-training using unsupervised learning on extensive text data, enabling the model to learn language patterns and structures.
+
+*transformer*
+~                                                                                                               
+
 ## Ch 2- LangChain for LLM Apps

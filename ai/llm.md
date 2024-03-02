@@ -60,7 +60,6 @@
 ## Sample Projects
 - https://github.com/Woodpecker2000/llamaindex-example-woodpecker
 
-
 # Langchain
 ## Intro Blogs
 - [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](https://medium.com/towards-data-science/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c) - Apr 23
@@ -81,14 +80,5 @@
 - [localGPT](https://github.com/PromtEngineer/localGPT)
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection
 
-### Self-Hosting (aka "Air Gapped" LLMs) 
-- [Privacy-first AI search using LangChain and Elasticsearch](https://www.elastic.co/blog/privacy-first-ai-search-langchain-elasticsearch) - May and see https://github.com/elastic/blog-langchain-elasticsearch
-- [CASALIOY](https://github.com/su77ungr/CASALIOY) - The fastest toolkit for air-gapped LLMs
-- [LeapFrog AI](https://github.com/defenseunicorns/leapfrogai) - designed to provide AI-as-a-service in egress limited environments. This project aims to bridge the gap between resource-constrained environments and the growing demand for sophisticated AI solutions, by enabling the hosting of APIs that provide AI-related services.
-
 # Other Libraries
 - https://github.com/gventuri/pandas-ai
-
-# Contraptions
-- https://github.com/LangStream/
-

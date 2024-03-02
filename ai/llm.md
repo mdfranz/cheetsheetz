@@ -30,8 +30,12 @@
 - https://github.com/simonw/llm - and see [blog](https://simonwillison.net/2023/May/18/cli-tools-for-llms/) 
 - https://github.com/the-crypt-keeper/can-ai-code
 
-# AGI and Agents
-- https://github.com/AaronWard/generative-ai-workbook
+# Model Formats
+- [GGUF vs. GGML: Why GGUF Is a Better File Format](https://deci.ai/blog/ggml-vs-gguf-comparing-formats-amp-top-5-methods-for-running-gguf-files/)
+
+## GGUF
+- [GGUF Spec](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md)
+- 
 
 ## Blogs
 - [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) - Apr '23

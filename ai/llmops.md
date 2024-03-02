@@ -8,22 +8,34 @@
 - [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices) - Oct 2023
 
 ## AWS
+- [How to deploy LLama 2 as an AWS Lambda function for scalable serverless inference](https://aws.plainenglish.io/guide-for-running-llama-2-using-llama-cpp-on-aws-fargate-7086bcd1ed3c) and [code](https://github.com/penkow/llama-lambda) - Oct 2023
 - [Deploy Generative AI on EKS](https://aws.amazon.com/blogs/containers/deploy-generative-ai-models-on-amazon-eks/)
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/) and [Titan](https://aws.amazon.com/bedrock/titan/) and 
 [Amazon SageMaker Notebook Instances](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) and [Deep Learning Containers](https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/what-is-dlc.html) with [gitlab](https://github.com/aws/deep-learning-containers)
 - [Retrieval Augmented Generation](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html) 
 - [Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK](https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo)
 - [Use Built-in Algorithms with Pre-trained Models in SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/overview.html#use-sagemaker-jumpstart-algorithms-with-pretrained-models) and https://github.com/aws/amazon-sagemaker-examples/
-- [Use Machine Learning Frameworks, Python, and R with Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/frameworks.html)
+- [Use Machine Learning Frameworks, Python, and R with Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/frameworks.html) 
 
 Also see [SageMaker](../aws/sagemaker.md)
 
 # Personal/Local LLMs
+## Containerizing Open Source Model 
+### Blogs
+[A Simple Guide to Run the LLama Model in a Docker Container](https://medium.com/@ahmedtm/a-simple-guide-to-run-the-llama-model-in-a-docker-container-a3899032995e) - Dec 2023
+
+### Tools/Code 
+- https://github.com/soulteary/llama-docker-playground
+- https://github.com/getumbrel/llama-gpt
+- https://github.com/bergos/llama-cpp-bundled
 
 ## Self-Hosting (aka "Air Gapped" LLMs) 
-- [CASALIOY](https://github.com/su77ungr/CASALIOY) - The fastest toolkit for air-gapped LLMs
 - [LeapFrog AI](https://github.com/defenseunicorns/leapfrogai) - designed to provide AI-as-a-service in egress limited environments. This project aims to bridge the gap between resource-constrained environments and the growing demand for sophisticated AI solutions, by enabling the hosting of APIs that provide AI-related services.
+- [h2ogpt](https://github.com/h2oai/h2ogpt) - Query and summarize your documents or just chat with local private GPT LLMs using h2oGPT, an Apache V2 open-source project.
+- [LocalAI](https://github.com/mudler/LocalAI) - free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU.
 
+### Streamlit Local Hosting
+- https://github.com/3eeps/llmon-py
 
 # Open Source 
 These may or may not be commerical 

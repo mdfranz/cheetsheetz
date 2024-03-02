@@ -14,6 +14,12 @@
 ## Meta
 - https://github.com/facebookresearch/llama/
 
+### LLama Derivatives 
+
+#### llama.cpp
+- https://github.com/ggerganov/llama.cpp
+- https://llama-cpp-python.readthedocs.io/en/latest/
+
 ## Other Models
 - https://github.com/ContextualAI/gritlm
 

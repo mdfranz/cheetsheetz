@@ -1,5 +1,11 @@
 # LLM 
 
+## Terminology
+- [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://medium.com/@santosomar/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae)
+
+
+## Application Frameworks
+
 ## Guides & Links
 - https://github.com/aishwaryanr/awesome-generative-ai-guide
 
@@ -20,8 +26,13 @@
 - https://github.com/ggerganov/llama.cpp
 - https://llama-cpp-python.readthedocs.io/en/latest/
 
+#### Code Llama
+- https://ollama.com/blog/how-to-prompt-code-llama
+- https://huggingface.co/codellama/CodeLlama-7b-Python-hf
+
 ## Other Models
 - https://github.com/ContextualAI/gritlm
+
 
 ## Repos about LLMs
 - https://github.com/Hannibal046/Awesome-LLM
@@ -51,7 +62,6 @@
 - [Unleash the Power of OpenAI’s ChatGPT API: Command-Line Conversations Made Easy with Python](https://medium.com/codingthesmartway-com-blog/unleash-the-power-of-openais-chatgpt-api-command-line-conversations-made-easy-with-python-3442e25899fd) - Mar '23
 
 # LlamaIndex
-
 ## Podcasts
 - [Data augmentation with LlamaIndex](https://podcasts.apple.com/us/podcast/practical-ai-machine-learning-data-science/id1406537385?i=1000614179108) - (May, 2023)
 
@@ -76,6 +86,7 @@
 - [Playing with GPT-3, LangChain, and the OpenAI Embeddings API](https://www.shruggingface.com/blog/langchain-cloudflare-qa-agent) - Feb '23
 - [LangChain AI Handbook (Pinecone)](https://www.pinecone.io/learn/langchain/)
 - [LangChain Indexes: Document Loaders](https://www.davidgentile.net/langchain-indexes-document-loaders/) - May '23 
+- [LangChain is Everywhere](https://medium.com/@santosomar/langchain-is-everywhere-5415613390f1) - Nov '23
 
 ## Repos
 - https://github.com/kyrolabs/awesome-langchain

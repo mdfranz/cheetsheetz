@@ -6,7 +6,7 @@ See [pricing](https://aws.amazon.com/bedrock/pricing/)
 - [Generative AI: Amazon Bedrock using the CLI](https://sbstjn.com/blog/ai-generative-ai-aws-bedrock-cli-text-generation/) - Oct 2023
 
 # Boto
-- [Bedrock Client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock.html)
+- [Bedrock Client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock.html) and [BedRock Runtime](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock-runtime.html) which is what you should be using to interact with the APIs
 - https://docs.aws.amazon.com/code-library/latest/ug/python_3_bedrock_code_examples.html
 
 # Infrastructure 

@@ -2,6 +2,7 @@
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 - https://github.com/Funkmyster/awesome-cloud-security
+- https://github.com/4ndersonLin/awesome-cloud-security
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 
@@ -10,6 +11,7 @@
 - [On Establishing a Cloud Security Program](On Establishing a Cloud Security Program) - May 2021
 
 # AWS
+- [AWS Security Reference Architecture Examples](https://github.com/aws-samples/aws-security-reference-architecture-examples) which is the CloudFormation and Terraform code for [SRA](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 - [GuardDuty Runbook Generator](https://github.com/aquia-inc/aws-guardduty-runbook-generator) 
 - [Automated Incident Response and Forensics Framework](https://github.com/awslabs/aws-automated-incident-response-and-forensics) and https://github.com/aws-samples/aws-customer-playbook-framework
 - [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
@@ -42,6 +44,7 @@
 
 ### GCP
 - [Google Cloud Incident Response Cheat Sheet](https://medium.com/google-cloud/google-cloud-incident-response-cheat-sheet-dfde9054ac16) - Jan 2024
+- https://github.com/google/gcp_scanner
 
 ### Azure
 

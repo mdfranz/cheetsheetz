@@ -39,4 +39,4 @@
 - [Jupyter One](https://github.com/JupiterOne/security-policy-templates)
 - [GoComply](https://github.com/GoComply/fedramp)
 # Related
-Also see [oscal][./oscal.md]
+Also see [oscal](./oscal.md)

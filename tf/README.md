@@ -1,11 +1,18 @@
 # Open Tofu
 - https://opentofu.org/
 
+# Official Documentation - (HashiCorp or OpenTofu)
+- [Provider Reference](https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/provider_reference)
+- [Input Variables](https://developer.hashicorp.com/terraform/language/values/variables)
+
 ## Intro Blogs
 - [An Introduction to Terraform Templates](https://faun.pub/an-introduction-to-terraform-templates-a458d813fe95)
 
-# Example Blogs
+# Best Practices
+- [Managing tfvars Files and Terraform Variable Hierarchy](https://www.env0.com/blog/managing-terraform-variable-hierarchy)
 
+
+# Example Blogs
 ## AWS
 - [Terraform AWS Provider — Everything you need to know about Multi-Account Authentication and Configuration](https://hector-reyesaleman.medium.com/terraform-aws-provider-everything-you-need-to-know-about-multi-account-authentication-and-f2343a4afd4b)
 

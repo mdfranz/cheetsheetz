@@ -43,6 +43,7 @@ Container-like deployment of models seems like a solved problem with [ollama](ht
 # Full Stack Frameworks (Non-SaaS)
 These may or may not be commerical 
 
+- [Dify](https://dify.ai/) and [github](https://github.com/langgenius/dify)
 - [BentoML](https://github.com/bentoml/BentoML) - a framework for building reliable, scalable, and cost-efficient AI applications. It comes with everything you need for model serving, application packaging, and production deployment.
 - [dstack](https://github.com/dstackai/dstack) - engine for running GPU workloads on any cloud. It works with a wide range of cloud GPU providers (AWS, GCP, Azure, Lambda, TensorDock, Vast.ai, etc.) as well as on-premises servers.
 - [pezzo](https://github.com/pezzolabs/pezzo) and [docs](https://docs.pezzo.ai/introduction/what-is-pezzo) - a powerful open-source toolkit designed to streamline the process of AI development. It empowers developers and teams to leverage the full potential of AI models in their applications with ease

@@ -4,6 +4,7 @@ See [pricing](https://aws.amazon.com/bedrock/pricing/)
 
 # Blogs
 - [Generative AI: Amazon Bedrock using the CLI](https://sbstjn.com/blog/ai-generative-ai-aws-bedrock-cli-text-generation/) - Oct 2023
+- [Basic Information about Amazon Bedrock with API Examples - Model Features, Pricing, How to Use, Explanation of Tokens and Inference Parameters](https://hidekazu-konishi.com/entry/amazon_bedrock_basic_info_and_api_examples.html) - Mar 2024
 
 # Boto
 - [Bedrock Client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock.html) and [BedRock Runtime](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock-runtime.html) which is what you should be using to interact with the APIs

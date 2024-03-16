@@ -1,8 +1,8 @@
 # LLM 
+- [openrouter](https://openrouter.ai/) - "a unified interface for LLMs"
 
 ## Terminology
 - [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://medium.com/@santosomar/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae)
-
 
 ## Application Frameworks
 
@@ -32,7 +32,6 @@
 
 ## Other Models
 - https://github.com/ContextualAI/gritlm
-
 
 ## Repos about LLMs
 - https://github.com/Hannibal046/Awesome-LLM

@@ -20,8 +20,9 @@
 Also see [SageMaker](../aws/sagemaker.md)
 
 # Personal/Local LLMs
+
 ## Containerizing Open Source Models
-Container-like deployment of models seems like a solved problem with [ollama](https://ollama.com/)
+Container or single file deployment of models seems like a solved problem with [ollama](https://ollama.com/)
 
 ### Blogs
 [A Simple Guide to Run the LLama Model in a Docker Container](https://medium.com/@ahmedtm/a-simple-guide-to-run-the-llama-model-in-a-docker-container-a3899032995e) - Dec 2023
@@ -30,6 +31,7 @@ Container-like deployment of models seems like a solved problem with [ollama](ht
 - https://github.com/soulteary/llama-docker-playground
 - https://github.com/getumbrel/llama-gpt
 - https://github.com/bergos/llama-cpp-bundled
+- https://github.com/Mozilla-Ocho/llamafile
 
 ## Self-Hosting (aka "Air Gapped" LLMs) 
 - [h2ogpt](https://github.com/h2oai/h2ogpt) - Query and summarize your documents or just chat with local private GPT LLMs using h2oGPT, an Apache V2 open-source project.

@@ -1,5 +1,5 @@
 # Bedrock
-- [Monitoring Generative AI applications using Amazon Bedrock and Amazon CloudWatch integration](https://aws.amazon.com/blogs/mt/monitoring-generative-ai-applications-using-amazon-bedrock-and-amazon-cloudwatch-integration/)
+- [Monitoring Generative AI applications using Amazon Bedrock and Amazon CloudWatch integration](https://aws.amazon.com/blogs/mt/monitoring-generative-ai-applications-using-amazon-bedrock-and-amazon-cloudwatch-integration/) - Oct 2023
 
 # Ollama
 

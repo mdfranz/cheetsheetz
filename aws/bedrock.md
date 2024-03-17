@@ -1,5 +1,5 @@
 # AWS Docs
-See [pricing](https://aws.amazon.com/bedrock/pricing/)
+- See [pricing](https://aws.amazon.com/bedrock/pricing/)
 - [Agents for Bedrock](https://aws.amazon.com/bedrock/agents/)
 
 # Blogs

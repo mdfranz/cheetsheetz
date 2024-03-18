@@ -38,6 +38,7 @@ Container or single file deployment of models seems like a solved problem with [
 - [LocalAI](https://github.com/mudler/LocalAI) - free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU.
 - [OpenLLM](https://github.com/bentoml/OpenLLM)
 - [ollama](https://github.com/ollama/ollama)
+- [Skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 
 ### Streamlit Local Hosting
 - https://github.com/3eeps/llmon-py
@@ -45,6 +46,7 @@ Container or single file deployment of models seems like a solved problem with [
 # Full Stack Frameworks (Non-SaaS)
 These may or may not be commerical 
 
+- [Metaflow](https://github.com/Netflix/metaflow) 
 - [BentoML](https://github.com/bentoml/BentoML) - a framework for building reliable, scalable, and cost-efficient AI applications. It comes with everything you need for model serving, application packaging, and production deployment.
 - [dstack](https://github.com/dstackai/dstack) - engine for running GPU workloads on any cloud. It works with a wide range of cloud GPU providers (AWS, GCP, Azure, Lambda, TensorDock, Vast.ai, etc.) as well as on-premises servers.
 - [pezzo](https://github.com/pezzolabs/pezzo) and [docs](https://docs.pezzo.ai/introduction/what-is-pezzo) - a powerful open-source toolkit designed to streamline the process of AI development. It empowers developers and teams to leverage the full potential of AI models in their applications with ease

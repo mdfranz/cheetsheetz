@@ -1,3 +1,5 @@
+Also see [chronicle](../gcp/chronicle.md) and [elastic/security](../elastic/security.md)
+
 # Books
 - [Practical Threat Detection Engineering](https://www.packtpub.com/product/practical-threat-detection-engineering/9781801076715) by By Megan Roddie , Jason Deyalsingh , Gary J. Katz (2023)
 

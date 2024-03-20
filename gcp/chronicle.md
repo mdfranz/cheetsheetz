@@ -7,3 +7,4 @@
 # Technical Details
 - [Chronicle Reference](https://cloud.google.com/chronicle/docs/reference) - Detection and Search API, UML, SOAR APIs, SDKs, Marketplace
 - [YARA-L](https://cloud.google.com/chronicle/docs/detection/yara-l-2-0-overview)
+- [datection rules](https://github.com/chronicle/detection-rules) which are in YARA-L

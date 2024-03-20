@@ -1,4 +1,4 @@
-This page covers MLOps and DataOps/Eng topics. I started this in early 2020 and 
+This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Also see [dataeng](dataeng.md)
 
 # General Articles, Blogs, and Talks
 - [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper_files/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html) - 2015 paper that laid the foundations

@@ -15,6 +15,7 @@ This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Als
 - [MLOps — Is it a Buzzword??? Part -1](https://medium.com/walmartglobaltech/mlops-is-it-a-buzzword-part-1-8573fe95290e) - June 2021, Walmart Labs
 
 ## Practices
+- [Building an End-to-End MLOps Pipeline with Open-Source Tools](https://medium.com/infer-qwak/building-an-end-to-end-mlops-pipeline-with-open-source-tools-d8bacbf4184f) - Nov 2023
 - [This is how you set up an MLOps platform on AWS EKS with Kubeflow and MLflow](https://medium.com/ubuntu-ai/kubeflow-mlflow-on-eks-136b672e9afa)
 - [Productionizing Machine Learning Models with MLOps](https://www.xenonstack.com/blog/mlops/)
 - [Deploying ML Models in Distributed Real-time Data Streaming Applications](https://www.kharekartik.dev/2020/01/12/streaming-machine-learning/)
@@ -124,6 +125,9 @@ This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Als
 - [StreamSets](https://streamsets.com/) - see https://github.com/streamsets
 
 # Cloud Offerings
+- [Qwak](https://www.qwak.com/) 
+
+
 ## Google
 - [Architecture for MLOps using TFX, Kubeflow Pipelines, and Cloud Build](https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
 - [Google ](https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline)

@@ -57,5 +57,6 @@ These may or may not be commerical
 # SaaS Vendor Solutions
 - [Arthur](https://www.arthur.ai/) 
 - [BentoML](https://www.bentoml.com/cloud) 
+- [MindsDB](https://mindsdb.com/) - "the platform for customizing AI from enterprise data, enabling smarter organizations." see [What is MindsDB](https://docs.mindsdb.com/what-is-mindsdb) and https://github.com/mindsdb/mindsdb
 - [truefoundry](https://www.truefoundry.com/llmops) and [Intro to LLMOps](https://docs.truefoundry.com/docs/introduction-1) and [github](https://github.com/truefoundry)
 

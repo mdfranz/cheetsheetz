@@ -1,9 +1,8 @@
 # Docker 
 - https://opensearch.org/docs/latest/opensearch/install/docker/
-- https://younite.us/resources/Logging-Configuration.html
 
+# Dashboards
+- [PPL](https://opensearch.org/docs/latest/search-plugins/sql/ppl/index)
 
-# Aggregations
-[Aggregations - The Elasticsearch GROUP BY](https//john.soban.ski/aggregations-the-elasticsearch-group-by.html) - June 2020
 
 

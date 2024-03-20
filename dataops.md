@@ -1,6 +1,6 @@
-This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Also see [airflow](airflow.md)
+This page covers MLOps and DataOps/Eng topics. I started this in early 2020 before the whole LLM craze hit in 2023. Also see [airflow](airflow.md) and [dataeng](dataeng.md)
 
-# General Articles, Blogs, and Talks
+# General Articles, Blogs, and Talks on MLOps
 - [This is how you set up an MLOps platform on AWS EKS with Kubeflow and MLflow](https://medium.com/ubuntu-ai/kubeflow-mlflow-on-eks-136b672e9afa)
 - [InnoQ MLOps Site](https://ml-ops.org/)
 - [What are Model Governance and Model Operations](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/) (OReilly, June 2019)
@@ -30,7 +30,6 @@ This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Als
 - [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 - [Continuous Delivery for Machine Learning: Automating the end-to-end lifecycle of Machine Learning application](https://martinfowler.com/articles/cd4ml.html)
 - [What Is MLOps And Why Your Team Should Implement It](https://medium.com/smb-lite/what-is-mlops-and-why-your-team-should-implement-it-b05b741cdf94) 
-
 # Conferences & Workshops
 - https://www.mlopsnyc.com/agenda-sessions - see https://www.youtube.com/channel/UChmi6ZzsZd9doYYVut1ppUg
 - https://www.usenix.org/sites/default/files/opml19_full_proceedings.pdf
@@ -113,6 +112,7 @@ This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Als
 - [Databand](https://github.com/databand-ai)
 
 # Vendors 
+- [Comet ML](https://www.comet.com/)
 - [Dot Science](https://dotscience.com)
 - [Data Kitche](https://datakitchen.io)
 - [Hydrosphere](https://hydrosphere.io/)

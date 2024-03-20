@@ -1,15 +1,16 @@
-This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Also see [airflow](airflow.md)
+This page covers MLOps and DataOps/Eng topics. I started this in early 2020 and 
 
 # General Articles, Blogs, and Talks
+- [Hidden Tech Debt in Machine Learning Systems](https://papers.nips.cc/paper_files/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html) - 2015 paper that laid the foundations
 - [InnoQ MLOps Site](https://ml-ops.org/) - this looks dormant but provides the state of things and problem definition in late 2019 early 2020
 
 ## Principles & Meta
 - [What are Model Governance and Model Operations](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/) (OReilly, June 2019)
 - [DataOps Manifesto](https://www.dataopsmanifesto.org/)
 - [The Rise of the Term “MLOps:” Properly Operationalized Machine Learning is the New Holy Grail](https://towardsdatascience.com/the-rise-of-the-term-mlops-3b14d5bd1bdb)
-- [MLOps: ML Engineering Best Practices from the Trenches](https://cdn2.hubspot.net/hubfs/4584542/Conference%20Slides/2019_ODSCwest_MLOps.pdf)
-- [Bristech 2019 Luke Marsdon - The future of MLOps](https://www.youtube.com/watch?v=UW2SzLwA4Xc)
-- [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V)
+- [MLOps: ML Engineering Best Practices from the Trenches](https://cdn2.hubspot.net/hubfs/4584542/Conference%20Slides/2019_ODSCwest_MLOps.pdf) - 2019
+- [Bristech 2019 Luke Marsdon - The future of MLOps](https://www.youtube.com/watch?v=UW2SzLwA4Xc) - 2019 
+- [Reimagining DevOps for ML by Elle O'Brien, Iterative.ai](https://www.youtube.com/watch?v=0MDrZpO_7Q4&list=PLVeJCYrrCemgbA1cWYn3qzdgba20xJS8V) - 2020
 - [Machine learning deserves its own flavor of Continuous Delivery](https://towardsdatascience.com/machine-learning-deserves-its-own-flavor-of-continuous-delivery-f4d1e76e6b69) - April 2020
 - [MLOps — Is it a Buzzword??? Part -1](https://medium.com/walmartglobaltech/mlops-is-it-a-buzzword-part-1-8573fe95290e) - June 2021, Walmart Labs
 

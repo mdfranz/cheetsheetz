@@ -7,6 +7,10 @@
 - [Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13) - May 2021
 - [NATS Messaging - Part 1](https://choria.io/blog/post/2020/03/23/nats_patterns_1/) and [Part 6](https://choria.io/blog/post/2020/03/30/nats_patterns_6/)
 
+## Key Value 
+- [KV DeveloperS Docs](https://docs.nats.io/using-nats/developer/develop_jetstream/kv)
+- [JetStream KV: A fascinating alternative to Redis...](https://www.youtube.com/watch?v=XLJ5_5MsgGQ) - Mar 2024 
+
 ## Comps
 - [Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
 

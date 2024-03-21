@@ -9,6 +9,8 @@ Also see https://gitlab.com/mdfranz/ai-learning and other topics
 # General References
 - [AI Wiki](https://machine-learning.paperspace.com/) - by [PaperSpace](https://paperspace.com)
 
+# Important ML/DL Concepts
+
 
 # Podcasts
 - [Gradient Dissent](https://podcasts.apple.com/us/podcast/gradient-dissent-exploring-machine-learning-ai-deep/id1504567418) - Gradient Dissent is a machine learning podcast hosted by Lukas Biewald that takes you behind-the-scenes to learn how industry leaders are putting deep learning models in production at Facebook, Google, Lyft, OpenAI, and more.

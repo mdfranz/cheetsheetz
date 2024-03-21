@@ -3,6 +3,8 @@
 - [LLMOps (LLM Bootcamp)](https://www.youtube.com/watch?v=Fquj2u7ay40) - May '23
 - [https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922](https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922)
 - [Microsoft Open Sources LMOps: A New Research Initiative to Enable Applications Development with Foundation Models, Part I](https://medium.com/towards-artificial-intelligence/microsoft-open-sources-lmops-a-new-research-initiative-to-enable-applications-development-with-d6d7e7ca2059)
+- [ML Engineer's Hell](https://github.com/stas00/ml-engineering/blob/master/insights/ai-battlefield.md#ml-engineers-hell) from [Machine Language Engineering Open Book](https://github.com/stas00/ml-engineering/tree/master)
+
 
 ## Performance
 - [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices) - Oct 2023

@@ -6,6 +6,10 @@ Also see https://gitlab.com/mdfranz/ai-learning and other topics
 # YouTube Channels
 - [Sam Witteveen](https://www.youtube.com/watch?v=9ISVjh8mdlA)
 
+# General References
+- [AI Wiki](https://machine-learning.paperspace.com/) - by [PaperSpace](https://paperspace.com)
+
+
 # Podcasts
 - [Gradient Dissent](https://podcasts.apple.com/us/podcast/gradient-dissent-exploring-machine-learning-ai-deep/id1504567418) - Gradient Dissent is a machine learning podcast hosted by Lukas Biewald that takes you behind-the-scenes to learn how industry leaders are putting deep learning models in production at Facebook, Google, Lyft, OpenAI, and more.
 - [Hard Fork](https://podcasts.apple.com/us/podcast/hard-fork/id1528594034) - Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech.

@@ -4,6 +4,8 @@
 ## Terminology
 - [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://medium.com/@santosomar/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae)
 
+
+
 ## Application Frameworks
 
 ## Guides & Links
@@ -48,10 +50,14 @@
 
 # Model Formats
 - [GGUF vs. GGML: Why GGUF Is a Better File Format](https://deci.ai/blog/ggml-vs-gguf-comparing-formats-amp-top-5-methods-for-running-gguf-files/)
+- [GGUF, the long way around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/) - Feb 2024
 
 ## GGUF
 - [GGUF Spec](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md)
 - 
+## Safetensors
+- [code](https://github.com/huggingface/safetensors) and [docs](https://huggingface.co/docs/safetensors/index)
+- [Audit shows that safetensors is safe and ready to become the default](https://huggingface.co/blog/safetensors-security-audit) - May 2023
 
 ## Blogs
 - [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) - Apr '23

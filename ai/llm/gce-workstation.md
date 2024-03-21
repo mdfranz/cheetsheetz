@@ -1,4 +1,3 @@
-
 # Create Instance 
 
 30GB RAM is probably the minimum for running OpenLLM so do an `n1-standard-8`
@@ -27,12 +26,11 @@ It is recommended to install the
 package.
 ```
 
-## Install Python Virtual Environment
+## Install Python Virtual Environment for OpenLLM
 
 ```
-sudo apt -y install python3-virtualenv python3.11-venv mosh tmux
-```
-mdfranz@instance-20240317-151052:~/openllm$ python3 -m venv .venv
+$ sudo apt -y install python3-virtualenv python3.11-venv mosh tmux
+$ ~/openllm$ python3 -m venv .venv
 
 ```
 pip install "openllm[vllm]

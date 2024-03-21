@@ -17,6 +17,12 @@
 - [Cohere LLMU](https://docs.cohere.com/docs/llmu) and [YouTube Channel](https://www.youtube.com/@CohereAI)
 - [LLM Bootcamp 2023](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) 
 
+## Mistral
+- [Mistral 7B in Short](https://mistral.ai/news/announcing-mistral-7b/) - Sep 2023 and [paper](https://arxiv.org/abs/2310.06825)
+
+### Blogs
+- [Mistral AI vs. Meta: Comparing Top Open-source LLMs](https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e) - Jan 2024
+
 ## Meta
 - https://github.com/facebookresearch/llama/
 

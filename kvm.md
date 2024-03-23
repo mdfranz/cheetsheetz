@@ -12,7 +12,9 @@ KVM acceleration can be used
 See https://help.ubuntu.com/lts/serverguide/cloud-images-and-uvtool.html
 
 
-# Add your user to  libvirt group 
+# Add your user to  kvm group 
+
+(Libvirt user shouldn't be needed on 22.04)
 
 See https://help.ubuntu.com/community/KVM/Installation
 
@@ -21,10 +23,10 @@ See https://help.ubuntu.com/community/KVM/Installation
 
 ```
 uvt-simplestreams-libvirt --verbose sync release=focal arch=amd64
-uvt-simplestreams-libvirt --verbose sync release=bionic arch=amd64
+uvt-simplestreams-libvirt --verbose sync release=jammy arch=amd64
+
 ```
 
-Add `jammy` to get the latest (22.04.x) 
 
 # Creating VMs
 

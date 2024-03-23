@@ -1,5 +1,7 @@
 This is the basic setup I use on bare-metal Ubuntu Servers (amd64 or aarch64)
 
+Also see [kvm](kvm.md) 
+
 # Monitoring
 - [Vector](https://vector.dev/releases/0.11.1/download/) - for log forwarding to remote systems or AWS
 - [Telegraf](https://github.com/influxdata/telegraf/releases) - for metrics to be forwarded to [InfluxDB](https://www.influxdata.com/get-influxdb/) and then so metrics can be viewed with [Grafana](https://grafana.com/grafana/download)
@@ -19,9 +21,30 @@ UUID="79038852-3311-490f-a4bc-85e548deb5d0" /home ext4  defaults        0 0
 UUID="685a37b9-5405-4397-8539-9e005db9bcd4" /var ext4  defaults        0 0
 ```
 
+# Setup a Bridge for Wired for VMs or Containers
+
+Something like this. On Ubuntu desktop NetworkManager is used by default
+
+```
+$ sudo cat /etc/netplan/bridged.yaml 
+[sudo] password for mdfranz: 
+network:
+  ethernets:
+    eno1:
+      dhcp4: false
+  version: 2
+
+  bridges:
+    br0:
+      interfaces: [eno1]
+      dhcp4: true
+
+```
+
+
 # LXD Setup 
 
-See [Rocky Linux LXD Beginners guide](https://docs.rockylinux.org/guides/containers/lxd_web_servers/)
+See [Rocky Linux LXD Beginners guide](https://docs.rockylinux.org/guides/containers/lxd_web_servers/) and [Ubuntu Wiki](https://ubuntu.com/server/docs/containers-lxd) page 
 
 This is the most simple setup for non-bridged LXD
 

@@ -62,3 +62,8 @@ These may or may not be commerical
 - [MindsDB](https://mindsdb.com/) - "the platform for customizing AI from enterprise data, enabling smarter organizations." see [What is MindsDB](https://docs.mindsdb.com/what-is-mindsdb) and https://github.com/mindsdb/mindsdb
 - [truefoundry](https://www.truefoundry.com/llmops) and [Intro to LLMOps](https://docs.truefoundry.com/docs/introduction-1) and [github](https://github.com/truefoundry)
 
+
+# Misc Tools
+
+## Agent Deployment
+- [swarms](https://github.com/kyegomez/swarms) - "Swarms "provides you with all the building blocks you need to build reliable, production-grade, and scalable multi-agent apps!"

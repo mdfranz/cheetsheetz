@@ -1,3 +1,5 @@
+This is mainly about the security and safety of AI vs. [security applications of AI](secapp.md)
+
 # Conferences and Workshops
 - [AI Security Summit](https://aisecuritysummit.org/) - OASIS & Cisco - Nov '23
 
@@ -8,9 +10,6 @@
 
 ## Custom GPTS
 - [Numerous Cybersecurity GPTs](https://medium.com/@santosomar/numerous-cybersecurity-gpts-c8e89d454444) - Jan
-
-# Security Applications
-- [OpenAI Collaboration Yields 14 Recommendations for Evaluating LLMs for Cybersecurity](https://insights.sei.cmu.edu/blog/openai-collaboration-yields-14-recommendations-for-evaluating-llms-for-cybersecurity/) and [paper](https://insights.sei.cmu.edu/documents/5834/SEIOpenAICyberSecWhitepaper_FINAL.pdf) - Feb 2024
 
 # Links Pages
 - [Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks)

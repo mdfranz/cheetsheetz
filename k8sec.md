@@ -45,6 +45,10 @@
 - [What is an AC](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - from K8S docs
 - [kyverno](https://kyverno.io/)
 
+# Namespace Boundaries 
+- [NamespaceHound: protecting multi-tenant K8s clusters](https://www.wiz.io/blog/introducing-namespacehound-for-cross-tenant-violation-assessments)
+
+
 # Comparisons
 - [Threat Detection on EKS – Comparing Falco and GuardDuty For EKS Protection](https://dev.to/aws-builders/threat-detection-on-eks-comparing-falco-and-guardduty-for-eks-protection-2m6b) 
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)

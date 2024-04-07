@@ -11,6 +11,7 @@ See https://about.gitlab.com/install/#ubuntu
 - [Tutorial: Create and run your first GitLab CI/CD pipeline](https://docs.gitlab.com/ee/ci/quick_start/index.html)
 
 # Blogs & Videos
+- [What Happens on GitLab When You do git push?](https://nanmu.me/en/posts/2022/what-happens-on-gitlab-when-you-do-git-push/)
 
 ## Ansible
 - [How to automate your DevOps using GitLab CI/CD + Docker + Ansible](https://medium.com/@a.golmirzaei/how-to-automate-your-devops-using-gitlab-ci-cd-docker-ansible-a32de7a116fc) - April 2022

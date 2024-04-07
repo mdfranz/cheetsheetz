@@ -2,6 +2,7 @@
 - [ksoc-labs awesome-k8s-security](https://github.com/ksoclabs/awesome-kubernetes-security)
 
 # Starting Points
+- [Securing Kubernetes: A Comprehensive Guide to Runtime Security and System Hardening](https://medium.com/@seifeddinerajhi/securing-kubernetes-a-comprehensive-guide-to-runtime-security-and-system-hardening-33f5a5328f1)
 - [OWASP K8S Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)  and [OWAS K8S Top Ten](https://github.com/OWASP/www-project-kubernetes-top-ten/tree/main)
 - [Vinum Security K8S Checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
 - [Official Kubernetes Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)

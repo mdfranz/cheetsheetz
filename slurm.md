@@ -1,5 +1,5 @@
-# Official Docs
-
+# Official Stuff
+- https://github.com/SchedMD/slurm
 
 # Intro Articles
 - [Why Slurm is a good distributed workload manager](https://medium.com/@mikeshine/why-slurm-is-a-good-distributed-workload-manager-aeda53947bd0) - Mar 2023
@@ -16,6 +16,7 @@
 - https://github.com/galaxyproject/ansible-slurm
 - https://github.com/refraction-ray/vm-cluster/tree/master) - bash script makes use of virsh interface to provision KVM based VMs and utilizes ansible playbooks to further configure the cluster.
 - https://github.com/indigo-dc/ansible-role-slurm
+- https://github.com/giovtorres/slurm-docker-cluster
 
 # Deployment Guides
 - [Deploying a HPC SLURM cluster](https://docs.catalystcloud.nz/tutorials/containers/deploying-a-hpc-slurm-cluster.html)
@@ -23,7 +24,9 @@
 - [Slurm single node installation on Ubuntu 22.04](https://medium.com/@pausantanapi2/slurm-single-node-installation-on-ubuntu-22-04-6479e70f7911) - Feb 2024
 - [How to quickly set up Slurm on Ubuntu 20.04 for single node workload scheduling](https://medium.com/@drtailor/how-to-setup-slurm-on-ubuntu-20-04-for-single-node-work-scheduling-6cc909574365) - Jan 2022 
 
-
 # Academic Deployments
 - [uchicago.edu](https://howto.cs.uchicago.edu/slurm)
 
+# Random Stuff
+- https://github.com/OleHolmNielsen/Slurm_tools
+- https://github.com/PySlurm/pyslurm

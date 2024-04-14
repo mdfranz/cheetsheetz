@@ -5,7 +5,6 @@
 - [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://medium.com/@santosomar/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae)
 
 
-
 ## Application Frameworks
 
 ## Guides & Links
@@ -24,6 +23,11 @@
 
 ### Blogs
 - [Mistral AI vs. Meta: Comparing Top Open-source LLMs](https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e) - Jan 2024
+
+## Nvidia
+See [conf/gtc2024.md]
+
+- https://github.com/NVIDIA/NeMo
 
 ## Meta
 - https://github.com/facebookresearch/llama/

@@ -7,7 +7,7 @@
 # Security 
 - [Cloud Security Benchmarks](https://learn.microsoft.com/en-us/security/benchmark/azure/) 
 - [Security Adoptions Resources](https://learn.microsoft.com/en-us/security/ciso-workshop/adoption) 
-
+- [Azure Security Controls](https://learn.microsoft.com/en-us/security/benchmark/azure/overview-v3)
 
 # Coming from Other CSPs
 - [AWS](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/) and [GCP](https://learn.microsoft.com/en-us/azure/architecture/gcp-professional/)

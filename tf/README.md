@@ -1,5 +1,6 @@
 # Open Tofu
 - https://opentofu.org/
+- [Tofu DEB](https://opentofu.org/docs/intro/install/deb/)
 
 # Official Documentation - (HashiCorp or OpenTofu)
 - [Provider Reference](https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/provider_reference)

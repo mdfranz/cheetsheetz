@@ -14,7 +14,7 @@ See https://help.ubuntu.com/lts/serverguide/cloud-images-and-uvtool.html
 
 # Add your user to  kvm group 
 
-(Libvirt user shouldn't be needed on 22.04)
+(Libvirt user shouldn't be needed on 22.04, on 24.04 just add your user to `kvm` group)
 
 See https://help.ubuntu.com/community/KVM/Installation
 

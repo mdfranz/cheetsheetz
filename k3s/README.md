@@ -15,6 +15,9 @@
 - [k3d](https://k3d.io/) - k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker
 - [k3sup](https://github.com/alexellis/k3sup) - a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM. All you need is ssh access and the k3sup binary to get kubectl access immediately.
 
+# Longhorn (and K3S)
+- https://medium.com/@pongsatt/k3s-kubernetes-cluster-storage-with-longhorn-ff201947d3f5
+
 # Misc
 - [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd/blob/master/README-k3s.md)
 - https://rpi4cluster.com/

@@ -1,7 +1,7 @@
 # Blogs
-- [AWS CLI with jq and Bash](https://medium.com/circuitpeople/aws-cli-with-jq-and-bash-9d54e2eabaf1) 
-
-
+- [AWS CLI with jq and Bash](https://medium.com/circuitpeople/aws-cli-with-jq-and-bash-9d54e2eabaf1)
+- [Dig into API calls on AWS with cloudtrail and jq](https://medium.com/@pascalwhoop/dig-into-api-calls-on-aws-with-cloudtrail-and-jq-38899c89b9ab)
+- [Quick and Dirty CloudTrail Threat Hunting Log Analysis](https://medium.com/@george.fekkas/quick-and-dirty-cloudtrail-threat-hunting-log-analysis-b64af10ef923)
 
 # Some annoything things to remember
 

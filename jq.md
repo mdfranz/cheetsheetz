@@ -29,7 +29,11 @@ You can crawl by
 ```
 find . -name "*.json.gz" | xargs gzcat | jq '.Records[] | .userIdentity | select(.type == "AssumedRole")' | less
 ```
+Creating SQL
 
+```
+find . -name "*202403*.json.gz" | xargs gzcat | jq -r '.Records[] | [.eventTime, .eventSource, .eventCatory, .readOnly, .eventName, .awsRegion, .sourceIPAddress] | @csv' > march-2024.csv
+```
 
 ```
 jq '.Records[] | .userIdentity | select(.type == "AssumedRole")'

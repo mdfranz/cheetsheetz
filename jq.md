@@ -24,7 +24,12 @@ jq '.[].jsonPayload.message' downloaded-logs-20240320-205148.json  | grep ollama
 
 ## CloudTrail
 
-Assuming you make them flat by `find . -name *.json.gz -exec mv {} ./flat \;`
+You can crawl by 
+
+```
+matt@matts-MBP tmp % find . -name "*.json.gz" | xargs gzcat | jq '.Records[] | .userIdentity | select(.type == "AssumedRole")' | less
+```
+
 
 ```
 jq '.Records[] | .userIdentity | select(.type == "AssumedRole")'

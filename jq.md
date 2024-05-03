@@ -27,7 +27,7 @@ jq '.[].jsonPayload.message' downloaded-logs-20240320-205148.json  | grep ollama
 You can crawl by 
 
 ```
-matt@matts-MBP tmp % find . -name "*.json.gz" | xargs gzcat | jq '.Records[] | .userIdentity | select(.type == "AssumedRole")' | less
+find . -name "*.json.gz" | xargs gzcat | jq '.Records[] | .userIdentity | select(.type == "AssumedRole")' | less
 ```
 
 

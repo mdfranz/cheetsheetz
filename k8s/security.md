@@ -38,6 +38,8 @@
 # EKS & Guard Duty
 - [Guide to AWS GuardDuty findings in EKS](https://medium.com/@cloud_tips/guide-to-aws-guardduty-findings-in-eks-62babbd7da88)
 - [EKS Best Practices for Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
+- [hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
+
 
 # GKE
 - [GKE Harden Your Cluster](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
@@ -79,6 +81,7 @@
 - [kubescape](https://github.com/armosec/kubescape) 
 - [badrobot](https://github.com/controlplaneio/badrobot)
 - [marvin](https://github.com/undistro/marvin)
+- [managed kubernetes auditing toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit) - by DataDog
 
 ## SBOM
 - [kubeclarity](https://github.com/openclarity/kubeclarity)

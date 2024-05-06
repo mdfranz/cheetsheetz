@@ -24,6 +24,8 @@ jq '.[].jsonPayload.message' downloaded-logs-20240320-205148.json  | grep ollama
 
 ## CloudTrail
 
+- https://github.com/warlocksmurf/jq-cheatsheet
+
 You can crawl by 
 
 ```
@@ -32,7 +34,8 @@ find . -name "*.json.gz" | xargs gzcat | jq '.Records[] | .userIdentity | select
 Creating SQL
 
 ```
-find . -name "*202403*.json.gz" | xargs gzcat | jq -r '.Records[] | [.eventTime, .eventSource, .eventCatory, .readOnly, .eventName, .awsRegion, .sourceIPAddress] | @csv' > march-2024.csv
+find . -name "*202403*.json.gz" | xargs gzcat | jq -r '.Records[] | [.eventTime, .eventSource, .eventCategory, .readOnly, .eventName, .awsRegion, .sourceIPAddress]| @csv'
+
 ```
 
 ```

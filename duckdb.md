@@ -13,7 +13,6 @@
 - [Convert or Query Parquet files without Bigdata tool(s)](https://medium.com/datadriveninvestor/convert-or-query-parquet-files-without-bigdata-tool-s-6d58132b99a7)
 
 # Commands to Remember
-
 ## Data Loading
 
 ### Creating from Parquet
@@ -26,6 +25,13 @@ create table aws_cloudtrail as select * from "*.parquet";
 ```
 create table flow as select * from  "vpc_flow.json";
 ```
+
+From CloudTrail 
+
+```
+create table ct as select * from read_json("2024-all.json",format='auto',union_by_name=True);
+```
+
 
 ## Memory Usage
 ```

@@ -18,6 +18,9 @@
 # Longhorn (and K3S)
 - https://medium.com/@pongsatt/k3s-kubernetes-cluster-storage-with-longhorn-ff201947d3f5
 
+# Homelab-K3S Stuff
+- https://github.com/ahgraber/homelab-gitops-k3s
+
 # Misc
 - [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd/blob/master/README-k3s.md)
 - https://rpi4cluster.com/

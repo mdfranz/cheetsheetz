@@ -9,6 +9,9 @@
 These should all be recent:
 - https://github.com/deviantony/docker-elk
 
+# Data Ingestion
+- [Designing a Data Ingestion Pipeline](https://www.elastic.co/guide/en/cloud/current/ec-cloud-ingest-data.html#ec-data-ingest-pipeline)
+
 # Searching and getting data
 ## Aggregations
 - [Aggregations - The Elasticsearch GROUP BY](https//john.soban.ski/aggregations-the-elasticsearch-group-by.html) - June 2020

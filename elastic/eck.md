@@ -19,4 +19,7 @@
 ## GKE
 - [GKE Autopilot Configuration Examples](https://github.com/elastic/cloud-on-k8s/tree/main/config/recipes/autopilot)
 
+# Operation 
+- [Upgrade Patterns](https://www.elastic.co/guide/en/cloud-on-k8s/current/k8s-orchestration.html#k8s-upgrade-patterns)
+
 # K3S 

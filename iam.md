@@ -6,10 +6,20 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://gist.github.com/bmaupin/6878fae9abcb63ef43f8ac9b9de8fafd
 
 # Ory
+
+## Projects
 - https://www.ory.sh/hydra
 - https://www.ory.sh/kratos
 - https://www.ory.sh/oathkeeper
 - https://www.ory.sh/docs/index
+
+## Deployment
+- https://github.com/ory/k8s
+- https://k8s.ory.sh/helm/
+### Examples
+- https://github.com/General-Consulting/keto-kratos-oathkeeper-k8s
+- https://github.com/AndriyKalashnykov/ory-k8s
+
 
 ## Blogs
 - https://blog.getambassador.io/part-2-api-access-control-and-authentication-with-kubernetes-ambassador-and-ory-oathkeeper-q-a-127fa57f6332
@@ -46,13 +56,19 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://www.keycloak.org/docs/latest/server_installation/
 - https://www.keycloak.org/docs/4.8/server_development/
 
-### Containers & K8S
+### Containers
 - https://hub.docker.com/r/jboss/keycloak/
 - https://medium.com/devops-dudes/keycloak-for-identity-and-access-management-9860a994bf0
 - https://blog.sighup.io/keycloak-ha-on-kubernetes/
+- https://mycloudjourney.medium.com/deploying-keycloak-on-kubernetes-with-minikube-db747f587f50
 
-### Monitoring
-- https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus
+#### K8S
+- https://github.com/unik6065/keycloak-k8s-deployment
+- https://github.com/Tim-herbie/k8s_keycloak
+##### EKS
+- https://github.com/lukaszbudnik/keycloak-kubernetes/blob/main/aws-eks-deployment.md
+- [Configure Keycloak on Amazon Elastic Kubernetes Service (Amazon EKS) using Terraform](https://aws.amazon.com/blogs/opensource/configure-keycloak-on-amazon-elastic-kubernetes-service-amazon-eks-using-terraform/) - July 2023
+
 - https://github.com/aerogear/keycloak-metrics-spi
 
 ## Support
@@ -60,6 +76,10 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://groups.google.com/g/keycloak-user
 
 ## Blogs
+- https://medium.com/@mycloudjourney/deploying-keycloak-on-kubernetes-with-minikube-db747f587f50
+- 
+
+
 - https://www.appsdeveloperblog.com/category/keycloak/
 - https://medium.com/@gauravwadhone/keycloak-create-custom-rest-api-86e24bff4c1e
 

@@ -1,7 +1,6 @@
 # Blogs
 - [Surfing Complexity](https://surfingcomplexity.blog/) - Lorin Hochstein's ramblings about software, complex systems, and incidents.
 
-
 # Core Works
 - [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
 
@@ -37,3 +36,9 @@
 # Incident Management
 - [A guide to running Incident Command](https://argoday.medium.com/incident-command-guide-9872b51d7c94) - Oct 2023
 - [Incident Response and DevOps in the Age of Generative AI](https://www.heavybit.com/library/article/generative-ai-incident-response-devops) - Oct 2023
+
+## Incident Postmortem Templates
+- [The Infinite Hows](https://www.oreilly.com/radar/the-infinite-hows/) - 2014, John Allspaw
+- https://howie-guide.pagerduty.com/
+- https://github.com/dastergon/postmortem-templates
+- [Why you should develop a correction of error (COE)](https://aws.amazon.com/blogs/mt/why-you-should-develop-a-correction-of-error-coe/)

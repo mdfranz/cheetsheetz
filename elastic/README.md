@@ -1,3 +1,6 @@
+# Secure Configuration
+- [Start the Elastic Stack with security enabled automaticallyStart the Elastic Stack with security enabled automatically](https://www.elastic.co/guide/en/elasticsearch/reference/current/configuring-stack-security.html)
+
 # Blogs and References
 - [Mike Polonowski's Blog](https://mpolinowski.github.io/docs/category/elasticsearch)
 

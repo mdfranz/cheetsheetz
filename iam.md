@@ -20,7 +20,6 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://github.com/General-Consulting/keto-kratos-oathkeeper-k8s
 - https://github.com/AndriyKalashnykov/ory-k8s
 
-
 ## Blogs
 - https://blog.getambassador.io/part-2-api-access-control-and-authentication-with-kubernetes-ambassador-and-ory-oathkeeper-q-a-127fa57f6332
 
@@ -77,9 +76,6 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 
 ## Blogs
 - https://medium.com/@mycloudjourney/deploying-keycloak-on-kubernetes-with-minikube-db747f587f50
-- 
-
-
 - https://www.appsdeveloperblog.com/category/keycloak/
 - https://medium.com/@gauravwadhone/keycloak-create-custom-rest-api-86e24bff4c1e
 
@@ -96,6 +92,10 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 
 # Misc
 - https://authzed.com/products/spicedb
+- [SAML Jackson](https://github.com/boxyhq/jackson) - SAML Jackson bridges or proxies a SAML login flow to OAuth 2.0 or OpenID Connect, abstracting away all the complexities of the SAML protocol. It also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning.
+
+
+
 
 # Security
 - [Account Takeover (ATO) Checklist](https://github.com/magoo/ato-checklist/blob/master/README.md)

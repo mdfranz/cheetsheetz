@@ -24,3 +24,6 @@
 # Misc
 - [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd/blob/master/README-k3s.md)
 - https://rpi4cluster.com/
+
+# Some Blogs with lots of K3s
+- https://qdnqn.com/author/qdnqn/

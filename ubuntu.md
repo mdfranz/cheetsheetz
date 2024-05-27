@@ -41,6 +41,20 @@ network:
 
 ```
 
+# Enable Screen Blank
+
+Add the following to `/etc/default/grub`
+
+```
+GRUB_CMDLINE_LINUX_DEFAULT="consoleblank=450"
+```
+
+And confirm with
+
+```
+# cat /sys/module/kernel/parameters/consoleblank
+450
+```
 
 # LXD Setup 
 

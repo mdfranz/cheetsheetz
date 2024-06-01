@@ -2,6 +2,10 @@
 - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html 
 - https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-completion.html 
 
+## SSH Session Manager Plugin
+
+See https://docs.aws.amazon.com/systems-manager/latest/userguide/install-plugin-debian-and-ubuntu.html
+
 # JQ Examples 
 
 ## IAM

@@ -5,4 +5,8 @@
   
 # NFTables Autoblocking 
 - [nft-blackhole](https://github.com/tomasz-c/nft-blackhole)
-- 
+- [nftables-geoip](https://github.com/pvxe/nftables-geoip)
+
+## IP Lists for Blocking
+- https://iplists.firehol.org/
+- https://github.com/herrbischoff/country-ip-blocks 

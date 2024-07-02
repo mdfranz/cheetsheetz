@@ -24,6 +24,12 @@ apt -y install python3-pip python3-venv
 ## From Terraform
 - [From Terraform to CDK](https://medium.com/carsales-dev/from-terrafrom-to-cdk-our-journey-of-migrating-existing-aws-resource-to-cdk-managed-f533416a4254) - May 2021
 
+## EKS
+- [AWS: CDK and Python – building an EKS cluster, and general impressions of CDK](https://rtfm.co.ua/en/aws-cdk-and-python-building-an-eks-cluster-and-general-impressions-of-cdk/) - July 2023
+- [AWS CDK (Python) How to Create EKS Cluster](https://ramasankarmolleti.com/2021/02/25/aws-cdk-python-how-to-create-eks-cluster/)
+- [Automating EKS Deployment and NGINX Setup Using Helm with AWS CDK in Python](https://dev.to/marocz/automating-eks-deployment-and-nginx-setup-using-helm-with-aws-cdk-in-python-27mn) - April 2024
+- [Managing K8S Infrastructure and Applications on AWS: The Imperative Way](https://xebia.com/blog/managing-k8s-infrastructure-and-applications-on-aws/) and [sample code](https://github.com/binxio/aws-cdk-and-cdk8s-example-project)
+
 # Tools 
 - https://github.com/tinystacks/precloud
 
@@ -43,6 +49,9 @@ apt -y install python3-pip python3-venv
 
 
 # Sample Projects
+
+
+
 ## OpenSearch
 - https://github.com/patrickmryan/opensearch-cdk
 - https://github.com/ryparker/aws-cdk-sample-opensearch-python

@@ -1,5 +1,5 @@
 # Installation
-Get nodejs (LTS) from https://nodejs.org/download/release/latest-v18.x/
+Get nodejs (LTS) from https://nodejs.org/download/release/latest-v20.x/
 
 Get it
 ```

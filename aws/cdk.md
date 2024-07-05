@@ -29,6 +29,7 @@ apt -y install python3-pip python3-venv
 - [AWS CDK (Python) How to Create EKS Cluster](https://ramasankarmolleti.com/2021/02/25/aws-cdk-python-how-to-create-eks-cluster/)
 - [Automating EKS Deployment and NGINX Setup Using Helm with AWS CDK in Python](https://dev.to/marocz/automating-eks-deployment-and-nginx-setup-using-helm-with-aws-cdk-in-python-27mn) - April 2024
 - [Managing K8S Infrastructure and Applications on AWS: The Imperative Way](https://xebia.com/blog/managing-k8s-infrastructure-and-applications-on-aws/) and [sample code](https://github.com/binxio/aws-cdk-and-cdk8s-example-project)
+- https://github.com/aws-quickstart/cdk-eks-blueprints
 
 # Tools 
 - https://github.com/tinystacks/precloud

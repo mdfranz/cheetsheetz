@@ -8,9 +8,12 @@
 ## Official
 - https://github.com/aws-cloudformation/aws-cloudformation-templates
 - https://aws-quickstart.github.io/templates-examples.html
+- https://github.com/aws-ia/cfn-ps-aws-vpc
+- https://github.com/aws-ia/cloudformation-base-eks
 
 # Tooling
 - https://github.com/unbounce/iidy
+- https://github.com/aws-ia/taskcat
 
 # Training
 - https://github.com/aws-samples/cfn101-workshop/tree/main
@@ -22,6 +25,7 @@
 
 # Blogs
 - [What is AWS CloudFormation and Organizing your templates for Better Flexibility](https://aws.plainenglish.io/what-is-aws-cloudformation-and-organizing-your-templates-for-better-flexibility-937a5dad6620) - 2022
+- [AWS CloudFormation -- capabilities parameter](https://lukemillerdev.medium.com/aws-cloudformation-capabilities-parameter-ab73a373278) - 2020
 
 # Books 
 - [Mastering AWS CloudFormation: Build resilient and production-ready infrastructure in Amazon Web Services with CloudFormation, Second Edition](https://www.packtpub.com/en-us/product/mastering-aws-cloudformation-9781805123903) - by Karen Tovmasyan (2023)

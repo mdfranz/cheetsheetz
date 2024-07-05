@@ -1,5 +1,5 @@
 # Workshops
-- [EKS Workshop](https://archive.eksworkshop.com/010_introduction/)
+- [EKS Workshop](https://www.eksworkshop.com/docs/introduction)
 - [Introduction to GitOps on EKS with Weaveworks](https://richardcase.github.io/)
 
 # Eksctl

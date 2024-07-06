@@ -24,6 +24,7 @@
 - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/dynamic-references.html
 
 # Blogs
+- [Run AWS CloudFormation via CLI + Use Cases (Template and Resources)](https://dev.to/aws-builders/aws-cli-cloudformation-stack-with-template-on-s3-1elb) - Sep 2022
 - [What is AWS CloudFormation and Organizing your templates for Better Flexibility](https://aws.plainenglish.io/what-is-aws-cloudformation-and-organizing-your-templates-for-better-flexibility-937a5dad6620) - 2022
 - [AWS CloudFormation -- capabilities parameter](https://lukemillerdev.medium.com/aws-cloudformation-capabilities-parameter-ab73a373278) - 2020
 

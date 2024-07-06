@@ -1,3 +1,11 @@
+# Tools
+
+## Available in Homebrew 
+
+```
+eksctl kubectl awscli k9s aws-cdk
+```
+
 # Links Pages
 - [ramitsurana github awesome-k8s](https://github.com/ramitsurana/awesome-kubernetes) and [HTML rendered](https://ramitsurana.gitbook.io/awesome-kubernetes/docs)
 

@@ -11,6 +11,9 @@
 - https://github.com/aws-ia/cfn-ps-aws-vpc
 - https://github.com/aws-ia/cloudformation-base-eks
 
+# From Books
+- https://github.com/PacktPublishing/Mastering-AWS-CloudFormation-Second-Edition
+
 # Tooling
 - https://github.com/unbounce/iidy
 - https://github.com/aws-ia/taskcat
@@ -27,6 +30,10 @@
 - [Run AWS CloudFormation via CLI + Use Cases (Template and Resources)](https://dev.to/aws-builders/aws-cli-cloudformation-stack-with-template-on-s3-1elb) - Sep 2022
 - [What is AWS CloudFormation and Organizing your templates for Better Flexibility](https://aws.plainenglish.io/what-is-aws-cloudformation-and-organizing-your-templates-for-better-flexibility-937a5dad6620) - 2022
 - [AWS CloudFormation -- capabilities parameter](https://lukemillerdev.medium.com/aws-cloudformation-capabilities-parameter-ab73a373278) - 2020
+
+## IAM
+- [Understanding AWS CloudFormation Execution Permissions](https://blog.awsfundamentals.com/aws-cloudformation-execution-permissions) - 2023
+- [AWS IAM Roles with AWS CloudFormation](https://blog.awsfundamentals.com/aws-iam-roles-with-aws-cloudformation) - 2023 
 
 # Books 
 - [Mastering AWS CloudFormation: Build resilient and production-ready infrastructure in Amazon Web Services with CloudFormation, Second Edition](https://www.packtpub.com/en-us/product/mastering-aws-cloudformation-9781805123903) - by Karen Tovmasyan (2023)

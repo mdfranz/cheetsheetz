@@ -11,12 +11,19 @@
 - https://github.com/aws-ia/cfn-ps-aws-vpc
 - https://github.com/aws-ia/cloudformation-base-eks
 
+## Random
+- https://github.com/widdix/aws-cf-templates
+- https://github.com/MarkBiesheuvel/demo-templates
+
+
 # From Books
 - https://github.com/PacktPublishing/Mastering-AWS-CloudFormation-Second-Edition
 
 # Tooling
 - https://github.com/unbounce/iidy
 - https://github.com/aws-ia/taskcat
+- https://github.com/widdix/aws-cf-templates-cli
+- https://takomo.io/
 
 # Training
 - https://github.com/aws-samples/cfn101-workshop/tree/main

@@ -14,12 +14,13 @@
 ## Random
 - https://github.com/widdix/aws-cf-templates
 - https://github.com/MarkBiesheuvel/demo-templates
-
+- https://github.com/anandshivam44/DevOpsAutomation
 
 # From Books
 - https://github.com/PacktPublishing/Mastering-AWS-CloudFormation-Second-Edition
 
 # Tooling
+- https://aws-cloudformation.github.io/rain/
 - https://github.com/unbounce/iidy
 - https://github.com/aws-ia/taskcat
 - https://github.com/widdix/aws-cf-templates-cli

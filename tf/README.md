@@ -31,4 +31,5 @@
 
 # Generating TF
 - [former2](https://github.com/iann0036/former20) - allows you to generate Infrastructure-as-Code outputs from your existing resources within your AWS account.
+- [awstf](https://github.com/aws-samples/aws2tf)
 

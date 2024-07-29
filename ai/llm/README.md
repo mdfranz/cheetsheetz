@@ -4,13 +4,13 @@
 ## Terminology
 - [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://medium.com/@santosomar/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae)
 
-
 ## Application Frameworks
 
 ## Guides & Links
 - https://github.com/aishwaryanr/awesome-generative-ai-guide
 
 ## Blogs
+- [Where to get started with GenAI](https://blog.bytebytego.com/p/where-to-get-started-with-genai) - July 2024
 - [MosaicML](https://www.mosaicml.com/blog)
 - [Databricks Gen AI](https://www.databricks.com/blog/category/generative-ai)
 

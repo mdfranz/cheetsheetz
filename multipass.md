@@ -40,7 +40,7 @@ Creating
 $ multipass launch -m 8G -c4 -d 20G --name awstools jammy
 ```
 
-# Multipass and VPNs
-- [https://medium.com/@balass/routing-multipass-vms-traffic-over-vpn-established-on-host-macos-c49e315b1e42](https://medium.com/@balass/routing-multipass-vms-traffic-over-vpn-established-on-host-macos-c49e315b1e42)
+# Multipass and VPNs on Mac
+- [Routing Multipass Virtual Machine(s) traffic over VPN established on host (MacOS)](https://medium.com/@balass/routing-multipass-vms-traffic-over-vpn-established-on-host-macos-c49e315b1e42)
 - See https://github.com/canonical/multipass/issues/495#issuecomment-448461250
 

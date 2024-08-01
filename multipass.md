@@ -39,3 +39,8 @@ Creating
 ```
 $ multipass launch -m 8G -c4 -d 20G --name awstools jammy
 ```
+
+# Multipass and VPNs
+- See https://github.com/canonical/multipass/issues/495#issuecomment-448461250
+  
+

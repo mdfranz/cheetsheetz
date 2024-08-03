@@ -53,7 +53,6 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 
 ## Deployment & Operation
 - https://www.keycloak.org/docs/latest/server_installation/
-- https://www.keycloak.org/docs/4.8/server_development/
 
 ### Containers
 - https://hub.docker.com/r/jboss/keycloak/
@@ -62,8 +61,15 @@ This focuses primarily on Open Source Customer Identity & Access Management Solu
 - https://mycloudjourney.medium.com/deploying-keycloak-on-kubernetes-with-minikube-db747f587f50
 
 #### K8S
+- https://github.com/brakmic/Keycloak_on_Kubernetes
 - https://github.com/unik6065/keycloak-k8s-deployment
 - https://github.com/Tim-herbie/k8s_keycloak
+
+##### Operator
+- https://www.keycloak.org/operator/installation
+- https://www.keycloak.org/operator/basic-deployment
+
+
 ##### EKS
 - https://github.com/lukaszbudnik/keycloak-kubernetes/blob/main/aws-eks-deployment.md
 - [Configure Keycloak on Amazon Elastic Kubernetes Service (Amazon EKS) using Terraform](https://aws.amazon.com/blogs/opensource/configure-keycloak-on-amazon-elastic-kubernetes-service-amazon-eks-using-terraform/) - July 2023

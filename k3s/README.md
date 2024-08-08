@@ -20,6 +20,8 @@
 
 # Homelab-K3S Stuff
 - https://github.com/ahgraber/homelab-gitops-k3s
+- [K3S Rocks](https://k3s.rocks/) - 
+- https://rpi4cluster.com/
 
 # Misc
 - [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd/blob/master/README-k3s.md)

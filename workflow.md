@@ -3,8 +3,6 @@ See [airflow](./airflow.md) and [dagster](./dagster) and [mlops](./mlops.md)
 
 # Pure Worklow
 
-See [windmill](./windmill.md)
-
 ## Windmill
 - [Architecture](https://www.windmill.dev/docs/misc/architecture) and [local development](https://www.windmill.dev/docs/advanced/local_development) and [Python Dependencies](https://www.windmill.dev/docs/advanced/dependencies_in_python)
 - [Self Hosting](https://www.windmill.dev/docs/advanced/self_host) with [helm chart](https://www.windmill.dev/docs/advanced/self_host#helm-chart) and [code](https://github.com/windmill-labs/windmill-helm-charts)

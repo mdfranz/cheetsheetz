@@ -59,6 +59,7 @@
 
 
 ## IAM
+- https://ramimac.me/aws-iam-tools-2024
 - [IAMActionHunter](https://github.com/RhinoSecurityLabs/IAMActionHunter)
 - [Pmapper](https://github.com/nccgroup/PMapper)
 - [AWS Lambda Function: IAM User Password Expiry Notice | SES, Boto3 & Terraform](https://blog.jennasrunbooks.com/aws-lambda-function-iam-user-password-expiry-notice-ses-boto3-terraform)j

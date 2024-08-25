@@ -2,6 +2,9 @@
 - [Discord](https://discord.com/invite/tcvwpjfnZx)
 - [GitHub Discussions](https://github.com/duckdb/duckdb/discussions)
 
+# Cool Extensions
+- [duckdb-pcap](https://github.com/hrbrmstr/duckdb-pcap)
+
 # Useful Doc Links
 - [pragmas](https://duckdb.org/docs/sql/pragmas) - how to view stats and make configuration changes.
 

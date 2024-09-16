@@ -1,3 +1,11 @@
+# Installing with UV
+
+See [installation](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#pipx-install)
+
+```
+uv tool install ansible-core
+```
+
 # Bootstrapping
 
 Assuming you have a login (ubuntu, pi, etc.) you can use this to install an `ansible` user 

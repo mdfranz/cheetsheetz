@@ -1,4 +1,5 @@
-
+# Kubernetes
+- [Kubernetes operator](https://tailscale.com/kb/1236/kubernetes-operator)
 
 # Headscale
 - https://github.com/juanfont/headscale
@@ -11,7 +12,6 @@
 
 ## IAC
 - https://github.com/brucellino/terraform-module-digitalocean-headscale
-
 
 ## Containerized
 - https://github.com/sonroyaalmerol/docker-headscale

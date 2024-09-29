@@ -21,7 +21,17 @@ Overall, these resources together establish a coherent architecture for deployin
 
 ## Logging
 
+See [logging](https://llm.datasette.io/en/stable/logging.html)
 
-# Usage Plugins
-- [llm-ollama](https://github.com/taketwo/llm-ollama) - access local or remote Ollama servers, if you are doing something funky set `OLLAMA_HOST=http://127.0.0.1:11434`
-- [llm-python](https://github.com/simonw/llm-python) - use llm within a REPL or script. See [documentation](https://llm.datasette.io/en/stable/python-api.html)
+`llm logs list -n 0 --json`
+
+### Analyzing with SQL 
+Find the SQLite DB 
+
+```
+mfranz@rogstrix-b450-ryzen5:~/.local$ llm logs path
+/home/mfranz/.config/io.datasette.llm/logs.db
+```
+
+## Plugins
+- [llm-ollama](https://github.com/taketwo/llm-ollama) - access local or remote Ollama servers, if you are doing something funky set `OLLAMA_HOST`

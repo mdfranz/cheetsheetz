@@ -83,6 +83,7 @@
 - [badrobot](https://github.com/controlplaneio/badrobot)
 - [marvin](https://github.com/undistro/marvin)
 - [managed kubernetes auditing toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit) - by DataDog
+- [nimbus](https://github.com/5GSEC/nimbus) - Intent driven security automation framework
 
 ## SBOM
 - [kubeclarity](https://github.com/openclarity/kubeclarity)

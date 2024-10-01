@@ -41,13 +41,13 @@
 - [EKS Best Practices for Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 - [hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
 
-
 # GKE
 - [GKE Harden Your Cluster](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
 
 # Admission Controllers
 - [What is an AC](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - from K8S docs
 - [kyverno](https://kyverno.io/)
+
 
 # Namespace Boundaries 
 - [NamespaceHound: protecting multi-tenant K8s clusters](https://www.wiz.io/blog/introducing-namespacehound-for-cross-tenant-violation-assessments)
@@ -74,6 +74,14 @@
 - [Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
 - [Kubernetes Audit Logs | Use Cases & Best Practices](https://www.containiq.com/post/kubernetes-audit-logs) - July 2022
 - [sysdig-cloud-scripts](https://github.com/draios/sysdig-cloud-scripts/tree/master/k8s_audit_config)
+
+# Networking 
+- [cilium](https://github.com/cilium/cilium)
+
+# eBPF Observability and Enforcement
+- [tetragon](https://github.com/cilium/tetragon/) - enables powerful real-time, eBPF-based Security Observability and Runtime Enforcement.
+- [kubearmor](https://github.com/kubearmor/KubeArmor)
+- [tracee](https://github.com/aquasecurity/tracee)
 
 # Maintained Scanning Tools
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)

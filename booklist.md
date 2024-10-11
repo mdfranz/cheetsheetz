@@ -1,7 +1,7 @@
 # Product Development 
 - Abbot & Fisher, _The Art of Scalability: Scalable Web Architecture, Proceses & Organizations for the Modern Enterprise_ (Wiley, 2010)
 - [X] Belotti, _Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)_ (No Starch, 2021)
-- [X]  Belsky, _The Messy Middle: Finding Your Way Through the Hardest & Most Crucial Part of Any Bold Venture_ (Penguin, 2018)
+- [X] Belsky, _The Messy Middle: Finding Your Way Through the Hardest & Most Crucial Part of Any Bold Venture_ (Penguin, 2018)
 - Cummings & Peer, _Leading Quality: How Great Leaders Delivery High-Quality Software & Accelerate Growth_ (ROI, 2019)
 - DeGrandis & DeMaria, _Making Work Visibility: Exposing Time Theft to Optimize Work & Flow_ (IT Revolution, 2017)
 - DeWolf & Hall, _The Product Mindset: Succed in the Digital Economy by Changing the Way Your Organization Thinks_ (Lioncrest, 2019)
@@ -17,25 +17,30 @@
 - Seiden, _Outcomes Over Output: Why customer behvior is the key metric for business success_
 - [X] Skelton & Pais, _Team Topologies: Organization Business and Technology Teams for Fast Flow_, (IT Revolution, 2019)
 - Whittaker & _How Google Tests Software_
+- LeMay, _Product Management in Practice, 2nd Edition_ (2022)
 
 # Management & Leadership
 - [X]  Garvey Berger, _Unlocking Leadership Mindtraps: How to Thrive in Complexity_
 - Horstman, _The Effective Manager_
 - [X] Ikonne, _Becoming a Leader in Product Development: An Evidence-Based Guide to the Essentials_ (2021)
 - Kethledge & Erwin, _Lead Yourself First_
-- Lencioni, _The Motive: Why SO Many Leaders Abidcate Their Most Important Responsibilities_
+- [X] Lencioni, _The Motive: Why SO Many Leaders Abidcate Their Most Important Responsibilities_
 - McChrystal and Eggers and Mangone, _Leaders: Myth & Reality_ 
 - Nightingale, _Unmanageable: Leadership Lessons from an Impossible Year_ (2021) 
 
 ## Engineering Leadership
-- Drasner, Sarah, _Engineering Management for the Rest of Us_
-- [X] Fitzpatrick & Collins-Sussman, _Debugging Tams: Better Productivity through Collaboration_
+- Drasner, _Engineering Management for the Rest of Us_
+- Fitzpatrick & Collins-Sussman, _Debugging Tams: Better Productivity through Collaboration_
 - [X] Lopp, _The Art of Leadership: Small Things, Done Well_
 - [X] Lopp, _Managing Humans_
 - Larson & Reilly, _Staff Engineer: Leaderhisp beyond the management track_
 - [X] Larson, _An Elegant Puzzle: Systems of Engineering Management_
 - Nazaria, _Technical Minds: Leading and Getting the Best Work from you Technicall-Minded Team_ (2010)
 - Nightingale, _How F*cked Up is Your Management: An uncomfortable conversation about modern leadership_
+- Reilly, _The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Chang_ (2022)
+
+## Program & Project Management
+- Teter,Joshua Alan.  _Technical Program Manager's Handbook, Second Edition_ (2024) 
 
 ## Military-Style Leadership
 - Edwards, _The Burden of Command_ (2014)
@@ -61,8 +66,9 @@
 - Schein, _Organizational Culture & Leadership_
 
 # Systems Thinking & Complexity Science
-- Meadows, _Thinking in Systems_
+- Meadows, Donella _Thinking in Systems_
 - [X] Varney, _Leadership in Complexity and Change: For a World in Constant Motion_
+- Montalion, _Learning Systems Thinking_ (2024)
 
 # Knowledge & Productivity
 - Grant, _Think Again: The Power of Knowing What you Don't Know_

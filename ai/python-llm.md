@@ -35,3 +35,5 @@ mfranz@rogstrix-b450-ryzen5:~/.local$ llm logs path
 
 ## Plugins
 - [llm-ollama](https://github.com/taketwo/llm-ollama) - access local or remote Ollama servers, if you are doing something funky set `OLLAMA_HOST`
+- [llm-gemini](https://pypi.org/project/llm-gemini/)
+- [llm-bedrock-anthropic](https://github.com/sblakey/llm-bedrock-anthropic)

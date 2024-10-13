@@ -98,7 +98,7 @@ This page covers MLOps and DataOps/Eng topics. I started this in early 2020. Als
 ## Other Open Source Tools 
 - [Apache Camel](https://camel.apache.org/)
 - [Airbyte](https://github.com/airbytehq/airbyte)
-- [Benthos](https://www.benthos.dev)
+- [Benthos (now RedPanda Connect](https://github.com/redpanda-data/connect) 
 - [Kedro](https://github.com/quantumblacklabs/kedro) - an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines (by [Quantum Black Labs](https://www.quantumblack.com/labs/)])
 - [H20 AutoML](https://www.h2o.ai/products/h2o/)
 - [Meltano](https://gitlab.com/meltano/meltano)

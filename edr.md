@@ -1,5 +1,4 @@
 
-
 # Case Studies
 
 ### LBL
@@ -15,6 +14,10 @@
 - https://www.bu.edu/tech/services/cccs/desktop/device-security/endpoint-protection/
 
 # Comparisions
+
+## GitHub Repos
+- https://github.com/tsale/EDR-Telemetry
+- https://github.com/CyberSecurityUP/EDR-Assessment/
 
 ## Academic
 - [An Empirical Assessment of Endpoint Security Systems Against Advanced Persistent Threats Attack Vectors](https://arxiv.org/pdf/2108.10422.pdf)

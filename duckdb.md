@@ -9,7 +9,7 @@
 - [pragmas](https://duckdb.org/docs/sql/pragmas) - how to view stats and make configuration changes.
 
 # Queries
-- https://github.com/mdfranz/matano-scripts/tree/main/data/cloudtrail/duckd
+- https://github.com/mdfranz/matano-scripts/tree/main/data/cloudtrail/duckdb
 
 # Blogs
 ## Parquet
@@ -28,6 +28,13 @@ create table aws_cloudtrail as select * from "*.parquet";
 ```
 create table flow as select * from  "vpc_flow.json";
 ```
+
+with various [parameters](https://duckdb.org/docs/data/json/overview.html#parameters)
+
+```
+create table json_data as select * FROM read_json("./*.json",ignore_errors=true);
+``
+
 
 From CloudTrail 
 

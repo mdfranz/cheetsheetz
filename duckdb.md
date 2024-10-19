@@ -25,6 +25,7 @@ create table aws_cloudtrail as select * from "*.parquet";
 ```
 
 ### Loading from JSON
+
 ```
 create table flow as select * from  "vpc_flow.json";
 ```
@@ -33,7 +34,7 @@ with various [parameters](https://duckdb.org/docs/data/json/overview.html#parame
 
 ```
 create table json_data as select * FROM read_json("./*.json",ignore_errors=true);
-``
+```
 
 
 From CloudTrail 

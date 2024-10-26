@@ -1,5 +1,13 @@
-# Intro Articles
+# Get It
+- https://github.com/nats-io/nats-server/releases
+- https://docs.nats.io/nats-server/configuration
+- https://github.com/nats-io/k8s
 
+## Management
+- https://docs.nats.io/nats-tools/nsc
+- https://github.com/nats-io/natscli - This should have everything now for 2.2.x
+
+# Intro Articles
 - [NATS: the Secret to Microservices in Go and Python that Scale without Complexity](https://hansonkd.medium.com/nats-the-secret-to-microservices-in-go-and-python-that-scale-without-complexity-620f7ca66cc1) - 2018
 - [Lightweight, Cloud-Native Messaging with NATS](https://medium.com/capital-one-tech/lightweight-cloud-native-messaging-with-nats-ad730ca2becf) - 2018
 - [Kicking the Tires With the NATS Go Client](https://oswalt.dev/2019/09/kicking-the-tires-with-the-nats-go-client/)
@@ -12,7 +20,7 @@
 - [KV DeveloperS Docs](https://docs.nats.io/using-nats/developer/develop_jetstream/kv)
 - [JetStream KV: A fascinating alternative to Redis...](https://www.youtube.com/watch?v=XLJ5_5MsgGQ) - Mar 2024 
 
-## Comps
+## Comparison
 - [Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
 
 # Ops
@@ -25,13 +33,6 @@ Read from a subject
 $ nats -s nats://192.168.2.31 sub suricata.dns -r | jq -c
 
 ```
-
-##
-
-## Get & Config
-- https://github.com/nats-io/nats-server/releases
-- https://docs.nats.io/nats-server/configuration
-- https://github.com/nats-io/natscli
 
 ## Monitoring
 - https://docs.nats.io/nats-tools/nats_top
@@ -47,9 +48,6 @@ Monitoring with Telegraf
    method = "GET"
 ```
 
-## Management
-- https://docs.nats.io/nats-tools/nsc
-- https://github.com/nats-io/natscli - This should have everything now for 2.2.x
 
 # Hello World-ish
 

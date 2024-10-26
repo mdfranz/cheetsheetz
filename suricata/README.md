@@ -2,8 +2,9 @@
 
 Use [ppa](https://launchpad.net/~oisf/+archive/ubuntu/suricata-stable) and change the interface in `/etc/suricata/suricata.yaml`
 
-and enable Redis support for EVE.
+The latest package install is [here](https://docs.suricata.io/en/suricata-7.0.4/install.html#binary-packages)
 
+and enable Redis support for EVE.
 
 ```
   - eve-log:
@@ -60,5 +61,20 @@ jq 'select(.event_type == "tls")|.tls.sni'
 - https://suricata.readthedocs.io/en/suricata-6.0.1/output/eve/eve-json-examplesjq.html
 - https://www.stamus-networks.com/blog/2015/05/18/looking-at-suricata-json-events-on-command-line
 
+## Using Bethos/Red Panda Connect
 
+Create the following file after installing the latest [redpanda connect release](https://github.com/redpanda-data/connect/releases/)
+
+```
+input:
+  redis_list:
+    url: tcp://localhost:6379
+    key: suricata
+
+output:
+    nats:
+      urls: 
+        - 100.74.151.61:4222
+      subject: 'suricata.${! json("event_type") }'
+```
 

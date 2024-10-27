@@ -118,3 +118,6 @@ See [conf/gtc2024.md]
 
 # Other Libraries
 - https://github.com/gventuri/pandas-ai
+
+# Fine Tuning
+- https://github.com/youssefHosni/Hands-On-LLM-Fine-Tuning

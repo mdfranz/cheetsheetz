@@ -1,3 +1,12 @@
+# Resources
+- [OS Updates](https://cros.tech/) 
+
+
+
+# System Info
+
+`chrome://system/`
+
 # System Setup
 
 Bookworm is the latest on my ChromeBooks

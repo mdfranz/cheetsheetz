@@ -1,3 +1,6 @@
+# Links
+- https://github.com/davidgasquez/awesome-duckdb
+
 # Support Resources 
 - [Discord](https://discord.com/invite/tcvwpjfnZx)
 - [GitHub Discussions](https://github.com/duckdb/duckdb/discussions)

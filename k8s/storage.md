@@ -1,4 +1,5 @@
 # Abstractions
+- [A Complete Guide to Kubernetes CSI](https://portworx.com/knowledge-hub/a-complete-guide-to-kubernetes-csi/) - Portworx, Sep 2024
 - [K8S Storage](https://kubernetes.io/docs/concepts/storage/) and [access modes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#access-modes)
 - https://github.com/kubernetes-sigs/aws-ebs-csi-driver
 - https://kubernetes.io/docs/concepts/storage/storage-classes/

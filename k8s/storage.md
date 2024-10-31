@@ -1,9 +1,14 @@
 # Abstractions
-- https://kubernetes.io/docs/concepts/storage/
+- [K8S Storage](https://kubernetes.io/docs/concepts/storage/) and [access modes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#access-modes)
 - https://github.com/kubernetes-sigs/aws-ebs-csi-driver
 - https://kubernetes.io/docs/concepts/storage/storage-classes/
 - https://kubernetes.io/docs/concepts/storage/storage-classes/
 - https://kubernetes.io/docs/concepts/architecture/nodes/
+
+# EFS (AWS)
+- [EFS CSI Driver](https://www.eksworkshop.com/docs/fundamentals/storage/efs/efs-csi-driver) - EKS Workshop Tutorial
+- [How to connect an EFS storage class to an EKS cluster](https://octopus.com/blog/efs-eks)
+- [EFS CSI Examples](https://github.com/kubernetes-sigs/aws-efs-csi-driver/blob/master/docs/README.md#examples)
 
 # Longhorn 
 - [home](https://longhorn.io/) - [kb](https://longhorn.io/kb/), [issues](https://github.com/longhorn/longhorn/issues)

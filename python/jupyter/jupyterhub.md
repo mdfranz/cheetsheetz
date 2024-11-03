@@ -19,6 +19,7 @@
 - https://z2jh.jupyter.org/en/3.3.8/kubernetes/amazon/efs_storage.html
 - https://github.com/jupyterhub/zero-to-jupyterhub-k8s/issues/3280
 - [Persistent storage in Jupyterhub on Kubernetes cluster running on Minikube](https://kienmn97.medium.com/persistent-storage-in-jupyterhub-on-kubernetes-cluster-running-on-minikube-4b469bdb1b86)
+- https://discourse.jupyter.org/t/using-a-cifs-share/6099
 
 ## EKS
 - [Building multi-tenant JupyterHub Platforms on Amazon EKS](https://aws.amazon.com/blogs/containers/building-multi-tenant-jupyterhub-platforms-on-amazon-eks/) - Oct 2023

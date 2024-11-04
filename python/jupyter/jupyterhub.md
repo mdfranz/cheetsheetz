@@ -1,5 +1,6 @@
 # Configuration
 - [Environment Variables](https://z2jh.jupyter.org/en/stable/jupyterhub/customizing/user-environment.html#set-environment-variables)
+- [Authentication & Authorization](https://z2jh.jupyter.org/en/stable/administrator/authentication.html)
 
 # Deployment
 ## VMs

@@ -50,3 +50,6 @@ This is a set of resources on analytics and data engineering teams. Focuses more
 - [The Distributed Data Mesh as a Solution to Centralized Data Monoliths](https://www.infoq.com/news/2020/01/distributed-data-mesh/) - January 2020
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [What is a Data Mesh — and How Not to Mesh it Up](https://towardsdatascience.com/what-is-a-data-mesh-and-how-not-to-mesh-it-up-210710bb41e0) - July 2020 
+
+# Random Data Tools
+- [OpenDAL](https://github.com/apache/opendal) - a unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services. Our goal is to deliver a comprehensive solution for any languages, methods, integrations, and services.

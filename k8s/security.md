@@ -48,10 +48,8 @@
 - [What is an AC](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - from K8S docs
 - [kyverno](https://kyverno.io/)
 
-
 # Namespace Boundaries 
 - [NamespaceHound: protecting multi-tenant K8s clusters](https://www.wiz.io/blog/introducing-namespacehound-for-cross-tenant-violation-assessments)
-
 
 # Comparisons
 - [Threat Detection on EKS – Comparing Falco and GuardDuty For EKS Protection](https://dev.to/aws-builders/threat-detection-on-eks-comparing-falco-and-guardduty-for-eks-protection-2m6b) 
@@ -65,7 +63,7 @@
 - [awesome-falco](https://github.com/developer-guy/awesome-falco)
 - [Analyze Falco Logs from K3S Cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster)
 - [Analyze AWS EKS Audit logs with Falco](https://faun.pub/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
-- [Falco Sidekick](https://github.com/falcosecurity/falcosidekick)
+- [Falco Sidekick](https://github.com/falcosecurity/falcosidekick) and [extending-falco-outputs-with-falcosidekick](https://github.com/developer-guy/extending-falco-outputs-with-falcosidekick)
 - [Falco Driverkit with Docker on Debian](https://falco.org/blog/falco-driverkit-debian-docker/)
 - [Restructuring the Kubernetes Threat Matrix and Evaluating Attack Detection by Falco](https://engineering.mercari.com/en/blog/entry/20220928-kubernetes-threat-matrix-and-attack-detection-by-falco/)
 - [PCI/DSS Controls with Falco](https://falco.org/blog/falco-pci-controls/) - July '23

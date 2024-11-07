@@ -28,3 +28,6 @@
 
 - https://attackevals.mitre-engenuity.org/enterprise/participants/sentinelone?view=overview&adversary=wizard-spider-sandworm
 - https://attackevals.mitre-engenuity.org/enterprise/participants/crowdstrike?view=overview&adversary=wizard-spider-sandworm
+
+# Evasion
+- [TA Phone Home: EDR Evasion Testing Reveals Extortion Actor's Toolkit](https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/) - Nov 2024

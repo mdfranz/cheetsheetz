@@ -18,3 +18,5 @@ This is mainly about the security uses for AI not the [security of AI](secsafe.m
 # Links Pages
 - [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)
 
+# Misc Tools AI-Enabled Tools
+- [reaper](https://github.com/ghostsecurity/reaper)

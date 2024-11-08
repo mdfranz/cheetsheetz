@@ -3,6 +3,7 @@
 
 # Core Works
 - [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
+- [Announcing: 52 Weeks of SRE - A Journey to Master Site Reliability Engineering](https://jpereira.me/announcing-52-weeks-of-sre-a-journey-to-master-site-reliability-engineering/) - a blog series based on above starting in October 2024
 
 # Postmortems
 - [Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems)

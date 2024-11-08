@@ -2,7 +2,22 @@
 - [Airflow vs. Prefect](https://www.restack.io/docs/airflow-vs-prefect) and [Airflow vs. Dagster](https://www.restack.io/docs/airflow-vs-dagster)
 - [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791)
 
-## Airflow (Apache, Originally AirBnb)
+## Blogs
+- [https://gtoonstra.github.io/etl-with-airflow/index.html](ETL Best Practices with Airflow)
+- [https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8](Airflow: a workflow management platform) - original blog article from 2015
+- [https://engineering.pandora.com/apache-airflow-at-pandora-1d7a844d68ee](Apache Airflow at Pandora)
+
+## Videos
+- [https://www.youtube.com/watch?v=XJf-f56JbFM](Michał Karzyński - Developing elegant workflows in Python code with Apache Airflow)
+
+## Infrastructure 
+- https://github.com/stwind/airflow-on-kubernetes
+
+## Tutorials
+- [https://github.com/jghoman/awesome-apache-airflow#best-practices-lessons-learned-and-cool-use-cases](Best practices, lessons learned and cool use cases)
+- [https://humansofdata.atlan.com/2018/06/apache-airflow-disease-outbreaks-india/](How to Create a Workflow in Apache Airflow to Track Disease Outbreaks in India)
+
+# Airflow (Apache, Originally AirBnb)
 - [Airflow](https://airflow.apache.org/) - a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. 
 - [Airflow Confluence Site](https://cwiki.apache.org/confluence/display/AIRFLOW/)
 - [ETL Best Practices with Apache Airflow](https://gtoonstra.github.io/etl-with-airflow/index.html)
@@ -16,5 +31,6 @@
 - [Viewflow](https://github.com/datacamp/viewflow) - a framework built on the top of Airflow that enables data scientists to create materialized views. It allows data scientists to focus on the logic of the view creation in their preferred tool
 - [AirFlow DAG Best Practices](https://medium.com/swlh/airflow-dag-best-practices-716ac95b82d1)
 
-### AirFlow 2.0
+### AirFlow 2.1
 - [Is Apache Airflow 2.0 good enough for current data engineering needs?](https://towardsdatascience.com/is-apache-airflow-2-0-good-enough-for-current-data-engineering-needs-6e152455775c#85c9)
+

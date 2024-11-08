@@ -64,7 +64,7 @@
 - [awesome-falco](https://github.com/developer-guy/awesome-falco)
 - [Analyze Falco Logs from K3S Cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster)
 - [Analyze AWS EKS Audit logs with Falco](https://faun.pub/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
-- [Falco Sidekick](https://github.com/falcosecurity/falcosidekick)
+- [Falco Sidekick](https://github.com/falcosecurity/falcosidekick) and [extending-falco-outputs-with-falcosidekick](https://github.com/developer-guy/extending-falco-outputs-with-falcosidekick)
 - [Falco Driverkit with Docker on Debian](https://falco.org/blog/falco-driverkit-debian-docker/)
 - [Restructuring the Kubernetes Threat Matrix and Evaluating Attack Detection by Falco](https://engineering.mercari.com/en/blog/entry/20220928-kubernetes-threat-matrix-and-attack-detection-by-falco/)
 - [PCI/DSS Controls with Falco](https://falco.org/blog/falco-pci-controls/) - July '23

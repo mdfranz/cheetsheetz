@@ -1,3 +1,10 @@
+# Installation 
+Assuming you have [uv](https://docs.astral.sh/uv/) installed. 
+
+```
+uv  tool install llm
+```
+
 # Overview
 Notes and tricks for [python-llm](https://llm.datasette.io/en/stable/)
 

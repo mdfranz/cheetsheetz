@@ -6,6 +6,10 @@
 eksctl kubectl awscli k9s aws-cdk
 ```
 
+# Sandbox
+- [killercoda](https://killercoda.com/)
+- [Play with K8S](https://labs.play-with-k8s.com/)
+
 # Links Pages
 - [ramitsurana github awesome-k8s](https://github.com/ramitsurana/awesome-kubernetes) and [HTML rendered](https://ramitsurana.gitbook.io/awesome-kubernetes/docs)
 
@@ -44,7 +48,6 @@ eksctl kubectl awscli k9s aws-cdk
 - https://cloudblogs.microsoft.com/opensource/2020/04/02/when-to-use-helm-operators-kubernetes-ops/
 - https://www.openshift.com/blog/build-kubernetes-operators-from-helm-charts-in-5-steps
 - https://medium.com/operators/operator-pattern-kubernetes-openshift-380ddc6a147c
-
 
 # Observability & Visualization
 - [caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.

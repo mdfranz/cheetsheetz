@@ -44,9 +44,10 @@
 # GKE
 - [GKE Harden Your Cluster](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
 
-# Admission Controllers
+# Admission Control
 - [What is an AC](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - from K8S docs
 - [kyverno](https://kyverno.io/)
+- [cedar](https://github.com/awslabs/cedar-access-control-for-k8s)
 
 # Namespace Boundaries 
 - [NamespaceHound: protecting multi-tenant K8s clusters](https://www.wiz.io/blog/introducing-namespacehound-for-cross-tenant-violation-assessments)

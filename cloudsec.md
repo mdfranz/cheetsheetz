@@ -47,7 +47,6 @@
 - https://github.com/google/gcp_scanner
 
 ### Azure
-
 - [How to be IR prepared in Azure](https://www.cadosecurity.com/how-to-be-ir-prepared-in-azure/) - Feb 2024
 
 ### AWS
@@ -56,7 +55,6 @@
 - [AWS Security Hub Automated Response and Remediation](https://github.com/aws-solutions/aws-security-hub-automated-response-and-remediation)
 - [AWS Incident Response Playbook Samples](https://github.com/aws-samples/aws-incident-response-playbooks)
 - [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/welcome.html) - Nov 2020
-
 
 ## IAM
 - https://ramimac.me/aws-iam-tools-2024
@@ -72,7 +70,6 @@
 - [WithSecure Azure Security Framework](https://www.withsecure.com/content/dam/with-secure/en/resources/withsecure-consulting-microsoft-azure-security-framework-guide-en.pdf)
 - [Azure Threat Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
 
-
 # Containers 
 - [Container Security Checklist: From Image to Workload](https://github.com/krol3/container-security-checklist)
 - [Top 20 Dockefile best Practices](https://sysdig.com/blog/dockerfile-best-practices/) - Sysdig, March 2021
@@ -83,9 +80,7 @@
 See [k8sec.md](k8sec.md)
 
 # Tools
-
-[WithSecureLabs](https://github.com/WithSecureLabs) as a bunch of tools
-
+- [WithSecureLabs](https://github.com/WithSecureLabs) as a bunch of tools
 
 ## As Code
 - [hysnec - awesome policy as code](https://github.com/hysnsec/awesome-policy-as-code)
@@ -99,15 +94,15 @@ See [k8sec.md](k8sec.md)
 ## IAM
 - https://github.com/aws-samples/iam-access-key-report
 
+## CloudTrail
+- https://github.com/flosell/trailscraper
+
+
 # Misc
 - [Lateral movement risks in the cloud and how to prevent them – Part 1: the network layer (VPC)](https://www.wiz.io/blog/lateral-movement-risks-in-the-cloud-and-how-to-prevent-them-part-1-the-network-layer)
 
-
 # CTD
 - [cloudfoxable](https://github.com/BishopFox/cloudfoxable)
-
-
-
 
 # Vendors 
 - https://www.cadosecurity.com

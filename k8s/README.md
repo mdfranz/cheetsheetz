@@ -52,6 +52,9 @@ eksctl kubectl awscli k9s aws-cdk
 # Observability & Visualization
 - [caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 
+# Security Distributions
+- https://www.talos.dev/
+
 # Lite Implementations
 
 See [k3s](k3s/)

@@ -25,6 +25,7 @@
 - [CNCF k8s-threat-model](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
 - [NCC K8S Threat Model](https://research.nccgroup.com/2017/11/23/kubernetes-security-consider-your-threat-model/)
 - [CloudSecDocs K8S Threat Model](https://cloudsecdocs.com/container_security/theory/threats/k8s_threat_model/)
+- [Climbing The Ladder | Kubernetes Privilege Escalation (Part 1)](https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-1/)
 
 # Attacking & Defending
 - [KubeCon NA 2019 CTF Guide](https://github.com/securekubernetes/securekubernetes/)

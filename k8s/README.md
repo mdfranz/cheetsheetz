@@ -36,6 +36,7 @@ eksctl kubectl awscli k9s aws-cdk
 - https://helm.sh/docs/intro/quickstart/ 
 - https://codefresh.io/docs/docs/new-helm/helm-best-practices/
 - https://rafay.co/the-kubernetes-current/the-ultimate-guide-to-helm-charts/
+- [DevSpace Component Chart](https://www.devspace.sh/component-chart/docs/configuration/reference)
 
 ## Kustomize
 - [Awesome Kustomize Overview](https://www.trackawesomelist.com/aabouzaid/awesome-kustomize/readme/)

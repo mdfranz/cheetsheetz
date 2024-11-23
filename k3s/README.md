@@ -19,6 +19,7 @@
 - https://medium.com/@pongsatt/k3s-kubernetes-cluster-storage-with-longhorn-ff201947d3f5
 
 # Homelab-K3S Stuff
+- [Build a local Kubernetes cluster with free SSL and DNS management](https://medium.com/itnext/build-a-local-kubernetes-cluster-with-free-ssl-and-dns-management-1ee2025b7ae8) - Nove 2024
 - https://github.com/ahgraber/homelab-gitops-k3s
 - [K3S Rocks](https://k3s.rocks/) - 
 - https://rpi4cluster.com/

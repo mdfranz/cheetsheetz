@@ -13,4 +13,5 @@
 - https://aws.amazon.com/blogs/security/working-backward-from-iam-policies-and-principal-tags-to-standardized-names-and-tags-for-your-aws-resources/
 
 # Tools
+- [Using AWS Identity and Access Management Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html)
 - [DetentionDodger](https://github.com/Permiso-io-tools/DetentionDodger) - a tool designed to find users whose credentials have been leaked/compromised and the impact they have on the target

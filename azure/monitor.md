@@ -1,3 +1,6 @@
+# Detection Engineering Related Logging
+- [Azure Detection Engineering: Log idiosyncrasies you should know about](https://tracebit.com/blog/azure-detection-engineering-log-idiosyncrasies-you-should-know-about)
+
 # Log Analytics Workspace
 - https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview
 

@@ -1,10 +1,6 @@
-# Tools
+# Great Blogs
+- [Raesene's Ramblings](https://raesene.github.io/)
 
-## Available in Homebrew 
-
-```
-eksctl kubectl awscli k9s aws-cdk
-```
 
 # Sandbox
 - [killercoda](https://killercoda.com/)
@@ -18,6 +14,7 @@ eksctl kubectl awscli k9s aws-cdk
 - [A Crash Course on Kubernetes](https://blog.gruntwork.io/a-crash-course-on-kubernetes-a96c3891ad82) - July 2022
 - [Learning Kubernetes, the Easy Way](https://medium.com/towards-data-science/learn-kubernetes-the-easy-way-d1cfa460c013) - September 2022
 
+# Templating  
 ## Jsonnet
 - Streamlining Kubernetes Deployment With Jsonnet: [part 1](https://brian-candler.medium.com/streamlining-kubernetes-application-deployment-with-jsonnet-711e15e9c665) and [part2](https://brian-candler.medium.com/streamlining-kubernetes-application-deployment-with-jsonnet-part-2-46927b189953)
 - [Automating deploys to Kubernetes using ArgoCD and jsonnet](https://www.bekk.christmas/post/2020/16/automating-deploys-to-kubernetes-using-argocd-and-jsonnet) - December 2020
@@ -74,3 +71,11 @@ minikube-jammy
 
 # Platforms and PaaS
 - [acorn](https://acorn.io/)
+
+# Tools
+## Available in Homebrew 
+
+```
+eksctl kubectl awscli k9s aws-cdk
+```
+

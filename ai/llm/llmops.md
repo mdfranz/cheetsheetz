@@ -22,6 +22,7 @@
 Also see [SageMaker](../aws/sagemaker.md)
 
 # Personal/Local LLMs
+- [Everything I've learned about Local LLMs](https://nullprogram.com/blog/2024/11/10/) - Nov 2024
 
 ## Containerizing Open Source Models
 Container or single file deployment of models seems like a solved problem with [ollama](https://ollama.com/)

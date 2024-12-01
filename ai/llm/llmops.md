@@ -39,9 +39,11 @@ Container or single file deployment of models seems like a solved problem with [
 - [privategpt](https://github.com/zylon-ai/private-gpt) - a production-ready AI project that allows you to ask questions about your documents using the power of Large Language Models (LLMs), even in scenarios without an Internet connection. 100% private, no data leaves your execution environment at any point.
 - [h2ogpt](https://github.com/h2oai/h2ogpt) - Query and summarize your documents or just chat with local private GPT LLMs using h2oGPT, an Apache V2 open-source project.
 - [LocalAI](https://github.com/mudler/LocalAI) - free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU.
+- [Open Web UI](https://github.com/open-webui/open-webui)
 - [OpenLLM](https://github.com/bentoml/OpenLLM)
 - [ollama](https://github.com/ollama/ollama)
 - [Skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- 
 
 ### Streamlit Local Hosting
 - https://github.com/3eeps/llmon-py

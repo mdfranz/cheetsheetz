@@ -1,3 +1,6 @@
+# References
+- [Upgrade tool](https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/)
+
 # My Installation
 
 See https://about.gitlab.com/install/#ubuntu
@@ -5,7 +8,6 @@ See https://about.gitlab.com/install/#ubuntu
 ## Minimum KVM Settings
 
 4 Cores x 8GB
-
 
 # Docs
 - [Tutorial: Create and run your first GitLab CI/CD pipeline](https://docs.gitlab.com/ee/ci/quick_start/index.html)

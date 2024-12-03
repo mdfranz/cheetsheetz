@@ -14,4 +14,6 @@ See https://github.com/FoxIO-LLC/ja4/tree/main/zeek but basically
 
 add `@load ja4` to `/opt/zeek/share/zeek/site/local.zeek`
 
+and `@load policy/tuning/json-logs.zeek` to enable JSON logging unless you are daft
+
 and then `[ZeekControl] > deploy`

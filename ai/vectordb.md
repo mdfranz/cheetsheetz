@@ -20,6 +20,9 @@
 - [Milvus Docker Compose](https://milvus.io/docs/install_standalone-docker.md) and [K8S Operator](https://milvus.io/docs/install_cluster-milvusoperator.md)
 - [Weaviate Docker Compose](https://weaviate.io/developers/weaviate/installation/docker-compose)
 
+# Random Tools
+- [vector-io](https://github.com/AI-Northstar-Tech/vector-io) - Easily export, import, backup, re-embed (using any model) or access your vector data from any vector databases or repository.
+
 # Postgres
 - [PostgreSQL as a Vector Database: Create, Store, and Query OpenAI Embeddings With pgvector](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/) - Jun '23
 
@@ -27,6 +30,22 @@
 - [Chroma](https://github.com/chroma-core/chroma)
 
 # Deep Dive on the DB
+
+## Qdrant
+### Client Libraries
+- [Python Qdrant Client](https://github.com/qdrant/qdrant-client)
+- [Go client](https://github.com/qdrant/go-client)
+- [JS Client](https://github.com/qdrant/qdrant-js)  
+
 ## Milvus
+- [YouTube Channel](https://www.youtube.com/@MilvusVectorDatabase)
 - [Milvus Glossary](https://milvus.io/docs/glossary.md)
 - [Similiarity Metrics](https://milvus.io/docs/metric.md) - distance metrics for floating point and binary embeddings 
+
+### Client Libraries
+- https://github.com/milvus-io/milvus-sdk-go
+- https://github.com/milvus-io/pymilvus
+
+### Kubernetes
+- https://github.com/zilliztech/milvus-helm
+

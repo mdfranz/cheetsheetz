@@ -1,7 +1,6 @@
 # Great Blogs
 - [Raesene's Ramblings](https://raesene.github.io/)
 
-
 # Sandbox
 - [killercoda](https://killercoda.com/)
 - [Play with K8S](https://labs.play-with-k8s.com/)
@@ -49,6 +48,7 @@
 
 # Observability & Visualization
 - [caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
+- [headlamp](https://headlamp.dev/)
 
 # Security Distributions
 - https://www.talos.dev/
@@ -79,3 +79,6 @@ minikube-jammy
 eksctl kubectl awscli k9s aws-cdk
 ```
 
+
+# Random Ingress
+- [skipper](https://github.com/zalando/skipper) - an HTTP router and reverse proxy for service composition. It's designed to handle >300k HTTP route definitions with detailed lookup conditions, and flexible augmentation of the request flow with filters. It can be used out of the box or extended with custom lookup, filter logic and configuration sources.

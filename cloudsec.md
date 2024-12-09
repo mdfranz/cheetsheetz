@@ -1,5 +1,6 @@
 # Links Pages
 - [CloudSecDocs](https://cloudsecdocs.com/)
+- [Hacking the Cloud](https://hackingthe.cloud/)
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 - https://github.com/Funkmyster/awesome-cloud-security
 - https://github.com/4ndersonLin/awesome-cloud-security

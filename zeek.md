@@ -29,7 +29,7 @@ and then `[ZeekControl] > deploy`
 
 # JQ Expressions
 
-`dns.log`
+## DNS 
 ```
 root@opti3070:/opt/zeek/logs/current# tail -f dns.log  | jq -r '[ .["id.orig_h"] , .query ] | @csv'
 "192.168.2.214","franz-m1-2020.local"

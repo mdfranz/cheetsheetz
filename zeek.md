@@ -26,3 +26,18 @@ add `@load ja4` to `/opt/zeek/share/zeek/site/local.zeek`
 and `@load policy/tuning/json-logs.zeek` to enable JSON logging unless you are daft
 
 and then `[ZeekControl] > deploy`
+
+# JQ Expressions
+
+## DNS 
+```
+root@opti3070:/opt/zeek/logs/current# tail -f dns.log  | jq -r '[ .["id.orig_h"] , .query ] | @csv'
+"192.168.2.214","franz-m1-2020.local"
+"fe80::18ee:f37f:b14:f66b","franz-m1-2020.local"
+"192.168.2.214","franz-m1-2020.local"
+"fe80::18ee:f37f:b14:f66b","franz-m1-2020.local"
+"fe80::18ee:f37f:b14:f66b","franz-m1-2020.local"
+"192.168.2.214","franz-m1-2020.local"
+"192.168.2.214","_ippusb._tcp.local"
+"fe80::18ee:f37f:b14:f66b","_ippusb._tcp.local"
+```

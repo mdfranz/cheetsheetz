@@ -33,6 +33,8 @@ create table aws_cloudtrail as select * from "*.parquet";
 create table flow as select * from  "vpc_flow.json";
 ```
 
+(replace `create table` with `insert into` if the table already exits)
+
 with various [parameters](https://duckdb.org/docs/data/json/overview.html#parameters)
 
 ```

@@ -33,3 +33,9 @@
 ## Windows Tools
 - https://github.com/Countercept/chainsaw
 
+# Velociraptor 
+- https://github.com/Velocidex/velociraptor
+
+## Deployment
+- https://github.com/weslambert/velociraptor-docker
+- https://docs.velociraptor.app/docs/deployment/cloud/

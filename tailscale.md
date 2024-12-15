@@ -1,4 +1,4 @@
-# Kubernetes
+# Kubernetes Operator
 - [Kubernetes operator](https://tailscale.com/kb/1236/kubernetes-operator)
 
 Add this
@@ -29,11 +29,49 @@ helm upgrade \
   --wait
 ```
 
+## Exposing an internal service to your tailnet
+
 Then annotate a service with
 ```
   annotations:
     tailscale.com/expose: "true"
 ```
+
+
+## Exposing an External tailnet host to your cluster as a Service
+
+See (cluster egress}[https://tailscale.com/kb/1438/kubernetes-operator-cluster-egress] documentation 
+
+Create a service in your cluster (this example uses IP)
+
+```
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+    tailscale.com/tailnet-ip: 100.108.187.89
+  name: clickhouse-pn50   
+spec:
+  externalName: placeholder
+  type: ExternalName
+```
+
+It will then create the following service
+
+```
+mfranz@asus-rogstrix:~/tailscale$ kubectl get svc | grep click
+clickhouse-pn50   ExternalName   <none>       ts-clickhouse-pn50-2kk6c.tailscale.svc.cluster.local   <none>    9m34s
+```
+Which you can refer to on any jobs 
+
+
+
+
+
+
+
+
+
 
 # Headscale
 - https://github.com/juanfont/headscale

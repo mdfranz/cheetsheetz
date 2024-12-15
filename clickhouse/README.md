@@ -1,10 +1,19 @@
+# Installation
+- https://clickhouse.com/docs/en/install#available-installation-options
+- [How to Install ClickHouse on Ubuntu](https://ultahost.com/knowledge-base/install-clickhouse-on-ubuntu/) - May 2024
 
 
-# Python
+# Configuration Tips
+Open up server to all interfaces
+```
+<listen_host>::</listen_host>
+```
+
+# Python SDK 
 - https://clickhouse-driver.readthedocs.io/en/latest/
 - https://github.com/kszucs/pandahouse
 
-# MySQL
+# MySQL Compat
 
 It works
 
@@ -63,9 +72,4 @@ Read 2 rows, 149.00 B in 0.000636731 sec., 3141 rows/sec., 228.52 KiB/sec.
 
 ```
 
-# Configuration Tips
 
-Open up server to all interfaces
-```
-<listen_host>::</listen_host>
-```

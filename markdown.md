@@ -14,6 +14,7 @@
 - [pyromark](https://github.com/monosans/pyromark) - a blazingly fast CommonMark-compliant Markdown parser for Python.
 - [mistune](https://mistune.lepture.com/en/latest/) - A fast yet powerful Python Markdown parser with renderers and plugins, compatible with sane CommonMark rules.
 - [umarkdown](https://github.com/kumaraditya303/umarkdown) - an ultra fast (high performance) Markdown parser compliant with the markdown spec written in pure C with bindings for Python 3.8+. See [cli](https://umarkdown.netlify.app/cli/)
+- [markitdown](https://github.com/microsoft/markitdown)
 
 ## Misc Tools
 - https://github.com/philschmid/clipper.js

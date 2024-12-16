@@ -1,10 +1,14 @@
+# Resources
+- [YouTube](https://www.youtube.com/@OISFSuricata/videos)
+- [Stable Docs](https://docs.suricata.io/en/suricata-7.0.8/)
+
 # Installation
 
 Use [ppa](https://launchpad.net/~oisf/+archive/ubuntu/suricata-stable) and change the interface in `/etc/suricata/suricata.yaml`
 
 The latest package install is [here](https://docs.suricata.io/en/suricata-7.0.4/install.html#binary-packages)
 
-and enable Redis support for EVE.
+and enable Redis support for EVE if you want to store logs in Redis
 
 ```
   - eve-log:

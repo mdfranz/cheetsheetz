@@ -10,8 +10,6 @@ I've testing these with `uv`
 - [Useful Nvidia SMI Queries](https://enterprise-support.nvidia.com/s/article/Useful-nvidia-smi-Queries-2)
 - [Monitoring and Logging GPU Utilization in your job](https://www.docs.arc.vt.edu/usage/gpumon.html)
 
-
-
 ## Examples
 
 ```
@@ -20,3 +18,8 @@ nvidia-smi -l 1 --query-gpu=memory.used,memory.total --format=csv
 
 # Prometheus
 - https://github.com/utkuozdemir/nvidia_gpu_exporter
+
+# Container Tools 
+- https://hub.docker.com/r/nvidia/cuda
+- [container toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation) - latest Ubuntu is `22.04`
+- [nvidia operator](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/getting-started.html#prerequisites)

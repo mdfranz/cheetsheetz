@@ -1,21 +1,43 @@
 # OS Depedencies
-- Go with Ubuntu 22.04
+Go with Ubuntu 22.04 and install drivers, will be something like
 
+```
+sudo apt install nvidia-driver-550-server
+```
+
+See (Rancher on Ubuntu)[https://docs.rke2.io/advanced#deploy-nvidia-operator] instructions 
+
+
+(This avoids having to install in the container) 
 
 # Install Container Toolkit
-See https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation
+See https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation to see the PPA 
+
+```
+sudo apt-get install -y nvidia-container-toolkit
+```
+
+# Confirm It was installed properly
+
+Confirm [runtime class](https://kubernetes.io/docs/concepts/containers/runtime-class/)
 
 
-# Install Operator
+```
+kubectl get runtimeclass
+NAME                  HANDLER               AGE
+nvidia                nvidia                6m39s
+nvidia-experimental   nvidia-experimental   6m39s
+```
 
-See (Rancher on Ubuntu)[https://docs.rke2.io/advanced#deploy-nvidia-operator]
+
+# Install Operator (Optional)
 
 ```
 helm repo add nvidia https://helm.ngc.nvidia.com/nvidia \
     && helm repo update
 ```
 
-(This 
+I did not get this to work 
 
 ```
 helm install --wait nvidiagpu -n gpu-operator --create-namespace \

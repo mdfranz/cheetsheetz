@@ -5,7 +5,7 @@ Go with Ubuntu 22.04 and install drivers, will be something like
 sudo apt install nvidia-driver-550-server
 ```
 
-See (Rancher on Ubuntu)[https://docs.rke2.io/advanced#deploy-nvidia-operator] instructions 
+See [Rancher on Ubuntu](https://docs.rke2.io/advanced#deploy-nvidia-operator) instructions 
 
 
 (This avoids having to install in the container) 

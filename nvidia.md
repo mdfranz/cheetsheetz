@@ -22,5 +22,5 @@ nvidia-smi -l 1 --query-gpu=memory.used,memory.total --format=csv
 # Container Tools 
 - https://hub.docker.com/r/nvidia/cuda
 - [container toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation) - latest Ubuntu is `22.04`
-- [nvidia operator](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/getting-started.html#prerequisites) and see [time slicking](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/gpu-sharing.html#)
+- [nvidia operator](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/getting-started.html#prerequisites) and see [time slicing](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/gpu-sharing.html#)
 

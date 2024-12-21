@@ -1,10 +1,11 @@
 # Overview
+- https://ethicalml.github.io/awesome-production-machine-learning/
 - [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps/)
 - [LLMOps (LLM Bootcamp)](https://www.youtube.com/watch?v=Fquj2u7ay40) - May '23
 - [https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922](https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922)
 - [Microsoft Open Sources LMOps: A New Research Initiative to Enable Applications Development with Foundation Models, Part I](https://medium.com/towards-artificial-intelligence/microsoft-open-sources-lmops-a-new-research-initiative-to-enable-applications-development-with-d6d7e7ca2059)
 - [ML Engineer's Hell](https://github.com/stas00/ml-engineering/blob/master/insights/ai-battlefield.md#ml-engineers-hell) from [Machine Language Engineering Open Book](https://github.com/stas00/ml-engineering/tree/master)
-
+- [Best LLMOps Tools: Comparison of Open-Source LLM Production Frameworks](https://winder.ai/llmops-tools-comparison-open-source-llm-production-frameworks/) - Oct 2024
 
 ## Performance
 - [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices) - Oct 2023
@@ -21,6 +22,10 @@
 
 Also see [SageMaker](../aws/sagemaker.md)
 
+# Kubernetes LLM and Inferencing Platforms
+- [kServe](https://kserve.github.io/website/latest/)
+
+
 # Personal/Local LLMs
 - [Everything I've learned about Local LLMs](https://nullprogram.com/blog/2024/11/10/) - Nov 2024
 
@@ -28,7 +33,6 @@ Also see [SageMaker](../aws/sagemaker.md)
 Container or single file deployment of models seems like a solved problem with [ollama](https://ollama.com/)
 
 ### Blogs
-[A Simple Guide to Run the LLama Model in a Docker Container](https://medium.com/@ahmedtm/a-simple-guide-to-run-the-llama-model-in-a-docker-container-a3899032995e) - Dec 2023
 
 ### Tools/Code 
 - https://github.com/soulteary/llama-docker-playground
@@ -48,6 +52,18 @@ Container or single file deployment of models seems like a solved problem with [
 
 ### Streamlit Local Hosting
 - https://github.com/3eeps/llmon-py
+
+
+# vLLM
+- [Serving Open Source LLMs on GKE using vLLM framework](https://medium.com/google-cloud/serving-open-source-llms-on-gke-using-vllm-framework-5e522b3679ee)
+
+
+## Videos
+- [The State of vLLM in 2024](https://www.youtube.com/watch?v=4HPRf9nDZ6Q)
+- [vLLM on Kubernetes in Production](https://www.youtube.com/watch?v=t0iJGEG0IXk)
+- [Accelerating LLM Inference with vLLM](https://www.youtube.com/watch?v=qBFENFjKE-M)
+- [vLLM: Easy, Fast, and Cheap LLM Serving for Everyone - Woosuk Kwon & Xiaoxuan Liu, UC Berkeley](https://www.youtube.com/watch?v=9ih0EmcXRHE)
+
 
 # Full Stack Frameworks (Non-SaaS)
 These may or may not be commerical 

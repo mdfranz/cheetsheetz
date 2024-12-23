@@ -1,3 +1,8 @@
+
+# AKS
+- [cli docs](https://learn.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest)
+
+
 # Azure Functions
 ## Python
 - [Azure Functions Python Developer Guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=application-level)

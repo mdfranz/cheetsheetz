@@ -88,7 +88,7 @@
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - [kube-bench](https://github.com/aquasecurity/kube-bench)
 - [kubaudit](https://github.com/Shopify/kubeaudit)
-- [kubescape](https://github.com/armosec/kubescape) 
+- [kubescape](https://github.com/armosec/kubescape)  and [installing the operatorA ](https://github.com/kubescape/helm-charts/blob/main/charts/kubescape-operator/README.md) and [headlamp plugin](https://github.com/kubebeam/kubescape-headlamp-plugin/blob/main/examples/headlamp-helm-values.yaml)
 - [badrobot](https://github.com/controlplaneio/badrobot)
 - [marvin](https://github.com/undistro/marvin)
 - [managed kubernetes auditing toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit) - by DataDog

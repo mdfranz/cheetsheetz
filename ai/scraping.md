@@ -1,6 +1,7 @@
 # Most Popular Tools (EOY '24) for AI Usage
 - https://jina.ai/reader/
 - https://scrapegraph-doc.onrender.com/
+- https://firecrawl.dev
 
 ## Others I found along the way
 - [scrapy](https://github.com/scrapy/scrapy)

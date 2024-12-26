@@ -37,6 +37,12 @@ Then annotate a service with
     tailscale.com/expose: "true"
 ```
 
+Or from the command line
+
+```
+kubectl annotate service -n ollama ollama tailscale.com/expose="true"
+```
+
 
 ## Exposing an External tailnet host to your cluster as a Service
 

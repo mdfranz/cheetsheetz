@@ -7,6 +7,7 @@
 - https://github.com/scrapy/scrapy
 
 ## Other SaaS Tools 
+- https://apify.com/
 - https://scrapeops.io/
 - https://soax.com/
 - https://www.scrapingbee.com/
@@ -17,6 +18,7 @@
 - https://www.scrapingdog.com/
 - https://apify.com/
 - https://www.nimbleway.com/
+- https://www.scraperapi.com/
 
 # Blogs
 - [Scrape the Web Intelligently with Firecrawl and LangGraph](https://medium.com/@pankaj_pandey/scrape-the-web-intelligently-with-firecrawl-and-langgraph-7f4d7bd884ff) - Dec '24

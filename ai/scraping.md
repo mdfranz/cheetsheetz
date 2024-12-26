@@ -1,7 +1,7 @@
 # Most Popular Tools (EOY '24) for AI Usage
-- https://jina.ai/reader/
-- https://scrapegraph-doc.onrender.com/
-- https://firecrawl.dev
+- [jina.ai](https://jina.ai/reader/)
+- [scrapegraph](https://scrapegraph-doc.onrender.com/)
+- [firecrawl](https://firecrawl.dev)
 
 ## Others I found along the way
 - [scrapy](https://github.com/scrapy/scrapy)
@@ -9,7 +9,6 @@
 
 ## Other SaaS Tools 
 - https://apify.com/
-- https://scrapeops.io/
 - https://soax.com/
 - https://www.scrapingbee.com/
 - https://www.zenrows.com/

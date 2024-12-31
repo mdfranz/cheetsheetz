@@ -7,3 +7,7 @@
 
 # Design Patterns
 - https://python-patterns.guide/
+
+# Videos
+- [https://www.youtube.com/watch?v=LrtnLEkOwFE](7 Python Code Smells to AVOID at All Costs)
+

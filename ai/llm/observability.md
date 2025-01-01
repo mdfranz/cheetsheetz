@@ -7,8 +7,9 @@
 # Blogs
 - [LLM Monitoring and Observability — A Summary of Techniques and Approaches for Responsible AI](https://towardsdatascience.com/llm-monitoring-and-observability-c28121e75c2f) - Sep 2023
 
-# Vendors
+# SaaS
 - [WHYLABS](https://whylabs.ai/)
+- [logfire](https://logfire.pydantic.dev/docs/)   
 
 # Metrics in LLM Platforms
 - [BentoML](https://docs.bentoml.org/en/latest/reference/metrics.html)

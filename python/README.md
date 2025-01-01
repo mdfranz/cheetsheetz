@@ -7,3 +7,6 @@
 
 # Design Patterns
 - https://python-patterns.guide/
+
+# Intro Blog Series
+- [High Performance Python for Data Engineering](https://dagster.io/blog/python-high-performance) 

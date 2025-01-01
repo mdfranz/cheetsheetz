@@ -1,5 +1,3 @@
-
-
 # Bootcamps
 - https://github.com/parrt/msds501
 - https://github.com/GalvanizeDataScience/data-science-primer
@@ -36,3 +34,6 @@
 - [Ray Open Source](https://www.anyscale.com/ray-open-source) - Ray provides a simple, universal API for building distributed applications.
 - [Github](https://github.com/ray-project/ray) - consists of tune, rlib, ray serve
 - [Architecture](https://docs.google.com/document/d/1lAy0Owi-vPz2jEqBSaHNQcy2IBSDEHyXNOQZlGuj93c/preview)
+
+# Pandas
+- [Essential Pandas for Software Engineers, Data scientists](https://medium.com/@smrati.katiyar/essential-pandas-for-software-engineers-data-scientists-b0745d30d544)

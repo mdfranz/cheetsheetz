@@ -3,6 +3,9 @@
 Exposing on `0.0.0.0`
 See https://aident.ai/blog/how-to-expose-ollama-service-api-to-network
 
+
+# Code Examples
+
 # Containerized Deployments
 - https://ai.gopubby.com/deploying-and-managing-ollama-models-on-kubernetes-a-comprehensive-guide-a2b6cd1fea15
 - https://docs.lambdalabs.com/education/large-language-models/k8s-ollama-llama-3-2/

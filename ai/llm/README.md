@@ -119,6 +119,14 @@ See [conf/gtc2024.md]
 # Other Libraries
 - https://github.com/gventuri/pandas-ai
 
+## DSPy
+- https://dspy.ai/
+
+### Blogs
+- [DSPy — Does It Live Up To The Hype?](https://medium.com/emalpha/dspy-does-it-live-up-to-the-hype-6e56c2c6e7a0) - Mar '24
+- [Building an AI Assistant with DSPy](https://towardsdatascience.com/building-an-ai-assistant-with-dspy-2e1e749a1a95) - Mar '24
+
+
 # Fine Tuning
 - https://github.com/youssefHosni/Hands-On-LLM-Fine-Tuning
 

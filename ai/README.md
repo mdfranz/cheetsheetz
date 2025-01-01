@@ -42,3 +42,8 @@ Also see https://gitlab.com/mdfranz/ai-learning and other topics
 
 # Miscellaneous
 - [AICrowd](https://www.aicrowd.com/) and [git repo](https://gitlab.aicrowd.com/aicrowd)
+
+
+
+# Data Centric AI
+- https://github.com/daochenzha/data-centric-AI

@@ -1,5 +1,8 @@
 # Potentially Stable Tools
+
+## FastEmbed
 - https://github.com/qdrant/fastembed
+- https://github.com/yash9439/RayQdrantFastEmbed
 
 # Ingestion Examples
 - [Ollama-Docker: a RAG pipeline using LlamaIndex framework, Ollama as local LLM server, Qdrant as vector database and Open WebUI as web frontend.](https://github.com/wolffaxn/ollama-docker)

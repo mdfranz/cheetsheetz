@@ -6,6 +6,7 @@
 ## Others I found along the way
 - [scrapy](https://github.com/scrapy/scrapy)
 - [crawlee](https://crawlee.dev/) and nice [example](https://github.com/topmass/really-good-doc-scraper)
+- [crawl4ai](https://github.com/unclecode/crawl4ai)
 
 ## Other SaaS Tools 
 - https://apify.com/

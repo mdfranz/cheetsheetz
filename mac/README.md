@@ -1,3 +1,7 @@
+# Also see
+[AI hardware](https://github.com/mdfranz/cheetsheetz/blob/main/ai/llm/apple-mlx.md)
+
+
 # Basic Software
 - [homebrew](https://brew.sh/)
 - [tailscale](https://tailscale.com/)

@@ -1,6 +1,12 @@
 # Also see
 [AI hardware](https://github.com/mdfranz/cheetsheetz/blob/main/ai/llm/apple-mlx.md)
 
+# Logging
+- [Reviewing macOS Unified Logs](https://cloud.google.com/blog/topics/threat-intelligence/reviewing-macos-unified-logs/) - 2022
+- [Finding Waldo: Leveraging the Apple Unified Log for Incident Response](https://www.crowdstrike.com/en-us/blog/how-to-leverage-apple-unified-log-for-incident-response/)
+- [Unified Logging for macOS, an introduction.](https://skartek.dev/2022/05/04/unified-logging-for-macos-an-introduction/)
+## Tools
+- https://github.com/logga-app/logga-public
 
 # Basic Software
 - [homebrew](https://brew.sh/)
@@ -25,5 +31,5 @@
 ## Golang
 - [How To Install Go and Set Up a Local Programming Environment on macOS](https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-macos) (Digital Ocean, January 2023)
 
-# AWS 
+# AWS
 - [SSM Plugin for CLI](https://docs.aws.amazon.com/systems-manager/latest/userguide/install-plugin-macos-overview.html)

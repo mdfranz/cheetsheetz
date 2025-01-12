@@ -14,3 +14,7 @@ https://github.com/primeharbor/pht-account-configurator - `Configure a new AWS A
 - [Offical Docs](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps.html)
 - [Creating a Data Perimeter with Resource Control Policies (RCPs) and AWS KMS](https://www.fogsecurity.io/blog/data-perimeters-with-resource-control-policies-and-aws-kms) - Nov 2024
 - [How to use AWS Resource Control Policies](https://www.wiz.io/blog/how-to-use-aws-resource-control-policies) - Nov 2024
+
+
+# Blogs
+- [Implementing Security Invariants in an AWS Management Account](https://www.chrisfarris.com/post/payer-invariants/)

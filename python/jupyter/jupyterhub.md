@@ -16,6 +16,7 @@
 - [JupyterHub on Kubernetes: Productionizing Tubi Data Runtime](https://code.tubitv.com/jupyterhub-on-kubernetes-da8940488529) - April 2020
 
 ### Storage Issues
+- [Deploy Jupyterhub on Ubuntu with Kubeadm, MetalLB and NFS](https://medium.com/@texasdave2/deploy-jupyterhub-on-ubuntu-with-kubeadm-metallb-and-nfs-67ff41a394e4)
 - https://discourse.jupyter.org/t/does-jupyterhub-hub-support-multi-teams-out-of-the-box/2744/2
 - https://z2jh.jupyter.org/en/3.3.8/kubernetes/amazon/efs_storage.html
 - https://github.com/jupyterhub/zero-to-jupyterhub-k8s/issues/3280

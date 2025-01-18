@@ -1,8 +1,6 @@
 # Installation
 
-```pip3 install azure-cli```
-
-works just fine on any Linux OS or architecture
+See [official docs](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
 
 # Resource Groups
 

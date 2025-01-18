@@ -14,3 +14,6 @@
 
 # Training
 - [Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft Entra](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/)
+
+# Good Azure Blogs
+- https://blog.sinnathurai.ch/

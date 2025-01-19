@@ -2,6 +2,11 @@
 
 See [official docs](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
 
+
+# Guides
+- [Azure CLI Installing and Utilizing 🚀](https://jay75chauhan.medium.com/complete-guide-to-installing-and-utilizing-azure-cli-for-devops-engineers-926050fdc544) - Aug '24
+
+
 # Resource Groups
 
 Remember resource groups are assigned to a region (Location)

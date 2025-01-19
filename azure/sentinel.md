@@ -1,7 +1,18 @@
 # Arc/AMA
 
-## Data Sources
-- [json](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-log-json)
+## Data Sources & Azure Log Analytics Tables
+- [JSON Data Collection](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-log-json)
+- [Custom data ingestion and transformation in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/data-transformation)
+
+### BLogs
+- [How to create a Custom Table in Log Analytics Workspace (Azure)!](https://it-infrastructure.solutions/how-to-create-a-custom-log-analytics-workspace-table/)
+- [How to manage Log Analytics tables using the Azure CLI](https://www.jorgebernhardt.com/log-analytics-workspace-tables-azure-cli/)
+- [How to Create and Monitor Custom Logs with Azure Monitor](https://phiptech.com/how-to-create-and-monitor-custom-logs-with-azure-monitor/)
+- [Ingest DCR-based custom logs in Microsoft Sentinel with Logstash](https://koosg.medium.com/ingest-dcr-based-custom-logs-in-microsoft-sentinel-with-logstash-f94c79e69b93) - Nov '22
+
+
+### Automation
+- [Terraform: Support for creating a new table in Log Analytics workspace #23359](https://github.com/hashicorp/terraform-provider-azurerm/issues/23359)
 
 ## Agent Installation
 - https://learn.microsoft.com/en-us/azure/azure-arc/servers/manage-agent?tabs=linux-apt

@@ -1,10 +1,14 @@
+# Overall Docs
+- [Docs](https://learn.microsoft.com/en-us/azure/sentinel/) including [quick start onboarding](https://learn.microsoft.com/en-us/azure/sentinel/quickstart-onboard), [deployment guide](https://learn.microsoft.com/en-us/azure/sentinel/deploy-overview) and [data connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-data-sources?tabs=azure-portal) and [migration guide](https://learn.microsoft.com/en-us/azure/sentinel/migration)
+- [MSSP Usage](https://learn.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers)
+- [APIs](https://learn.microsoft.com/en-us/rest/api/securityinsights/api-versions)
+
 # Azure Arc/AMA
 ## Agent Installation
 - [Linux Installation](https://learn.microsoft.com/en-us/azure/azure-arc/servers/manage-agent?tabs=linux-apt)
 - [How-To Install and Setup: Azure Arc, (AMA) Azure Monitor Agent and (DCR) Data Collection Rules for sending Linux Syslog to Sentinel for Threat Hunting and Security Monitoring with AuditD](https://medium.com/@truvis.thornton/how-to-install-and-setup-azure-arc-ama-azure-monitor-agent-and-dcr-data-collection-rules-for-47381ee9d312)
 
 # End to End
-
 ## Data Sources & Azure Log Analytics Tables
 Sentinel uses [data collection rules](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview) that support [transformations](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-transformations) that process data from [collection endpoints](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-endpoint-overview?tabs=portal)
 

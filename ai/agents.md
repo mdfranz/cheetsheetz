@@ -1,5 +1,7 @@
 # Blogs, Articles and Guides
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) - Dec '24
+- [Top Agentic AI Design Patterns](https://medium.com/@yugank.aman/top-agentic-ai-design-patterns-for-architecting-ai-systems-397798b44d5c)
+- [How to build AI Agents with Vertex AI Agent Engine (Reasoning Engine)](https://medium.com/google-cloud/ai-agents-8eb2b6edea9b)
 
 # Frameworks
 - [crewai](https://www.crewai.com/open-source)
@@ -29,6 +31,6 @@
 - https://microsoft.github.io/TaskWeaver/docs/overview/
 
 # Pydantic AI
-- https://ai.pydantic.dev/
+See [Pydantic](../python/pydantic.md)
 
 ## BLogs

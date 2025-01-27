@@ -48,6 +48,11 @@ From CloudTrail
 create table ct as select * from read_json("2024-all.json",format='auto',union_by_name=True);
 ```
 
+Zeek Directories
+```
+create table ssl as select * from read_json("202*/*ssl*.gz",ignore_errors=true);
+```
+
 
 ## Memory Usage
 ```

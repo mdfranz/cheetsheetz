@@ -41,3 +41,45 @@ root@opti3070:/opt/zeek/logs/current# tail -f dns.log  | jq -r '[ .["id.orig_h"]
 "192.168.2.214","_ippusb._tcp.local"
 "fe80::18ee:f37f:b14:f66b","_ippusb._tcp.local"
 ```
+
+# DuckDB Analysis
+
+## DNS (JSON)
+
+The data
+```
+D .mode line
+D select * from dns limit 1;
+         ts = 1733616000.00134
+        uid = CXvqi3jemNNcTDBk5
+  id.orig_h = 192.168.2.177
+  id.orig_p = 58786
+  id.resp_h = 192.168.1.1
+  id.resp_p = 53
+      proto = udp
+   trans_id = 16868
+      query = verizon.net
+     qclass = 1
+qclass_name = C_INTERNET
+      qtype = 28
+ qtype_name = AAAA
+      rcode = 0
+ rcode_name = NOERROR
+         AA = false
+         TC = false
+         RD = true
+         RA = false
+          Z = 0
+   rejected = false
+        rtt = 
+    answers = 
+       TTLs = 
+```
+
+Queries 
+
+```
+create table dns as select * from read_json("202*/*dns*.gz",ignore_errors=true);
+select query, count(*) as cnt from dns group by query order by cnt desc limit 50;
+select query, count(*) as cnt from dns where query like '%microsoft.com' group by query order by cnt limit 50;
+```

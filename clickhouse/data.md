@@ -2,8 +2,17 @@
 - https://clickhouse.com/blog/getting-data-into-clickhouse-part-2-json
 - https://clickhouse.com/docs/en/integrations/data-formats/json/overview
 
+#
+
 # Examples with S3
 
+## BedRock
+
+```
+select * from s3('https://abucket.s3.us-east-1.amazonaws.com/AWSLogs/*/BedrockModelInvocationLogs/*/2025/*/*/*/*.gz') 
+```
+
+## Zeek 
 Get the schema
 
 ```

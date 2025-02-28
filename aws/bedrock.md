@@ -2,6 +2,13 @@
 - See [pricing](https://aws.amazon.com/bedrock/pricing/)
 - [Agents for Bedrock](https://aws.amazon.com/bedrock/agents/)
 
+# AWS Commands
+
+Getting the models in your region
+```
+aws bedrock list-foundation-models | jq '.modelSummaries.[].modelId'
+```
+
 # Blogs
 - [Generative AI: Amazon Bedrock using the CLI](https://sbstjn.com/blog/ai-generative-ai-aws-bedrock-cli-text-generation/) - Oct 2023
 - [Basic Information about Amazon Bedrock with API Examples - Model Features, Pricing, How to Use, Explanation of Tokens and Inference Parameters](https://hidekazu-konishi.com/entry/amazon_bedrock_basic_info_and_api_examples.html) - Mar 2024

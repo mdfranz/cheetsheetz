@@ -39,8 +39,9 @@ Find the SQLite DB
 mfranz@rogstrix-b450-ryzen5:~/.local$ llm logs path
 /home/mfranz/.config/io.datasette.llm/logs.db
 ```
-
 ## Plugins
+See [list](https://llm.datasette.io/en/stable/plugins/directory.html) but these I've tested
 - [llm-ollama](https://github.com/taketwo/llm-ollama) - access local or remote Ollama servers, if you are doing something funky set `OLLAMA_HOST`
 - [llm-gemini](https://pypi.org/project/llm-gemini/)
+- [llm-anthropic](https://github.com/simonw/llm-anthropic)
 - [llm-bedrock-anthropic](https://github.com/sblakey/llm-bedrock-anthropic)

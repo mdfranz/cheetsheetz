@@ -53,7 +53,6 @@ Container or single file deployment of models seems like a solved problem with [
 ### Streamlit Local Hosting
 - https://github.com/3eeps/llmon-py
 
-
 # vLLM
 - [Serving Open Source LLMs on GKE using vLLM framework](https://medium.com/google-cloud/serving-open-source-llms-on-gke-using-vllm-framework-5e522b3679ee)
 
@@ -67,7 +66,6 @@ Container or single file deployment of models seems like a solved problem with [
 
 # Full Stack Frameworks (Non-SaaS)
 These may or may not be commerical 
-
 - [Metaflow](https://github.com/Netflix/metaflow) 
 - [BentoML](https://github.com/bentoml/BentoML) - a framework for building reliable, scalable, and cost-efficient AI applications. It comes with everything you need for model serving, application packaging, and production deployment.
 - [dstack](https://github.com/dstackai/dstack) - engine for running GPU workloads on any cloud. It works with a wide range of cloud GPU providers (AWS, GCP, Azure, Lambda, TensorDock, Vast.ai, etc.) as well as on-premises servers.

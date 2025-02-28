@@ -1,4 +1,4 @@
-# Apple Silicon Tools
+# Apple Silicon Tools (MLX)
 
 ## Libraries
 - https://github.com/riccardomusmeci/mlx-llm

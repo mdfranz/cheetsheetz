@@ -11,6 +11,9 @@
 - https://docs.aws.amazon.com/code-library/latest/ug/python_3_bedrock_code_examples.html
 
 # Infrastructure 
+## CloudFormation
+- [enable-bedrock-logging-using-cloudformation](https://github.com/aws-samples/enable-bedrock-logging-using-cloudformation) and [blog](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/configure-bedrock-invocation-logging-cloudformation.html)
+
 ## CDK 
 - https://github.com/awslabs/generative-ai-cdk-constructs/
 - [aws_cdk.aws_bedrock](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_bedrock.html)
@@ -24,3 +27,4 @@
 - https://aws.amazon.com/blogs/mobile/create-a-fullstack-sample-web-app-powered-by-amazon-bedrock/
 - [Build a Serverless GenAI image creator - Amazon Bedrock model deployed with AWS CDK](https://community.aws/content/2b6vVO87SMvy1cY70GeinjH5ZX3/multimodal?lang=en) - Jan 2024
 - https://github.com/aws-samples/amazon-bedrock-workshop
+- https://github.com/aws-samples/bedrock-serverless-workshop/

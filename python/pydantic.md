@@ -3,6 +3,10 @@
 - [Pydantic is all you need: Jason Liu](https://www.youtube.com/watch?v=yj-wSRJwrrc)
 - [Do We Still Need Dataclasses? // PYDANTIC Tutorial](https://www.youtube.com/watch?v=Vj-iU-8_xLs)
 
+
+## Tools
+- [https://docs.pydantic.dev/latest/integrations/datamodel_code_generator/](https://docs.pydantic.dev/latest/integrations/datamodel_code_generator/) a library and command-line utility to generate pydantic models from just about any data source, including:
+
 # Pydantic AI
 - https://ai.pydantic.dev/
 ## Documentation

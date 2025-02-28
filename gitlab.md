@@ -12,6 +12,10 @@ See https://about.gitlab.com/install/#ubuntu
 # Docs
 - [Tutorial: Create and run your first GitLab CI/CD pipeline](https://docs.gitlab.com/ee/ci/quick_start/index.html)
 
+## CI References
+- [Variables](https://docs.gitlab.com/ci/variables/) and [predefined variables](https://docs.gitlab.com/ci/variables/predefined_variables/)
+- [Push Options](https://docs.gitlab.com/topics/git/commit/#push-options-for-gitlab-cicd)
+
 # Blogs & Videos
 - [What Happens on GitLab When You do git push?](https://nanmu.me/en/posts/2022/what-happens-on-gitlab-when-you-do-git-push/)
 

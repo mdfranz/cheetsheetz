@@ -1,7 +1,10 @@
 # Configuration
 
-Exposing on `0.0.0.0`
-See https://aident.ai/blog/how-to-expose-ollama-service-api-to-network
+- https://www.restack.io/p/ollama-serve-answer-parameters-cat-ai
+- https://aident.ai/blog/how-to-expose-ollama-service-api-to-network
+
+# Tuning
+
 
 
 # Code Examples

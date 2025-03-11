@@ -1,0 +1,25 @@
+#!/bin/bash
+
+case "$1" in
+    "claude37")
+        llm chat -m claude-3.7-sonnet
+        ;;
+    "claude35")
+        llm chat -m claude-3.5-sonnet
+        ;;
+    "o1")
+        llm chat -m o1
+        ;;
+    "4o")
+        llm chat -m 4o
+        ;;
+    "o1-mini")
+        llm chat -m o1-mini
+        ;;
+    "o3-mini")
+        llm chat -m o3-mini
+        ;;
+    *)
+        echo "Usage: $0 {claude37|claude35|o1|4o|o1-mini|o3-mini}"
+        ;;
+esac

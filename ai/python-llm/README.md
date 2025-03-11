@@ -45,3 +45,7 @@ See [list](https://llm.datasette.io/en/stable/plugins/directory.html) but these 
 - [llm-gemini](https://pypi.org/project/llm-gemini/)
 - [llm-anthropic](https://github.com/simonw/llm-anthropic)
 - [llm-bedrock-anthropic](https://github.com/sblakey/llm-bedrock-anthropic)
+
+# Related Tools
+- [strip-tags](https://github.com/simonw/strip-tags) from [https://simonwillison.net/2023/May/18/cli-tools-for-llms/](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+- [ttok](https://github.com/simonw/ttok)

@@ -1,0 +1,77 @@
+# Make sure you've installed vector version 0.21.2
+data_dir: ./
+sources:
+  source_id:
+    type: file
+    include:
+      - ./stdout.log
+    read_from: end
+transforms:
+  dedupe:
+    type: dedupe
+    inputs:
+      - filter
+    cache:
+      num_events: 7000
+    fields:
+      match: [id]
+  filter:
+    type: filter
+    inputs:
+      - source_id_remap
+    condition: .status != ""
+  source_id_remap:
+    type: remap
+    inputs:
+      - source_id
+    source: |-
+      . = parse_regex!(.message, r'^(?P<remote_addr>[^ ]*) - (?P<remote_user>[^ ]*) \[(?P<time_local>[^]]*)\] "(?P<request_type>[^ ]*) (?P<scheme>[^:]*)://(?P<host>[^ ]*)(?P<request_uri>[^ ]*) (?P<server_protocol>[^"]*)" (?P<status>[^ ]*) (?P<body_bytes_sent>[^ ]*) "(?P<http_referer>[^"]*)" "(?P<http_user_agent>[^"]*)" (?P<request_time>[^ ]*)')
+        .timestamp = to_timestamp!(.time_local)
+        .status = to_int!(.status)
+        .body_bytes_sent = to_int!(.body_bytes_sent)
+        .date = format_timestamp!(to_timestamp!(to_unix_timestamp(.timestamp,unit: "seconds")), format: "%Y-%m-%d")
+        ref, err = to_float(.request_time)
+        convert = ref * 1000.00
+        if is_null(err) {
+          .request_time = to_int(convert)
+        } else {
+          .request_time = 0 
+        }
+        parseHost = .scheme + "://" +  .host
+        arr = parse_url(parseHost) ?? null
+        if is_string(arr.host) {
+          checkForTrailingDash = split!(arr.host,"-")
+          checkForTrailingDash = compact(checkForTrailingDash, string: true, array: true, null: true)
+          .hostname = join!(checkForTrailingDash, separator: "-")
+          .path = arr.path
+        } else {
+            .hostname = null
+            .path = .host
+        }
+        .request_http_version = .server_protocol
+        message_parts = split(.message, ", ", limit: 2) ?? .message
+        structured = parse_key_value(message_parts[1], key_value_delimiter: ":", field_delimiter: ",") ?? {}
+        .message = message_parts[0]
+        . = merge(., structured)
+        .id = md5(to_string!(.timestamp)+to_string!(.status)+to_string!(.body_bytes_sent)+to_string!(.request_time)+to_string!(.remote_addr)+to_string!(.remote_user)+to_string!(.scheme)+to_string!(.request_uri)+to_string!(.server_protocol)+to_string!(.http_referer)+to_string!(.http_user_agent))
+
+sinks:
+  out:
+    type: http
+    inputs:
+      - dedupe
+    compression: gzip
+    uri: http://localhost:3012/api/v1/accounts/got/logs
+    request:
+      headers:
+        X-WebAuditor-Server-Key: ca3345cconks9c5ul5kg
+        Authorization: Bearer UKr7CBeevtR6fwSj0Mi9tg0sxx5WEbxP5ellZnWQCwMdVpXbqOmamZF23BPuUli24WFbFdOdjwmvk35QmKQGUCzV86OhMpXh26UBxFhZf3BOteZ6dbykvjKmwWOrb8Ov
+    encoding:
+      except_fields:
+        - file
+        - message
+        - source_type
+        - time_local
+        - host
+        - request
+      codec: json

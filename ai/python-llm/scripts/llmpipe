@@ -2,22 +2,22 @@
 
 case "$1" in
     "c37")
-        llm chat -m claude-3.7-sonnet
+        llm -m claude-3.7-sonnet
         ;;
     "c35")
-        llm chat -m claude-3.5-sonnet
+        llm -m claude-3.5-sonnet
         ;;
     "o1")
-        llm chat -m o1
+        llm  -m o1
         ;;
     "4o")
-        llm chat -m 4o
+        llm -m 4o
         ;;
     "o1m")
-        llm chat -m o1-mini
+        llm -m o1-mini
         ;;
     "o3m")
-        llm chat -m o3-mini
+        llm  -m o3-mini
         ;;
     *)
         echo "Usage: $0 {claude37|claude35|o1|4o|o1-mini|o3-mini}"

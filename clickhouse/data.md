@@ -1,8 +1,18 @@
+
+# Pandas DataFrames with CHDB
+
+CHDB can return a `DataFrame` per [data-formats](https://clickhouse.com/docs/chdb/reference/data-formats) and is as simple as
+
+```
+In [25]: q = chdb.query(""" select * from  s3('https://log-bucket.s3.us-east-1.amazonaws.com/*/nginx-access/*/*/*/*.log.gz') where status = 200
+       ⋮ """,'DataFrame')
+```
+
+
+
 # JSON
 - https://clickhouse.com/blog/getting-data-into-clickhouse-part-2-json
 - https://clickhouse.com/docs/en/integrations/data-formats/json/overview
-
-#
 
 # Examples with S3
 

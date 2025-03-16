@@ -16,8 +16,16 @@ See https://about.gitlab.com/install/#ubuntu
 - [Variables](https://docs.gitlab.com/ci/variables/) and [predefined variables](https://docs.gitlab.com/ci/variables/predefined_variables/)
 - [Push Options](https://docs.gitlab.com/topics/git/commit/#push-options-for-gitlab-cicd)
 
+## Python Packages
+- [Create a PyPi Package](https://docs.gitlab.com/user/packages/workflows/build_packages/#pypi)
+- [PyPI packages in the package registry](https://docs.gitlab.com/user/packages/pypi_repository/)
+
 # Blogs & Videos
 - [What Happens on GitLab When You do git push?](https://nanmu.me/en/posts/2022/what-happens-on-gitlab-when-you-do-git-push/)
+
+## Python Private Packages
+- [Creating Own PyPI Server in Gitlab for Serving Private Packages](https://medium.com/@abhishek.c.v.salian/creating-own-pypi-server-in-gitlab-for-serving-private-packages-edd9f66b5bc0) - Nov 2024
+- [How to Import Private Python Packages with pipenv and Gitlab](https://medium.com/@matt_tich/how-to-use-private-python-packages-with-pipenv-and-gitlab-8d35f73e5329)
 
 ## Ansible
 - [How to automate your DevOps using GitLab CI/CD + Docker + Ansible](https://medium.com/@a.golmirzaei/how-to-automate-your-devops-using-gitlab-ci-cd-docker-ansible-a32de7a116fc) - April 2022
@@ -35,6 +43,9 @@ See https://about.gitlab.com/install/#ubuntu
 - [How to Govern Terraform States Using GitLab Enterprise](https://www.gofirefly.io/blog/how-to-govern-terraform-states-using-gitlab-enterprise)
 
 Also see [Gitlab Terraform Images](https://gitlab.com/gitlab-org/terraform-images) and [GitLab CI template for Terraform](https://to-be-continuous.gitlab.io/doc/ref/terraform/)
+
+
+
 
 
 # CI Configuration

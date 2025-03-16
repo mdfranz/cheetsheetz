@@ -4,9 +4,7 @@
 - `OLLAMA_NUM_PARALLEL`
 - `OLLAMA_MAX_QUEUE`
 
-
 # Runner Arguments
-
 
 ```
 Runner usage

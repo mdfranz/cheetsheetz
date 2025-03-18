@@ -1,5 +1,8 @@
 # Blogs
 - https://medium.com/@petrica.leuca/what-ive-discovered-while-using-uv-436b4085b6d6
+- https://bury-thomas.medium.com/mastering-python-project-management-with-uv-part1-its-time-to-ditch-poetry-c2590091d90a
+- https://bury-thomas.medium.com/mastering-python-project-management-with-uv-part-2-deep-dives-and-advanced-use-1e2540e6f4a6
+- https://medium.com/@bury-thomas/mastering-python-project-management-with-uv-part-3-mlops-4906965f45a2
 
 # Videos
 - [https://www.youtube.com/watch?v=qh98qOND6MI](UV for Python… (Almost) All Batteries Included)

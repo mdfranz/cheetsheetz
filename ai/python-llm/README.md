@@ -5,6 +5,12 @@ Assuming you have [uv](https://docs.astral.sh/uv/) installed.
 uv  tool install llm
 ```
 
+And you'll need to upgrade plugins each time
+
+```
+uv tool update llm; llm install llm-anthropic
+```
+
 # Overview
 Notes and tricks for [python-llm](https://llm.datasette.io/en/stable/)
 

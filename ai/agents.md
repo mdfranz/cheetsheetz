@@ -5,6 +5,7 @@
 
 # Frameworks
 - [crewai](https://www.crewai.com/open-source)
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI/) - mashup of AutoGen, CrewAI, and other nonsense
 
 ## AutoGen
 - https://github.com/microsoft/autogen

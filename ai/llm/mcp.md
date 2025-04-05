@@ -1,6 +1,23 @@
+# Blogs
+- https://www.philschmid.de/mcp-introduction
+- https://www.philschmid.de/mcp-example-llama
+
+# Reasonable Explainer Videos
+- https://www.youtube.com/watch?v=tzrwxLNHtRY
+
+# Silly Influencer Videos
+- https://www.youtube.com/watch?v=Uq5lgErh3oo
+
+
 # Server Lists
+- https://mcp.composio.dev/
+- https://mcp.so/
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://glama.ai/mcp/servers
+
+## Bedrock
+- [Model Context Protocol (MCP) and Amazon Bedrock](https://community.aws/content/2uFvyCPQt7KcMxD9ldsJyjZM1Wp/model-context-protocol-mcp-and-amazon-bedrock?lang=en) - Mar 2025
+- [https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/](Harness the power of MCP servers with Amazon Bedrock Agents) - Apr 2025
 
 # Code
 ## Ollama 
@@ -10,6 +27,10 @@
 - https://github.com/MCP-Mirror/NightTrek_Ollama-mcp
 - https://github.com/emgeee/mcp-ollama
 - https://github.com/patruff/ollama-mcp-bridge
+
+## Bedrock
+- [AWS MCP Servers](https://github.com/awslabs/mcp/) - a monorepo with a number of examples MCP servers 
+- https://awslabs.github.io/mcp/servers/bedrock-kb-retrieval-mcp-server/
 
 ## Random Python
 - https://github.com/disler/just-prompt
@@ -21,12 +42,12 @@
 ## Infra
 - https://github.com/alexei-led/k8s-mcp-server
 
-# Reasonable Explainer Videos
-- https://www.youtube.com/watch?v=tzrwxLNHtRY
-
-# Silly Influencer Videos
-- https://www.youtube.com/watch?v=Uq5lgErh3oo
 
 # Security
+## Authn/Authz
+- https://spec.modelcontextprotocol.io/specification/2025-03-26/basic/authorization/
+- https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol
+- https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/
+
 ## Threats & Vulnerabiliies
 - https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks

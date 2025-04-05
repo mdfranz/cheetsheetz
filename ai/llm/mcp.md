@@ -1,7 +1,7 @@
 # Blogs
-- https://www.philschmid.de/mcp-introduction
+- [Model Context Protocol (MCP) an overview](https://www.philschmid.de/mcp-introduction) - Apr 2025
 - [The Top 7 MCP-Supported AI Frameworks](https://medium.com/@amosgyamfi/the-top-7-mcp-supported-ai-frameworks-a8e5030c87ab) - Apr 2025
-- https://www.philschmid.de/mcp-example-llama
+- [How to use Anthropic MCP Server with open LLMs, OpenAI or Google Gemini](https://www.philschmid.de/mcp-example-llama)
 
 # Reasonable Explainer Videos
 - https://www.youtube.com/watch?v=tzrwxLNHtRY

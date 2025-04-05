@@ -32,7 +32,13 @@
 - [AWS MCP Servers](https://github.com/awslabs/mcp/) - a monorepo with a number of examples MCP servers 
 - https://awslabs.github.io/mcp/servers/bedrock-kb-retrieval-mcp-server/
 
-## Random Python
+## Python
+- https://github.com/modelcontextprotocol/python-sdk
+
+### Server Frameworks
+- https://github.com/tadata-org/fastapi_mcp
+
+### Random
 - https://github.com/disler/just-prompt
 - https://github.com/sjquant/llm-bridge-mcp
 

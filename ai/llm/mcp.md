@@ -1,5 +1,6 @@
 # Blogs
 - https://www.philschmid.de/mcp-introduction
+- [The Top 7 MCP-Supported AI Frameworks](https://medium.com/@amosgyamfi/the-top-7-mcp-supported-ai-frameworks-a8e5030c87ab) - Apr 2025
 - https://www.philschmid.de/mcp-example-llama
 
 # Reasonable Explainer Videos
@@ -7,7 +8,6 @@
 
 # Silly Influencer Videos
 - https://www.youtube.com/watch?v=Uq5lgErh3oo
-
 
 # Server Lists
 - https://mcp.composio.dev/
@@ -17,7 +17,7 @@
 
 ## Bedrock
 - [Model Context Protocol (MCP) and Amazon Bedrock](https://community.aws/content/2uFvyCPQt7KcMxD9ldsJyjZM1Wp/model-context-protocol-mcp-and-amazon-bedrock?lang=en) - Mar 2025
-- [https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/](Harness the power of MCP servers with Amazon Bedrock Agents) - Apr 2025
+- [Harness the power of MCP servers with Amazon Bedrock Agents](https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/) - Apr 2025
 
 # Code
 ## Ollama 

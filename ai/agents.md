@@ -7,6 +7,17 @@
 - [crewai](https://www.crewai.com/open-source)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI/) - mashup of AutoGen, CrewAI, and other nonsense
 
+## Agno
+- [agno](https://github.com/agno-agi/agno)
+- (https://medium.com/ai-agent-insider/agno-building-multimodal-ai-agents-48571b835a93)
+
+### Code
+- https://github.com/tobalo/ai-agent-hello-world
+- https://github.com/WebDevCaptain/agno-ai-agents
+- https://github.com/ethicalanp/Agentic-AI/tree/main/BasicAgent
+- https://github.com/dkronst/demo-agno-agent/tree/master
+- https://github.com/FradSer/mcp-server-mas-sequential-thinking
+
 ## AutoGen
 - https://github.com/microsoft/autogen
 - https://microsoft.github.io/autogen/docs/Getting-Started/

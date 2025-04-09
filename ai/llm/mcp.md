@@ -48,8 +48,10 @@
 ## Infra
 - https://github.com/alexei-led/k8s-mcp-server
 
-
 # Security
+- https://block.github.io/goose/blog/2025/03/31/securing-mcp/
+- https://github.com/EnactProtocol/specification
+
 ## Authn/Authz
 - https://spec.modelcontextprotocol.io/specification/2025-03-26/basic/authorization/
 - https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol

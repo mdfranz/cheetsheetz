@@ -8,15 +8,15 @@
 - [fwd:cloudsec](https://fwdcloudsec.org/conference/north-america/)
 - [re:Inforce](https://reinforce.awsevents.com/)
 
-
-
 # Links Pages
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - [Hacking the Cloud](https://hackingthe.cloud/)
-- https://github.com/s0cm0nkey/Security-Reference-Guide/blob/main/cloud.md
-- https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+- [s0cm0nkey Cloud Resources]( https://github.com/s0cm0nkey/Security-Reference-Guide/blob/main/cloud.md) 
 - https://github.com/Funkmyster/awesome-cloud-security
 - https://github.com/4ndersonLin/awesome-cloud-security
+
+## Tools
+- [toniblyx: aws security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 

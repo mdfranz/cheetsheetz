@@ -1,11 +1,13 @@
 # Link Collections
 - https://github.com/bodacea/misinfolinks
 
-# Organizations
+# Companies
 - [Aletha Group](https://www.aletheagroup.com/)
 - [Avaaz](https://avaaz.org)
 - [Graphika](https://graphika.com/)
 - [Moonshot](https://moonshotteam.com/)
+
+# Organizations
 - [Network Contagion](https://networkcontagion.us/)
 
 # Conferences
@@ -62,7 +64,3 @@
 
 # Academic Research
 - https://github.com/sumeetkr/AwesomeFakeNews
-
-## Focus Areas
-- Network Analysis
-- Credibility scoring, claim identification/evaluation, annotation, and labelling of trutfullness, propaganda, etc. 

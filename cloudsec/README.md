@@ -1,3 +1,15 @@
+# Mailing Lists and Things to Monitor
+- [fwd:cloudsec](https://fwdcloudsec.org/forum/)
+- [AWS Security Digest](https://awssecuritydigest.com/)
+- [AWS Cloud Security Weekly](https://aws-cloudsec.com/)
+- [CloudSecList](https://cloudseclist.com/)
+
+# Conferences
+- [fwd:cloudsec](https://fwdcloudsec.org/conference/north-america/)
+- [re:Inforce](https://reinforce.awsevents.com/)
+
+
+
 # Links Pages
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - [Hacking the Cloud](https://hackingthe.cloud/)
@@ -79,9 +91,8 @@
 # K8S
 - [Detection Engineering for Kubernetes clusters](https://research.nccgroup.com/2021/11/10/detection-engineering-for-kubernetes-clusters/)
 
-See [k8sec.md](k8sec.md)
+See [../k8sec.md](k8sec.md)
 
-# Tools
 - [WithSecureLabs](https://github.com/WithSecureLabs) as a bunch of tools
 
 ## As Code

@@ -1,4 +1,5 @@
 # Blogs
+- [IAM Role Trust Policies: Misconfigurations Hiding in Plain Sight](https://www.token.security/blog/iam-role-trust-policies-misconfigurations-hiding-in-plain-sight)
 - [Best practices for creating least-privilege AWS IAM policies](https://www.datadoghq.com/blog/iam-least-privilege/) - Nov '24
 - [Overhauling AWS account access with Terraform, Granted, and GitOps](https://www.duckbillgroup.com/blog/overhauling-aws-account-access-with-terraform-granted-and-gitops/) - 
 - [5 THINGS YOU MAY NOT KNOW ABOUT AWS IAM](https://blog.revolve.team/2023/09/21/5-things-about-aws-iam/) - Sep '23

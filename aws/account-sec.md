@@ -1,6 +1,7 @@
 Also see [cloudsec](../cloudsec.md)
 
 # SCP
+- [Using Service Control Policies to protect security baselines](https://www.wiz.io/blog/using-service-control-policies-to-protect-security-baselines) - Mar 2023
 - [SCPs](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
 - [AWS IAM Permission Guardrails](https://aws-samples.github.io/aws-iam-permissions-guardrails/guardrails/scp-guardrails.html)
 - https://github.com/aws-samples/service-control-policy-examples

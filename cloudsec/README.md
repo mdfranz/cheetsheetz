@@ -4,6 +4,13 @@
 - [AWS Cloud Security Weekly](https://aws-cloudsec.com/)
 - [CloudSecList](https://cloudseclist.com/)
 
+# Vendor Blogs
+- [DataDog Security Labs](https://securitylabs.datadoghq.com/)
+- [Wiz Research](https://www.wiz.io/blog/tag/research) and [security](https://www.wiz.io/blog/tag/security) blogs
+- [Fog Security](https://www.fogsecurity.io/blog) 
+- [Unit 42 Cloud Security Research](https://unit42.paloaltonetworks.com/category/cloud-cybersecurity-research/)
+- [Orca Blog](https://orca.security/resources/blog/)
+
 # Conferences
 - [fwd:cloudsec](https://fwdcloudsec.org/conference/north-america/)
 - [re:Inforce](https://reinforce.awsevents.com/)
@@ -83,6 +90,10 @@
 # Azure
 - [WithSecure Azure Security Framework](https://www.withsecure.com/content/dam/with-secure/en/resources/withsecure-consulting-microsoft-azure-security-framework-guide-en.pdf)
 - [Azure Threat Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
+
+# Standards
+## DoD
+- [DoD Cloud Computing Security](https://public.cyber.mil/dccs/)
 
 # Containers 
 - [Container Security Checklist: From Image to Workload](https://github.com/krol3/container-security-checklist)

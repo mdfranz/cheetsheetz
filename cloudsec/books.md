@@ -4,6 +4,7 @@
 - [AWS Security Cookbook](https://github.com/PacktPublishing/AWS-Security-Cookbook-Second-Edition) by Heartin Kanikathottu (Packt, 2024)
 - Mastering AWS Security: Strengthen your cloud environment using AWS security features coupled with proven strategies 2nd ed. Edition
 by Laurent Mathieu (Packt, 2024)
+- Empirical Cloud Security 
 - AWS Security 1st Edition by Dylan Shields (Manning, 2022)
 - Beginning AWS Security: Build Secure, Effective, and Efficient AWS Architecture. (Apress, 2023)
 - Practical Cloud Security: A Guide for Secure Design and Deployment 2nd Edition (O'Reilly, 2023)
@@ -36,10 +37,23 @@ by Laurent Mathieu (Packt, 2024)
 
 ## Vulnerability Management 
 
+## Cloud Native Application
+
+
+
+
 ## Cloud Resource Security
 ### Storage Security
 
 ### Compute
+
+#### Containers
+- Registry and Images
+- Runtime
+- Orchestrator
+
+#### FaaS
+- Function Runtime 
 
 ### Network
 
@@ -74,4 +88,6 @@ by Laurent Mathieu (Packt, 2024)
 ### IAM Access Analyzer 
 
 ## SSM Parameter & Secrets Manager
+
+
 

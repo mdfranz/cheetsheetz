@@ -2,6 +2,7 @@
 - [Long-running tasks done easy](https://invak.id/long-running-tasks)
 
 # Important Features & Concepts
+- [Self Host](https://www.windmill.dev/docs/advanced/self_host)
 - [Caching](https://www.windmill.dev/docs/core_concepts/caching)
 - [States](https://www.windmill.dev/docs/core_concepts/resources_and_types#states) - 
 - [Webhooks](https://www.windmill.dev/docs/core_concepts/webhooks)

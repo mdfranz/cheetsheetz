@@ -37,6 +37,9 @@
 - [Go client](https://github.com/qdrant/go-client)
 - [JS Client](https://github.com/qdrant/qdrant-js)  
 
+### Deployment
+- https://github.com/qdrant/qdrant-helm/blob/main/charts/qdrant/values.yaml
+
 ## Milvus
 - [YouTube Channel](https://www.youtube.com/@MilvusVectorDatabase)
 - [Milvus Glossary](https://milvus.io/docs/glossary.md)

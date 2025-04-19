@@ -11,8 +11,10 @@
 
 ## Features
 - [Variable Custom Validation Rules](https://developer.hashicorp.com/terraform/language/values/variables#custom-validation-rules)
+- [Module Structure](https://developer.hashicorp.com/terraform/language/modules/develop/structure) from [modules](https://developer.hashicorp.com/terraform/language/modules) and [syntax](https://developer.hashicorp.com/terraform/language/modules/syntax)
 
 # Best Practices
+- [Best practices for code base structure and organization](https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/structure.html) and [getting started](https://docs.aws.amazon.com/prescriptive-guidance/latest/getting-started-terraform/introduction.html)
 - [IaC Ownership - Tag-based approach](https://www.token.security/blog/iac-ownership---tag-based-approach) - Apr '25
 - [Managing tfvars Files and Terraform Variable Hierarchy](https://www.env0.com/blog/managing-terraform-variable-hierarchy)
 

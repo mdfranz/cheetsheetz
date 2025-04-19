@@ -9,9 +9,14 @@
 ## Intro Blogs
 - [An Introduction to Terraform Templates](https://faun.pub/an-introduction-to-terraform-templates-a458d813fe95)
 
+## Features
+- [Variable Custom Validation Rules](https://developer.hashicorp.com/terraform/language/values/variables#custom-validation-rules)
+
 # Best Practices
 - [IaC Ownership - Tag-based approach](https://www.token.security/blog/iac-ownership---tag-based-approach) - Apr '25
 - [Managing tfvars Files and Terraform Variable Hierarchy](https://www.env0.com/blog/managing-terraform-variable-hierarchy)
+
+
 
 
 # Example Blogs

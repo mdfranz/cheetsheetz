@@ -1,3 +1,4 @@
 uv tool install llm --upgrade
-llm install llm-anthropic; 
+llm install llm-anthropic
 llm install llm-ollama
+llm install llm-gemini

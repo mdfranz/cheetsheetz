@@ -1,6 +1,18 @@
 #!/bin/bash
 
 case "$1" in
+    "gemma3")
+        llm chat -m gemma3:12b
+        ;;
+    "gemma3-large")
+        llm chat -m gemma-3-27b-it
+        ;;
+    "gemini25")
+        llm chat -m gemini-2.5-pro-preview-03-25
+        ;;
+    "gemini20")
+        llm chat -m gemini-2.0-flash-exp
+        ;;
     "c37")
         llm chat -m claude-3.7-sonnet
         ;;
@@ -20,6 +32,6 @@ case "$1" in
         llm chat -m o3-mini
         ;;
     *)
-        echo "Usage: $0 {claude37|claude35|o1|4o|o1-mini|o3-mini}"
+        echo "Usage: $0 {claude37|claude35|o1|4o|o1-mini|o3-mini|gemma3|gemma3-large|gemini25|gemini20}"
         ;;
 esac

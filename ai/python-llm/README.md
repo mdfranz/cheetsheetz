@@ -5,10 +5,18 @@ Assuming you have [uv](https://docs.astral.sh/uv/) installed.
 uv  tool install llm
 ```
 
-And you'll need to upgrade plugins each time
+And you'll need to upgrade plugins each time see [scripts/llm-upgrade]
 
 ```
 uv tool update llm; llm install llm-anthropic
+```
+
+# Environment variables for plugins
+
+```
+ANTHROPIC_API_KEY
+OPENAI_API_KEY
+LLM_GEMINI_KEY
 ```
 
 # Overview

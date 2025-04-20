@@ -45,6 +45,9 @@
 # GKE
 - [GKE Harden Your Cluster](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
 
+# Guardrails
+- [Kube-Policies: Guardrails for Apps Running in Kubernetes](https://developer.squareup.com/blog/kube-policies-guardrails-for-apps-running-in-kubernetes/)
+
 # Admission Control
 - [What is an AC](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - from K8S docs
 - [kyverno](https://kyverno.io/)
@@ -59,6 +62,7 @@
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
 # Logging and SIEM
+- [Kubernetes Threat Hunting using API Server Audit Logs](https://www.logpoint.com/en/blog/emerging-threats/kubernetes-threat-hunting-using-api-server-audit-logs/)
 - [Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)
 - [Threat Hunting with Kubernetes Audit Logs](https://developer.squareup.com/blog/threat-hunting-with-kubernetes-audit-logs/)
 

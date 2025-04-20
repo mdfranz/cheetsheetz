@@ -48,9 +48,14 @@
 ## Infra
 - https://github.com/alexei-led/k8s-mcp-server
 
+
 # Security
+- https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security
 - https://block.github.io/goose/blog/2025/03/31/securing-mcp/
 - https://github.com/EnactProtocol/specification
+
+## Tools
+- https://github.com/invariantlabs-ai/mcp-scan
 
 ## Authn/Authz
 - https://spec.modelcontextprotocol.io/specification/2025-03-26/basic/authorization/

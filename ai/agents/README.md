@@ -1,9 +1,10 @@
 # Blogs, Articles and Guides
+
+- [12 Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents) - Apr '25
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) - Dec '24
 - [Top Agentic AI Design Patterns](https://medium.com/@yugank.aman/top-agentic-ai-design-patterns-for-architecting-ai-systems-397798b44d5c)
 - [How to build AI Agents with Vertex AI Agent Engine (Reasoning Engine)](https://medium.com/google-cloud/ai-agents-8eb2b6edea9b)
-- [12 Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
-
+- [Some Lessons Learned Building LLM-powered Agents](https://mg.dev/lessons-learned-building-ai-agents/) - Feb '24
 
 # Frameworks
 - [crewai](https://www.crewai.com/open-source)

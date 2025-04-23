@@ -1,5 +1,8 @@
 Also see [cloudsec](../cloudsec.md)
 
+# Orgs
+- [Organizing Your AWS Environment Using Multiple Accounts](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
+
 # SCP
 - [Using Service Control Policies to protect security baselines](https://www.wiz.io/blog/using-service-control-policies-to-protect-security-baselines) - Mar 2023
 - [SCPs](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)

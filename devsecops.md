@@ -24,3 +24,8 @@
 
 # CNCF
 - [Secure Software Factory Whitepaper](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)
+
+
+# Repo Pinning
+- [GitHub Actions and the Pinning Problem: What 100 Security Projects Reveal](https://medium.com/@adan.alvarez/github-actions-and-the-pinning-problem-what-100-security-projects-reveal-54a3a9dcc902)
+- [Unpinnable Actions: How Malicious Code Can Sneak into Your GitHub Actions Workflows](https://www.paloaltonetworks.com/blog/cloud-security/unpinnable-actions-github-security/)

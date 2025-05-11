@@ -11,12 +11,13 @@ This is mainly about the security uses for AI not the [security of AI](secsafe.m
 # Security Applications
 - [OpenAI Collaboration Yields 14 Recommendations for Evaluating LLMs for Cybersecurity](https://insights.sei.cmu.edu/blog/openai-collaboration-yields-14-recommendations-for-evaluating-llms-for-cybersecurity/) and [paper](https://insights.sei.cmu.edu/documents/5834/SEIOpenAICyberSecWhitepaper_FINAL.pdf) - Feb 2024
 
-## IR 
+## IR
 - [Streamlining Security Incident Response with Automation and Large Language Models](https://engineering.mercari.com/en/blog/entry/20241206-streamlining-security-incident-response-with-automation-and-large-language-models/)
+- [Building Own MCP - Augmented LLM for Threat Hunting](https://tierzerosecurity.co.nz/2025/04/29/mcp-llm.html)
 
 # Vendor Solutions
-## Microsoft Security Copilot 
-- https://github.com/rod-trent/Copilot-for-Security 
+## Microsoft Security Copilot
+- https://github.com/rod-trent/Copilot-for-Security
 
 # Links Pages
 - [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)

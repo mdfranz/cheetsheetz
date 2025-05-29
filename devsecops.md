@@ -7,6 +7,11 @@
 - [Container Security Checklist: From Image to Workload](https://github.com/krol3/container-security-checklist)
 - [Top 20 Dockefile best Practices](https://sysdig.com/blog/dockerfile-best-practices/) - Sysdig, March 2021
 - [Container & Kubernetes Security Tools](https://www.container-security.site/general_information/tools_list.html) from `container-security.site`
+- [OWASP Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
+- [User namespace remapping: an advanced feature to protect your Docker environments!](https://dreamlab.net/en/blog/post/user-namespace-remapping-an-advanced-feature-to-protect-your-docker-environments/)
+## Non-Root
+- https://www.stream.security/rules/ensure-containers-run-with-a-high-uid-to-avoid-host-conflict
+- https://github.com/dnaprawa/dockerfile-best-practices
 
 # CICD 
 - [Top 10 CICD Security Risks](https://www.cidersecurity.io/top-10-cicd-security-risks/)

@@ -51,4 +51,8 @@
 
 ### Kubernetes
 - https://github.com/zilliztech/milvus-helm
+- https://milvus.io/docs/install_cluster-helm.md
 
+## Weaviate
+- https://weaviate.io/developers/academy/deployment/k8s/setup_weaviate
+- https://weaviate.io/developers/academy/deployment/k8s/access_weaviate

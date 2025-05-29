@@ -1,5 +1,3 @@
-
-
 # General References
 - [Engine Docs](https://docs.anchore.com/current/docs/engine/)
 - [FAQ](https://docs.anchore.com/current/docs/faq/)

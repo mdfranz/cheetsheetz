@@ -1,5 +1,6 @@
 # Blogs, Articles and Guides
-
+- [Agentic AI: Comparing New Open-Source Frameworks](https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df) - Apr '25
+- [AI agent frameworks: Choosing the right foundation for your business](https://www.ibm.com/think/insights/top-ai-agent-frameworks) - IBM 
 - [12 Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents) - Apr '25
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) - Dec '24
 - [Top Agentic AI Design Patterns](https://medium.com/@yugank.aman/top-agentic-ai-design-patterns-for-architecting-ai-systems-397798b44d5c)

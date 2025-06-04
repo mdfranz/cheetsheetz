@@ -3,6 +3,11 @@
 - [Introduction to GitOps on EKS with Weaveworks](https://richardcase.github.io/)
 - https://github.com/saikiranchalla1/learning-eks
 
+# Blueprints
+- [AI on EKS](https://awslabs.github.io/ai-on-eks/docs/blueprints)
+- [DOKS](https://awslabs.github.io/data-on-eks/)
+
+
 # Eksctl
 - [eksctl](https://eksctl.io/) and [examples](https://github.com/eksctl-io/eksctl/tree/main/examples)
 - [Getting Started](https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html)

@@ -1,13 +1,16 @@
 # General
-- https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security
-- https://block.github.io/goose/blog/2025/03/31/securing-mcp/
-- https://github.com/EnactProtocol/specification
-- https://www.wiz.io/blog/mcp-security-research-briefing
+- [Avoiding MCP Mania | How to Secure the Next Frontier of AI](https://www.sentinelone.com/blog/avoiding-mcp-mania-how-to-secure-the-next-frontier-of-ai/)
+- [Securing the Model Context Protocol](https://block.github.io/goose/blog/2025/03/31/securing-mcp/)
+- [Wiz MCP Security Briefing](https://www.wiz.io/blog/mcp-security-research-briefing)
 - [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://arxiv.org/pdf/2503.23278)
+- [Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies](https://arxiv.org/html/2504.08623v2) 
+
 ## Tools
-- https://github.com/invariantlabs-ai/mcp-scan
+- [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
+- [enact](https://github.com/EnactProtocol/specification)
 
 ## Authn/Authz
+- https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security
 - https://spec.modelcontextprotocol.io/specification/2025-03-26/basic/authorization/
 - https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol
 - https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/

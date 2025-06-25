@@ -12,15 +12,7 @@
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI/) - mashup of AutoGen, CrewAI, and other nonsense
 
 ## Agno
-- [agno](https://github.com/agno-agi/agno)
-- (https://medium.com/ai-agent-insider/agno-building-multimodal-ai-agents-48571b835a93)
-
-### Code
-- https://github.com/tobalo/ai-agent-hello-world
-- https://github.com/WebDevCaptain/agno-ai-agents
-- https://github.com/ethicalanp/Agentic-AI/tree/main/BasicAgent
-- https://github.com/dkronst/demo-agno-agent/tree/master
-- https://github.com/FradSer/mcp-server-mas-sequential-thinking
+- [agno](./agno.md)
 
 ## AutoGen
 - https://github.com/microsoft/autogen
@@ -41,7 +33,6 @@
 - [Griptape Trade School](https://learn.griptape.ai/latest/)
 
 ## Blogs
-
 # Taskweaver
 - https://github.com/microsoft/TaskWeaver
 - https://microsoft.github.io/TaskWeaver/docs/overview/

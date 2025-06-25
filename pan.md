@@ -15,8 +15,26 @@
 
 # IAC
 
-## Ansible
-- https://github.com/PaloAltoNetworks/pan-os-ansible
+## Ansible 
+
+### Code
+- [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) and [docs](https://paloaltonetworks.github.io/pan-os-ansible/index.html)
+- [ansible-playbooks](https://github.com/PaloAltoNetworks/ansible-playbooks)
+
+### Official Docs
+
+Common Tasks
+- [load config](https://pan.dev/ansible/docs/panos/guides/import-load-config/)
+- [create rules from csv](https://pan.dev/ansible/docs/panos/guides/csv-address-objects/)
+
+NAT
+- [NATv3 migration](https://pan.dev/ansible/docs/panos/info/nat_rule_v3/)
+
+### Deprecated/Out of Date
+- [ansible-role-spatula](https://github.com/PaloAltoNetworks/ansible-role-spatula)
+
+### Videos
+- [PaloAlto Automation Using Ansible](https://www.youtube.com/playlist?list=PLOocymQm7YWbcwi06a9ljvtV4FEFvry4A) - see [ansible code](https://github.com/network-evolution/ansible_masterclass/tree/main/24_paloalto_automation)
 
 ## Terraform
 

@@ -1,14 +1,11 @@
-# Installing with UV
+# Installation
+See [installation](https://docs.ansible.com/ansible/latest/installation_guide)
 
-See [installation](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#pipx-install)
-
-```
-uv tool install ansible-core
-```
+[Effortless Ansible Installation with Pipx & Pip](https://unfriendlygrinch.info/posts/effortless-ansible-installation/) - this works with `uv`
 
 # Bootstrapping
 
-Assuming you have a login (ubuntu, pi, etc.) you can use this to install an `ansible` user 
+Assuming you have a login (ubuntu, pi, etc.) you can use this to install an `ansible` user
 
 ```
 ---
@@ -47,4 +44,3 @@ Installing packages
 ```
 ansible -o -b -i ansible-hosts -m ansible.builtin.apt -a "name=auditd state=present" -u ansible all
 ```
-

@@ -53,16 +53,18 @@ Container or single file deployment of models seems like a solved problem with [
 ### Streamlit Local Hosting
 - https://github.com/3eeps/llmon-py
 
+# LLM-D
+- [llm-d](https://llm-d.ai/) - a Kubernetes-native high-performance distributed LLM inference framework
+- [llm-d-deployer](https://github.com/llm-d/llm-d-deployer)
+
 # vLLM
 - [Serving Open Source LLMs on GKE using vLLM framework](https://medium.com/google-cloud/serving-open-source-llms-on-gke-using-vllm-framework-5e522b3679ee)
-
 
 ## Videos
 - [The State of vLLM in 2024](https://www.youtube.com/watch?v=4HPRf9nDZ6Q)
 - [vLLM on Kubernetes in Production](https://www.youtube.com/watch?v=t0iJGEG0IXk)
 - [Accelerating LLM Inference with vLLM](https://www.youtube.com/watch?v=qBFENFjKE-M)
 - [vLLM: Easy, Fast, and Cheap LLM Serving for Everyone - Woosuk Kwon & Xiaoxuan Liu, UC Berkeley](https://www.youtube.com/watch?v=9ih0EmcXRHE)
-
 
 # Full Stack Frameworks (Non-SaaS)
 These may or may not be commerical 

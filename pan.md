@@ -16,9 +16,8 @@
 # IAC
 
 ## Ansible 
-
 ### Code
-- [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) and [docs](https://paloaltonetworks.github.io/pan-os-ansible/index.html)
+- [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) and [docs](https://paloaltonetworks.github.io/pan-os-ansible/index.html) and [galaxy-docs](https://galaxy.ansible.com/ui/repo/published/paloaltonetworks/panos/docs/)
 - [ansible-playbooks](https://github.com/PaloAltoNetworks/ansible-playbooks)
 
 ### Official Docs

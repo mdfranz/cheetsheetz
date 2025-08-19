@@ -8,6 +8,7 @@
 ## Tools
 - [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
 - [enact](https://github.com/EnactProtocol/specification)
+- [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - see [blog](https://blog.trailofbits.com/2025/07/28/we-built-the-security-layer-mcp-always-needed/)
 
 ## Authn/Authz
 - https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security
@@ -21,4 +22,4 @@
 - [MCP Safety Audit: LLMs with the Model Context Protocol
 Allow Major Security Exploits](https://arxiv.org/pdf/2504.03767) - Apr '25
 - https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
-- https://blog.trailofbits.com/2025/04/21/jumping-the-line-how-mcp-servers-can-attack-you-before-you-ever-use-them/
+- [Jumping the line: How MCP servers can attack you before you ever use them](https://blog.trailofbits.com/2025/04/21/jumping-the-line-how-mcp-servers-can-attack-you-before-you-ever-use-them) - Apr 2025

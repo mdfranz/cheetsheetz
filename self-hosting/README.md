@@ -11,7 +11,6 @@
 ## Gogs
 - https://github.com/gogs
 - https://github.com/drabo/gogs
-- 
 
 # Web Office
 ## CryptPad

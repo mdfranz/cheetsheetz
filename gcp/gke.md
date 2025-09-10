@@ -1,3 +1,12 @@
+# Cluster Modes
+- [Modes of Operations](https://cloud.google.com/kubernetes-engine/docs/concepts/choose-cluster-mode)
+- [Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
+
+
+# IAM
+- [Workload Identity Federation](https://cloud.google.com/kubernetes-engine/docs/concepts/workload-identity)
+- [GKE security overview](https://cloud.google.com/kubernetes-engine/docs/concepts/security-overview)
+
 # Concepts
 - [GKE Network Models](https://cloud.google.com/kubernetes-engine/docs/concepts/gke-compare-network-models)
 

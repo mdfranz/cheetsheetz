@@ -11,8 +11,7 @@ Also see [cloudsec](../cloudsec.md)
 
 ## Terraform
 - https://github.com/aws-samples/aws-scps-with-terraform
-
-https://github.com/primeharbor/pht-account-configurator - `Configure a new AWS Account with security best practices`
+- https://github.com/primeharbor/pht-account-configurator - "Configure a new AWS Account with security best practices"
 
 # Resource Control Policies (RCP)
 - [Offical Docs](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_rcps.html)

@@ -1,3 +1,6 @@
+# Related
+
+
 # Blogs, Articles and Guides
 - [
 Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) - Sep '25
@@ -9,9 +12,18 @@ Writing effective tools for agents — with agents](https://www.anthropic.com/en
 - [How to build AI Agents with Vertex AI Agent Engine (Reasoning Engine)](https://medium.com/google-cloud/ai-agents-8eb2b6edea9b)
 - [Some Lessons Learned Building LLM-powered Agents](https://mg.dev/lessons-learned-building-ai-agents/) - Feb '24
 
+# Hyperscaler
+## AgentCore
+- [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/)
+
+## Google
+- [Vertex AI Agent](./gcp/agents.md)
+
 # Frameworks
 - [crewai](https://www.crewai.com/open-source)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI/) - mashup of AutoGen, CrewAI, and other nonsense
+- [Strands Agents](https://strandsagents.com/) and [python-sdk](https://github.com/strands-agents/sdk-python)
+
 
 ## Agno
 - [agno](./agno.md)

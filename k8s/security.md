@@ -97,6 +97,7 @@
 - [marvin](https://github.com/undistro/marvin)
 - [managed kubernetes auditing toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit) - by DataDog
 - [nimbus](https://github.com/5GSEC/nimbus) - Intent driven security automation framework
+- [replik8s](https://github.com/latacora/replik8s)
 
 ## SBOM
 - [kubeclarity](https://github.com/openclarity/kubeclarity)

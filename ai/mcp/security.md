@@ -1,4 +1,6 @@
 # General
+- [MCP Tools: Attack Vectors and Defense Recommendations for Autonomous Agents](https://www.elastic.co/security-labs/mcp-tools-attack-defense-recommendations)
+- [A Security Engineer's Guide to MCP](https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/)
 - [Avoiding MCP Mania | How to Secure the Next Frontier of AI](https://www.sentinelone.com/blog/avoiding-mcp-mania-how-to-secure-the-next-frontier-of-ai/)
 - [Securing the Model Context Protocol](https://block.github.io/goose/blog/2025/03/31/securing-mcp/)
 - [Wiz MCP Security Briefing](https://www.wiz.io/blog/mcp-security-research-briefing)

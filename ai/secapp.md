@@ -1,5 +1,8 @@
 This is mainly about the security uses for AI not the [security of AI](secsafe.md)
 
+# General Articles
+- [Building AI for Cyber Defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) - Anthropic, October 2025
+
 # Adversary Tooling using LLMs
 ## Links Pages
 - https://github.com/mrwadams/attackgen
@@ -24,3 +27,9 @@ This is mainly about the security uses for AI not the [security of AI](secsafe.m
 
 # Misc Tools AI-Enabled Tools
 - [reaper](https://github.com/ghostsecurity/reaper)
+
+# Competitions
+- [AIxCC](https://aicyberchallenge.com/) - a two-year competition that brings together the best and brightest in AI and cybersecurity to safeguard the software critical to all Americans. AIxCC competitors are designing, testing and improving novel AI systems to automatically secure this critical code.
+
+# Security Benchmarks
+- [Cybench](https://cybench.github.io/) - A benchmark for evaluating the cybersecurity capabilities and risks of language models.

@@ -13,15 +13,19 @@
 - [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - see [blog](https://blog.trailofbits.com/2025/07/28/we-built-the-security-layer-mcp-always-needed/)
 
 ## Authn/Authz
-- https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security
-- https://spec.modelcontextprotocol.io/specification/2025-03-26/basic/authorization/
-- https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol
-- https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/
-- [Piecing together the Agent puzzle: MCP, authentication & authorization, and Durable Objects free tier](https://blog.cloudflare.com/building-ai-agents-with-mcp-authn-authz-and-durable-objects/)
+* [OAuth's Role in MCP Security](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security)
+* [Let's fix OAuth in MCP](https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol)
+* [The MCP Authorization Spec Is... a Mess for Enterprise](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/)
+* [Piecing together the Agent puzzle: MCP, authentication & authorization, and Durable Objects free tier](https://blog.cloudflare.com/building-ai-agents-with-mcp-authn-authz-and-durable-objects/)
 
 ## Threats & Vulnerabiliies
-- [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/)
-- [MCP Safety Audit: LLMs with the Model Context Protocol
+* [Security Advisory: Anthropic's Slack MCP Server Vulnerable to Data Exfiltration](https://embracethered.com/blog/posts/2025/security-advisory-anthropic-slack-mcp-server-data-leakage/)
+* [EscapeRoute: Breaking the Scope of Anthropic’s Filesystem MCP Server
+(CVE-2025-53109 & CVE-2025-53110)](https://cymulate.com/blog/cve-2025-53109-53110-escaperoute-anthropic/)
+* [Critical RCE in Anthropic MCP Inspector (CVE-2025-49596) Enables Browser-Based Exploits | Oligo Security](https://www.oligo.security/blog/critical-rce-vulnerability-in-anthropic-mcp-inspector-cve-2025-49596)
+* [Cato CTRL™ Threat Research: PoC Attack Targeting Atlassian's Model Context Protocol (MCP) Introduces New “Living Off AI” Risk](https://www.catonetworks.com/blog/cato-ctrl-poc-attack-targeting-atlassians-mcp/)
+* [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/)
+* [MCP Safety Audit: LLMs with the Model Context Protocol
 Allow Major Security Exploits](https://arxiv.org/pdf/2504.03767) - Apr '25
-- https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks
-- [Jumping the line: How MCP servers can attack you before you ever use them](https://blog.trailofbits.com/2025/04/21/jumping-the-line-how-mcp-servers-can-attack-you-before-you-ever-use-them) - Apr 2025
+* [MCP Security Notification: Tool Poisoning Attacks](https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks)
+* [Jumping the line: How MCP servers can attack you before you ever use them](https://blog.trailofbits.com/2025/04/21/jumping-the-line-how-mcp-servers-can-attack-you-before-you-ever-use-them) - Apr 2025

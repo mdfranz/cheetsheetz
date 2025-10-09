@@ -1,9 +1,10 @@
 # Related
 
+# Random
+- https://agents.md/
 
 # Blogs, Articles and Guides
-- [
-Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) - Sep '25
+- [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) - Sep '25
 - [Agentic AI: Comparing New Open-Source Frameworks](https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df) - Apr '25
 - [AI agent frameworks: Choosing the right foundation for your business](https://www.ibm.com/think/insights/top-ai-agent-frameworks) - IBM
 - [12 Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents) - Apr '25
@@ -13,6 +14,15 @@ Writing effective tools for agents — with agents](https://www.anthropic.com/en
 - [Some Lessons Learned Building LLM-powered Agents](https://mg.dev/lessons-learned-building-ai-agents/) - Feb '24
 
 # Hyperscaler
+
+## Microsoft
+- https://github.com/microsoft/agent-framework
+
+### AutoGen
+- https://github.com/microsoft/autogen
+- https://microsoft.github.io/autogen/docs/Getting-Started/
+- [Magentic One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
+
 ## AgentCore
 - [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/)
 
@@ -24,14 +34,8 @@ Writing effective tools for agents — with agents](https://www.anthropic.com/en
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI/) - mashup of AutoGen, CrewAI, and other nonsense
 - [Strands Agents](https://strandsagents.com/) and [python-sdk](https://github.com/strands-agents/sdk-python)
 
-
 ## Agno
 - [agno](./agno.md)
-
-## AutoGen
-- https://github.com/microsoft/autogen
-- https://microsoft.github.io/autogen/docs/Getting-Started/
-- [Magentic One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
 
 ### Blogs & Articles
 - [If You Are Looking for the AutoGen’s UI with Document Retrieval, Here Is It](https://medium.com/gitconnected/if-you-are-looking-for-the-autogens-ui-with-document-retrieval-here-is-it-a38a4f9ec5a9) - Dec 2023

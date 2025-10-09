@@ -13,6 +13,7 @@ This is mainly about the security and safety of AI vs. [security applications of
 # Links Pages
 - [Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks)
 - [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)
+- [Awesome LLM Red Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming)
 
 # Vulnerabilities
 - [AVID](https://avidml.org/database/) - an AI Vulnerability Taxonomy
@@ -45,3 +46,9 @@ This is mainly about the security and safety of AI vs. [security applications of
 
 # Products & Companies
 - [predictionGuargd](https://www.predictionguard.com)
+
+
+# Random Tools (unsure of quality)
+- https://github.com/Moshahid315/LLM-Red-Teaming-tool
+- https://github.com/HuTa0kj/Warden
+- https://github.com/techs-targe/llm-safety-testing-tool-v2

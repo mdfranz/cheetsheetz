@@ -3,6 +3,7 @@
 - [A Security Engineer's Guide to MCP](https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/)
 - [Avoiding MCP Mania | How to Secure the Next Frontier of AI](https://www.sentinelone.com/blog/avoiding-mcp-mania-how-to-secure-the-next-frontier-of-ai/)
 - [Securing the Model Context Protocol](https://block.github.io/goose/blog/2025/03/31/securing-mcp/)
+- [The MCP Security Survival Guide: Best Practices, Pitfalls, and Real-World Lessons](https://towardsdatascience.com/the-mcp-security-survival-guide-best-practices-pitfalls-and-real-world-lessons/)
 - [Wiz MCP Security Briefing](https://www.wiz.io/blog/mcp-security-research-briefing)
 - [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://arxiv.org/pdf/2503.23278)
 - [Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies](https://arxiv.org/html/2504.08623v2) 
@@ -25,6 +26,7 @@
 * [Critical RCE in Anthropic MCP Inspector (CVE-2025-49596) Enables Browser-Based Exploits | Oligo Security](https://www.oligo.security/blog/critical-rce-vulnerability-in-anthropic-mcp-inspector-cve-2025-49596)
 * [Cato CTRL™ Threat Research: PoC Attack Targeting Atlassian's Model Context Protocol (MCP) Introduces New “Living Off AI” Risk](https://www.catonetworks.com/blog/cato-ctrl-poc-attack-targeting-atlassians-mcp/)
 * [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/)
+* [The Permission Pitfall: Securing MCP Servers Without Limiting Value](https://www.joinformal.com/blog/the-permission-pitfall-securing-mcp-servers-without-limiting-value/)
 * [MCP Safety Audit: LLMs with the Model Context Protocol
 Allow Major Security Exploits](https://arxiv.org/pdf/2504.03767) - Apr '25
 * [MCP Security Notification: Tool Poisoning Attacks](https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks)

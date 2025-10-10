@@ -13,8 +13,11 @@
 - [How to build AI Agents with Vertex AI Agent Engine (Reasoning Engine)](https://medium.com/google-cloud/ai-agents-8eb2b6edea9b)
 - [Some Lessons Learned Building LLM-powered Agents](https://mg.dev/lessons-learned-building-ai-agents/) - Feb '24
 
-# Hyperscaler
 
+# Full Stack
+-[Letta](https://docs.letta.com/overview) - Create stateful AI agents that truly remember, learn, and evolve.
+
+# Hyperscaler
 ## Microsoft
 - https://github.com/microsoft/agent-framework
 
@@ -23,16 +26,17 @@
 - https://microsoft.github.io/autogen/docs/Getting-Started/
 - [Magentic One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
 
-## AgentCore
+## Amazon
+- [Strands Agents](https://strandsagents.com/) and [python-sdk](https://github.com/strands-agents/sdk-python)
 - [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/)
 
 ## Google
 - [Vertex AI Agent](./gcp/agents.md)
+- [ADK](./agents/adk.md)
 
-# Frameworks
+# Indy Frameworks
 - [crewai](https://www.crewai.com/open-source)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI/) - mashup of AutoGen, CrewAI, and other nonsense
-- [Strands Agents](https://strandsagents.com/) and [python-sdk](https://github.com/strands-agents/sdk-python)
 
 ## Agno
 - [agno](./agno.md)

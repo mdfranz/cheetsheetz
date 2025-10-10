@@ -1,4 +1,6 @@
 # Blogs
+- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
+- [The Killer MCP Use Case: Closing The Agentic Loop](https://www.pulsemcp.com/posts/closing-the-agentic-loop-mcp-use-case)
 - [The Top 7 MCP-Supported AI Frameworks](https://medium.com/@amosgyamfi/the-top-7-mcp-supported-ai-frameworks-a8e5030c87ab) - Apr 2025
 - [How to use Anthropic MCP Server with open LLMs, OpenAI or Google Gemini](https://www.philschmid.de/mcp-example-llama)
 

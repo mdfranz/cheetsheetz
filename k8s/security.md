@@ -62,6 +62,7 @@
 - [EKS Best Practice Guide - Security](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
 # Logging and SIEM
+- [Auditing user activity in pods and nodes with the Security-Profiles-Operator](https://www.cncf.io/blog/2025/10/07/auditing-user-activity-in-pods-and-nodes-with-the-security-profiles-operator/)
 - [Kubernetes Threat Hunting using API Server Audit Logs](https://www.logpoint.com/en/blog/emerging-threats/kubernetes-threat-hunting-using-api-server-audit-logs/)
 - [Monitoring Kubernetes sensitive object access](https://lantern.splunk.com/Security/Use_Cases/Threat_Hunting/Monitoring_Kubernetes_sensitive_object_access)
 - [Threat Hunting with Kubernetes Audit Logs](https://developer.squareup.com/blog/threat-hunting-with-kubernetes-audit-logs/)

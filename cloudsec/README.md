@@ -24,6 +24,7 @@
 
 ## Tools
 - [toniblyx: aws security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+- [AuditKit](https://github.com/guardian-nexus/auditkit) - Multi-Cloud Compliance Scanner & Evidence Collection
 
 # General
 - [The values behind scaling cloud native security at Grafana Labs](https://grafana.com/blog/2021/12/20/the-values-behind-scaling-cloud-native-security-at-grafana-labs/) - December 2021 

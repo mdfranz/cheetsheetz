@@ -1,0 +1,6 @@
+agno
+ollama
+openai
+lancedb
+tantivy
+pandas

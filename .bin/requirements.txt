@@ -4,3 +4,5 @@ openai
 lancedb
 tantivy
 pandas
+qdrant-client
+sqlalchemy

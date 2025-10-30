@@ -33,3 +33,6 @@ This is mainly about the security uses for AI not the [security of AI](secsafe.m
 
 # Security Benchmarks
 - [Cybench](https://cybench.github.io/) - A benchmark for evaluating the cybersecurity capabilities and risks of language models.
+- [CyberSOCEval](https://ai.meta.com/research/publications/cybersoceval-benchmarking-llms-capabilities-for-malware-analysis-and-threat-intelligence-reasoning/) - Sep '25
+- [CTIBench](https://arxiv.org/abs/2406.07599) - Nov '24
+

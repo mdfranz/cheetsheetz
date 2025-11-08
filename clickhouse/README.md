@@ -9,3 +9,6 @@
 
 ## CHDB
 - https://antonz.org/trying-chdb/
+
+# MCP Servers
+- https://github.com/ClickHouse/mcp-clickhouse

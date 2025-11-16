@@ -14,10 +14,11 @@ from agno.tools.reasoning import ReasoningTools
 from agno.tools.knowledge import KnowledgeTools
 
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s') 
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
-
-good_models = ["llama3.1:8b", "granite4:micro", "granite4", "cogito:8b", "cogito:14b","gpt-oss:20b"]
+good_models = ["llama3.1:8b", "granite4:micro", "granite4", "cogito:8b"]
 
 
 def find_markdown_files(
@@ -51,11 +52,11 @@ def find_markdown_files(
 
 
 class Cheetsheetz:
-    def __init__(self,vdb="lancedb",max_results=1000):
+    def __init__(self, vdb="lancedb", max_results=1000):
         contents_db = SqliteDb(db_file="my_knowledge.db")
 
-        if 'QDRANT_URL' in os.environ:
-            qdrant_url = os.environ['QDRANT_URL']
+        if "QDRANT_URL" in os.environ:
+            qdrant_url = os.environ["QDRANT_URL"]
         else:
             qdrant_url = "http://localhost:6333"
 
@@ -70,20 +71,20 @@ class Cheetsheetz:
                     search_type=SearchType.hybrid,
                     # embedder=OllamaEmbedder(id="openhermes", dimensions=4096),
                     # embedder=OllamaEmbedder(id="nomic-embed-test"),
-                )
+                ),
             )
         elif vdb == "qdrant":
-           self.knowledge = Knowledge(
+            self.knowledge = Knowledge(
                 max_results=max_results,
                 contents_db=contents_db,
                 vector_db=Qdrant(
-                name="Qdrant Job Description",
-                collection="vectors",
-                url=qdrant_url
+                    name="Qdrant Job Description", collection="vectors", url=qdrant_url
+                ),
             )
-        )         
+
     def add_md(self, mdfile):
         self.knowledge.add_content(name=mdfile, path=mdfile)
+
 
 if __name__ == "__main__":
     c = Cheetsheetz("qdrant")
@@ -104,15 +105,6 @@ if __name__ == "__main__":
 
         print(f"Using {my_model}")
 
-        knowledge_tools = KnowledgeTools(
-            knowledge=c.knowledge,
-            search=True,
-            analyze=True,
-            add_few_shot=True,
-        )
-
-
-
         agent = Agent(
             name=f"Agno Assistant",
             model=my_model,
@@ -123,7 +115,7 @@ if __name__ == "__main__":
                 "You must include sources in your response and NOT use other information.",
             ],
             knowledge=c.knowledge,
-            tools=[ReasoningTools(add_instructions=True),knowledge_tools],
+            tools=[ReasoningTools(add_instructions=True)],
             add_datetime_to_context=False,
             markdown=True,
             debug_mode=True,

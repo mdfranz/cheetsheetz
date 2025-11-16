@@ -1,6 +1,7 @@
 # Also see
 [AI hardware](https://github.com/mdfranz/cheetsheetz/blob/main/ai/llm/apple-mlx.md)
 
+
 # Logging
 - [Reviewing macOS Unified Logs](https://cloud.google.com/blog/topics/threat-intelligence/reviewing-macos-unified-logs/) - 2022
 - [Finding Waldo: Leveraging the Apple Unified Log for Incident Response](https://www.crowdstrike.com/en-us/blog/how-to-leverage-apple-unified-log-for-incident-response/)

@@ -31,7 +31,37 @@ case "$1" in
     "o3m")
         llm chat -m o3-mini
         ;;
+    "c45o")
+        llm chat -m claude-opus-4.5
+        ;;
+    "c45s")
+        llm chat -m claude-sonnet-4.5
+        ;;
+    "c45h")
+        llm chat -m claude-haiku-4.5
+        ;;
+    "gpt51")
+        llm chat -m gpt-5.1
+        ;;
+    "gpt5m")
+        llm chat -m gpt-5-mini
+        ;;
+    "gpt5n")
+        llm chat -m gpt-5-nano
+        ;;
+    "o3")
+        llm chat -m o3
+        ;;
+    "o3p")
+        llm chat -m o3-pro
+        ;;
+    "o4m")
+        llm chat -m o4-mini
+        ;;
+    "gpt41m")
+        llm chat -m gpt-4.1-mini
+        ;;
     *)
-        echo "Usage: $0 {claude37|claude35|o1|4o|o1-mini|o3-mini|gemma3|gemma3-large|gemini25|gemini20}"
+        echo "Usage: $0 {4o|c35|c37|c45h|c45o|c45s|gemma3|gemma3-large|gemini20|gemini25|gpt41m|gpt51|gpt5m|gpt5n|o1|o1m|o3|o3m|o3p|o4m}"
         ;;
 esac

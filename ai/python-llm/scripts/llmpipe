@@ -1,25 +1,46 @@
 #!/bin/bash
 
 case "$1" in
+    "c45o")
+        llm -m claude-opus-4.5
+        ;;
+    "c45s")
+        llm -m claude-sonnet-4.5
+        ;;
+    "c45h")
+        llm -m claude-haiku-4.5
+        ;;
     "c37")
         llm -m claude-3.7-sonnet
         ;;
     "c35")
         llm -m claude-3.5-sonnet
         ;;
-    "o1")
-        llm  -m o1
+    "gpt51")
+        llm -m gpt-5.1
         ;;
-    "4o")
-        llm -m 4o
+    "gpt5m")
+        llm -m gpt-5-mini
         ;;
-    "o1m")
-        llm -m o1-mini
+    "gpt5n")
+        llm -m gpt-5-nano
         ;;
     "o3m")
-        llm  -m o3-mini
+        llm -m o3-mini
+        ;;
+    "o3")
+        llm -m o3
+        ;;
+    "o3p")
+        llm -m o3-pro
+        ;;
+    "o4m")
+        llm -m o4-mini
+        ;;
+    "gpt41m")
+        llm -m gpt-4.1-mini
         ;;
     *)
-        echo "Usage: $0 {claude37|claude35|o1|4o|o1-mini|o3-mini}"
+        echo "Usage: $0 {c45o|c45s|c45h|c37|c35|gpt51|gpt5m|gpt5n|o3m|o3|o3p|o4m|gpt41m}"
         ;;
 esac

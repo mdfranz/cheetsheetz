@@ -1,0 +1,21 @@
+stream: true
+save: true
+keybindings: vi
+
+clients:
+  - type: gemini
+    api_key: XXX
+  - type: openai
+    api_key: sk-proj-XXX
+  - type: claude
+    api_base: https://api.anthropic.com/v1 # Optional
+    api_key: sk-ant-api03-XXX
+  - type: openai-compatible
+    name: ollama # Use a unique name for this client
+    api_base: http://localhost:11434/v1
+    models:
+      - name: cogito:14b
+        supports_function_calling: true
+      - name: qwen3:8b
+      - name: granite4
+        supports_function_calling: true

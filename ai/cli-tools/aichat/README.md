@@ -1,6 +1,10 @@
-# Links
+# Code Links
 - [sigoden/aichat](https://github.com/sigoden/aichat)
 - [Homebrew Formulae](https://formulae.brew.sh/formula/aichat)
+
+# Doc Links
+- [Command Line Guide](https://github.com/sigoden/aichat/wiki/Command-Line-Guide#usage)
+- [REPL Guide](https://github.com/sigoden/aichat/wiki/Chat-REPL-Guide)
 
 # Example
 

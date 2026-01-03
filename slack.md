@@ -1,6 +1,8 @@
 # Beginning Info
 - https://slack.com/help/articles/206845317-Create-a-Slack-workspace
 - https://slack.com/help/articles/360038161033-Understand-the-Primary-Owner-role
+- https://slack.com/help/articles/115004854783-Require-admin-approval-for-invitations-to-Slack
+- [Manage Invitation Links](https://slack.com/help/articles/360060363633-Manage-pending-invitations-and-invite-links-for-your-workspace#manage-invitation-links)
 
 # Security & Security
 - [Set Up 2FA](https://slack.com/help/articles/204509068-Set-up-two-factor-authentication)

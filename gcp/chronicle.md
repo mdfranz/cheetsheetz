@@ -27,6 +27,9 @@
 
 ## AI Features
 - [Gemini in Google SecOps](https://cloud.google.com/chronicle/docs/secops/gemini-chronicle)
+- 
+### MCP
+- [Google Cloud remote MCP server for SecOps](https://security.googlecloudcommunity.com/community-blog-42/google-cloud-remote-mcp-server-for-secops-6559)
 
 # Community Resources 
 - [Google Security Operations](https://security.googlecloudcommunity.com/google-security-operations-2)

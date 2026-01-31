@@ -4,6 +4,7 @@
 
 ## Tools
 - [Threat Composer](https://github.com/awslabs/threat-composer)
+- [STIF](https://github.com/wiz-sec-public/SITF)
 
 # Open Source Static Analysis
 - [Semgrep](https://semgrep.dev/)

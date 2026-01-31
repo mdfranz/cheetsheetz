@@ -21,6 +21,8 @@ This is mainly about the security and safety of AI vs. [security applications of
 - [Atlas](https://atlas.mitre.org/) - Adversarial Threat Landscape for Artificial-Intelligence Systems (think ATT&CK for AI)
 - [Failure Modes in Machine Learning](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning)
 
+Also see *Threats and Vulnerabilities* in [MCP](./mcp/security.md)
+
 # Frameworks
 - [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework)
 - [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)

@@ -1,9 +1,10 @@
 # Projects
 - https://github.com/AgentSecOps/SecOpsAgentKit
-- https://github.com/mdfranz/sec-skillz
-- https://github.com/transilienceai/communitytools
-- https://github.com/ghostsecurity/skills
+- [My Growing List of Skill](https://github.com/mdfranz/sec-skillz)
+- [TransilienceAI Community Tools](https://github.com/transilienceai/communitytools)
+- [Ghost Security Skills](https://github.com/ghostsecurity/skills)  - supercharges Claude Code to be an application security expert in code security analysis, dependency/secrets scanning, and dynamic vulnerability testing
 
-# Google Stuff (mostly dandye)
+ 
+# Google Security (mostly dandye)
 - https://github.com/dandye/agentic_soc_agentspace
 - https://github.com/dandye/ai-runbooks/tree/main/skills

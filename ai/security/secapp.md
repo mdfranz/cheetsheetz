@@ -1,12 +1,12 @@
-This is mainly about the security uses for AI not the [security of AI](secsafe.md)
+This is mainly about the security uses for AI not the [security of AI](@ai/security/secsafe.md)
 
 # General Articles
 - [Building AI for Cyber Defenders](https://www.anthropic.com/research/building-ai-cyber-defenders) - Anthropic, October 2025
 
 # Adversary Tooling using LLMs
 ## Links Pages
-- https://github.com/mrwadams/attackgen
-- https://github.com/fr0gger/Awesome-GPT-Agents
+- [attackgen](https://github.com/mrwadams/attackgen)
+- [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
 
 ## Custom GPTS
 - [Numerous Cybersecurity GPTs](https://medium.com/@santosomar/numerous-cybersecurity-gpts-c8e89d454444) - Jan
@@ -20,7 +20,7 @@ This is mainly about the security uses for AI not the [security of AI](secsafe.m
 
 # Vendor Solutions
 ## Microsoft Security Copilot
-- https://github.com/rod-trent/Copilot-for-Security
+- [Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security)
 
 # Links Pages
 - [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)

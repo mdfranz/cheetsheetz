@@ -1,4 +1,4 @@
-This is mainly about the security and safety of AI vs. [security applications of AI](secapp.md)
+This is mainly about the security and safety of AI vs. [security applications of AI](@ai/security/secapp.md)
 
 # Conferences and Workshops
 - [AI Security Summit](https://aisecuritysummit.org/) - OASIS & Cisco - Nov '23
@@ -21,7 +21,7 @@ This is mainly about the security and safety of AI vs. [security applications of
 - [Atlas](https://atlas.mitre.org/) - Adversarial Threat Landscape for Artificial-Intelligence Systems (think ATT&CK for AI)
 - [Failure Modes in Machine Learning](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning)
 
-Also see *Threats and Vulnerabilities* in [MCP](./mcp/security.md)
+Also see *Threats and Vulnerabilities* in [MCP](@ai/mcp/security.md)
 
 # Frameworks
 - [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework)
@@ -44,13 +44,12 @@ Also see *Threats and Vulnerabilities* in [MCP](./mcp/security.md)
 - [PrivacyRaven: Implementing a proof of concept for model inversion](https://blog.trailofbits.com/2021/11/09/privacyraven-implementing-a-proof-of-concept-for-model-inversion/) - Nov '21
 - [PrivacyRaven Has Left the Nest](https://blog.trailofbits.com/2020/10/08/privacyraven-has-left-the-nest/) - Oct '20
 # Tools
-[rebuff](https://github.com/woop/rebuff) - Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense.
+- [rebuff](https://github.com/woop/rebuff) - Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense.
 
 # Products & Companies
-- [predictionGuargd](https://www.predictionguard.com)
+- [PredictionGuard](https://www.predictionguard.com)
 
 
 # Random Tools (unsure of quality)
-- https://github.com/Moshahid315/LLM-Red-Teaming-tool
-- https://github.com/HuTa0kj/Warden
-- https://github.com/techs-targe/llm-safety-testing-tool-v2
+- [LLM-Red-Teaming-tool](https://github.com/Moshahid315/LLM-Red-Teaming-tool)
+- [llm-safety-testing-tool-v2](https://github.com/techs-targe/llm-safety-testing-tool-v2)

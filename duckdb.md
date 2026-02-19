@@ -34,6 +34,8 @@ create table aws_cloudtrail as select * from "*.parquet";
 
 ### Loading from JSON
 
+See [union by name](https://duckdb.org/2025/01/10/union-by-name) which is needed if schemas change. 
+
 ```
 create table flow as select * from  "vpc_flow.json";
 ```

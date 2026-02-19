@@ -1,9 +1,10 @@
 # Overview
 - https://ethicalml.github.io/awesome-production-machine-learning/
+- https://github.com/ashishpatel26/awesome-open-source-llmops/
 - [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps/)
 - [LLMOps (LLM Bootcamp)](https://www.youtube.com/watch?v=Fquj2u7ay40) - May '23
 - [https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922](https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922)
-- [Microsoft Open Sources LMOps: A New Research Initiative to Enable Applications Development with Foundation Models, Part I](https://medium.com/towards-artificial-intelligence/microsoft-open-sources-lmops-a-new-research-initiative-to-enable-applications-development-with-d6d7e7ca2059)
+- [Microsoft Open Sources LMOps: A New Research Initiative to Enable Applicakktions Development with Foundation Models, Part I](https://medium.com/towards-artificial-intelligence/microsoft-open-sources-lmops-a-new-research-initiative-to-enable-applications-development-with-d6d7e7ca2059)
 - [ML Engineer's Hell](https://github.com/stas00/ml-engineering/blob/master/insights/ai-battlefield.md#ml-engineers-hell) from [Machine Language Engineering Open Book](https://github.com/stas00/ml-engineering/tree/master)
 - [Best LLMOps Tools: Comparison of Open-Source LLM Production Frameworks](https://winder.ai/llmops-tools-comparison-open-source-llm-production-frameworks/) - Oct 2024
 

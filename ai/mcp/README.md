@@ -38,6 +38,7 @@
 
 ### Server Frameworks
 - https://github.com/tadata-org/fastapi_mcp
+- https://github.com/raw-labs/mxcp
 
 ### Random
 - https://github.com/disler/just-prompt

@@ -19,10 +19,9 @@
 
 # Hyperscaler
 ## Microsoft
-- [https://github.com/microsoft/agent-framework](agent-frameworks) and [https://github.com/microsoft/agent-framework/tree/main/python/samples](Python Samples)
-- [https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-python](Microsoft Agent Framework: Getting Started)
-- [https://learn.microsoft.com/en-us/agent-framework/](Agent Framework: Learn)
-
+- [Microsoft Agent Framework on GitHub](https://github.com/microsoft/agent-framework) and [Python samples in the repository](https://github.com/microsoft/agent-framework/tree/main/python/samples)
+- [Microsoft Agent Framework: Getting Started](https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-python)
+- [Agent Framework: Learn](https://learn.microsoft.com/en-us/agent-framework/)
 ### AutoGen
 - https://github.com/microsoft/autogen
 - https://microsoft.github.io/autogen/docs/Getting-Started/

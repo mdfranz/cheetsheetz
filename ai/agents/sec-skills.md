@@ -7,3 +7,6 @@
 # Google Security (mostly dandye)
 - [dandye/agentic_soc_agentspace](https://github.com/dandye/agentic_soc_agentspace) - Demonstrates deploying security-focused AI agents to Google Cloud's Vertex AI Agent Engine, integrating with security tools via the Model Context Protocol (MCP).
 - [dandye/ai-runbooks](https://github.com/dandye/ai-runbooks) - Agentic SOC Runbooks for AI-assisted cybersecurity workflows. It standardizes incident response and threat analysis procedures across AI platforms like Claude, Gemini, and Cline.
+
+# More Defense Security Agents
+- [elastic-security-agent-mesh](https://github.com/one3qualsone/elastic-security-agent-mesh) - A multi-agent SOC built on Elastic. Specialist AI agents for detection engineering, threat intelligence, triage, forensics, compliance, and SOC operations, connected through a semantic registry and governed by risk-tiered controls.

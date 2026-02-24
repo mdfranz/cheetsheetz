@@ -19,7 +19,7 @@
 - https://github.com/gbrigandi/soctalk
 - https://github.com/zhadyz/AI_SOC
 
-## Miniml Code
+## Minimal Code
 - https://github.com/nicholasmagner/autonomous-soc-analyst
 - https://github.com/Nislive/SOC-Analyst-AI-Agent
 - https://github.com/salwadouay/soc-ai-agent

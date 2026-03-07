@@ -10,3 +10,8 @@
 - https://github.com/ethicalanp/Agentic-AI/
 - https://github.com/dkronst/demo-agno-agent/tree/master
 - https://github.com/FradSer/mcp-server-mas-sequential-thinking
+
+# Skills
+- https://github.com/agno-agi/agno-skills
+- https://github.com/Ash-Blanc/skill-optimizer
+- https://github.com/harishkotra/agno-skills-demo

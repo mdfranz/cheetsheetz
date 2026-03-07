@@ -14,3 +14,6 @@
 - [Alerter](https://github.com/adobe/alerter) - shell script consisting of curl commands
 - [Ksconf](https://github.com/Kintyre/ksconf) - not a standalone tool, requires ksconf app
 - [Terraform Provider](https://github.com/splunk/terraform-provider-splunk/blob/master/docs/resources/saved_searches.md) - see saved searches and [entire list](https://github.com/splunk/terraform-provider-splunk/tree/master/docs/resources)
+
+## AI
+- https://github.com/anubis01sk/splunk-detection-engineer-agent

@@ -1,0 +1,4 @@
+# Common Commands
+- `Telescope`
+- `checkhealth`
+

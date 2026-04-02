@@ -15,6 +15,7 @@ and enable Redis support for EVE if you want to store logs in Redis
       enabled: yes
       filetype: redis #regular|syslog|unix_dgram|unix_stream|redis
       filename: eve.json
+      rotate-interval: day
       # Enable for multi-threaded eve.json output; output files are amended with
       # an identifier, e.g., eve.9.json
       #threaded: false

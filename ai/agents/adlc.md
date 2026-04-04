@@ -2,6 +2,7 @@
 - [Introducing Agentic Development Lifecycle (ADLC): Building and Operating AI Agents in Production](https://www.epam.com/insights/ai/blogs/agentic-development-lifecycle-explained)
 - [Preparing your team for the agentic software development life cycle](https://www.thoughtworks.com/en-us/insights/articles/preparing-your-team-for-agentic-software-development-life-cycle) - March 2026
 - [Five Best Practices for Using AI Coding Assistants](https://cloud.google.com/blog/topics/developers-practitioners/five-best-practices-for-using-ai-coding-assistants) - October 2025
+- [What's Missing to Make AI Agents Mainstream?](https://www.heavybit.com/library/article/whats-missing-to-make-ai-agents-mainstream)
 
 # Spec Driven Development
 - [How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/) - January 2026

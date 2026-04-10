@@ -28,6 +28,8 @@
 
 # Lightweight/Embedded Vector DB's
 - [Chroma](https://github.com/chroma-core/chroma)
+- [sqlite-vec](https://github.com/asg017/sqlite-vec)
+- [lancedb](https://github.com/lancedb/lancedb)
 
 # Deep Dive on the DB
 

@@ -1,6 +1,10 @@
 # Installation
 - Get tgz from  https://golang.org/dl/ and go to https://golang.org/doc/install
 
+# Vulnerability Management
+- https://go.dev/blog/vuln
+- https://go.dev/doc/tutorial/govulncheck
+
 ## Using Documentation
 - https://golang.org/doc/
 - https://pkg.go.dev/

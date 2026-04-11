@@ -1,3 +1,16 @@
+# Configuration Seettings
+
+5 Day Cooldown Period
+
+**~/.config/uv/uv.toml**
+
+```
+exclude-newer = "5 days"
+```
+
+# Security Tools
+- https://github.com/owenlamont/uv-secure
+
 # Blogs
 - https://medium.com/@petrica.leuca/what-ive-discovered-while-using-uv-436b4085b6d6
 - https://bury-thomas.medium.com/mastering-python-project-management-with-uv-part1-its-time-to-ditch-poetry-c2590091d90a
@@ -8,7 +21,7 @@
 - [https://www.youtube.com/watch?v=qh98qOND6MI](UV for Python… (Almost) All Batteries Included)
 
 # Packages
-[Building and publishing a package](https://docs.astral.sh/uv/guides/package/#building-and-publishing-a-package)
+- [Building and publishing a package](https://docs.astral.sh/uv/guides/package/#building-and-publishing-a-package)
 
 ## Private Packages
 - [How to publish a Python package to a Gitlab package registry using uv](https://xebia.com/blog/how-to-publish-a-python-package-to-a-gitlab-package-registry-using-uv/) - Dec 2024

@@ -2,3 +2,6 @@
 *.swp
 .venv
 .tmp
+.codex
+.gemini
+.claude

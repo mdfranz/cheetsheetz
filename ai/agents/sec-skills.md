@@ -9,6 +9,7 @@
 - [dandye/ai-runbooks](https://github.com/dandye/ai-runbooks) - Agentic SOC Runbooks for AI-assisted cybersecurity workflows. It standardizes incident response and threat analysis procedures across AI platforms like Claude, Gemini, and Cline.
 
 # More Defense Security Agents
+- https://github.com/elastic/agent-skills
 - [elastic-security-agent-mesh](https://github.com/one3qualsone/elastic-security-agent-mesh) - A multi-agent SOC built on Elastic. Specialist AI agents for detection engineering, threat intelligence, triage, forensics, compliance, and SOC operations, connected through a semantic registry and governed by risk-tiered controls.
 - https://github.com/advithh-n/agentic-soc
 - https://github.com/Ismail-2001/Autonomous-Secure-AI-Operations-Center

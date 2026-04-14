@@ -1,0 +1,14 @@
+version: '3'
+services:
+  suricata:
+    image: jasonish/suricata:latest
+    network_mode: "host"
+    cap_add:
+     - NET_ADMIN
+     - SYS_NICE
+     - NET_RAW
+    volumes:
+     - "${PWD}/logs:/var/log/suricata"
+     - "${PWD}/suricata:/etc/suricata"
+    command:
+     - suricata -i eth0

@@ -19,4 +19,4 @@
 
 
 # Examples 
-- [The Agentic SDLC Handbook](https://danielmeppiel.github.io/agentic-sdlc-handbook/)
+- [The Agentic SDLC Handbook](https://danielmeppiel.github.io/agentic-sdlc-handbook/) by [danielmeppiel](https://github.com/danielmeppiel)

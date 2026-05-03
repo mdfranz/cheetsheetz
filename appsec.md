@@ -38,3 +38,6 @@
 ## Threat Modeling
 - [IriusRisk](https://www.iriusrisk.com/)
 - [Pythonic framework for threat modeling](https://github.com/izar/pytm)
+
+# AI Enabled Tools
+- https://github.com/mrwadams/stride-gpt

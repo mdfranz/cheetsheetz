@@ -161,13 +161,15 @@ mindmap
 * **Framework Integration (COSO & ISO 31000):**
   * Shifting cyber from a technical silo to a primary ERM pillar.
   * Mapping "Crown Jewel" assets to business objective disruption rather than IT inventory.
-* **NIST CSF 2.0 (2024) Implementation:**
+  * **Quantification:** Transitioning from qualitative (High/Med/Low) to quantitative risk models (e.g., FAIR) for Board reporting.
+* **NIST CSF 2.0 (Feb 2024) Implementation:**
   * Using the CSF 2.0 "Govern" function to integrate CSRM (Cybersecurity Risk Management) with Enterprise Risk.
-  * Transitioning from periodic assessments to a "Portfolio View" of risk.
-* **The "Three Lines" Model:**
+  * **AI Governance:** Integrating the NIST AI Risk Management Framework (AI RMF) into the "Govern" pillar.
+  * Transitioning from periodic assessments to a "Portfolio View" of risk (NIST IR 8286).
+* **The "Three Lines" Model (IIA 2020 Update):**
   * **1st Line:** Operations (Security/IT) owning control execution.
-  * **2nd Line:** Risk/Compliance (ERM) providing oversight and framework.
-  * **3rd Line:** Internal Audit providing independent assurance.
+  * **2nd Line:** Risk/Compliance (ERM) providing oversight, policy, and challenge.
+  * **3rd Line:** Internal Audit providing independent and objective assurance.
 
 #### Personal Liability & Indemnification
 * **The SolarWinds Recalibration (Post-Nov 2025):**

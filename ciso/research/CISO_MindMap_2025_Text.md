@@ -18,13 +18,20 @@ mindmap
       Legal & Contractual
     Security Operations & Resilience
       Threat Detection
+      Cyber Threat Intelligence
       SOC Operations
       Incident Management
       Ransomware Resilience
+    Email, Messaging & Collaboration
+      Social Engineering 2.0
+      Workflow Compromise
+      Teams & Slack Security
+      Interactive Deepfakes
     Core Defense Infrastructure
       Network & Perimeter
       Endpoint & Data
       Hygiene & Vuln Mgmt
+      Exposure Management
     Era 4: Agentic AI & GenAI
       Governance & Policy
       Agentic & Autonomous
@@ -36,6 +43,7 @@ mindmap
     Security Architecture & Engineering
       Cloud & Hybrid
       Modern Network Models
+      Post-Quantum Cryptography
       Workplace Resilience
     Business Enablement
       Strategic Growth (M&A)
@@ -50,50 +58,51 @@ mindmap
       Just-in-Time Coaching
       AI & Deepfake Prep
       Security Champions
-    Messaging & Collaboration
-      Social Engineering 2.0
-      Workflow Compromise
-      Teams & Slack Security
-      Interactive Deepfakes
 ```
 
 ## Identity (The New Perimeter)
 
 ### Identity Governance and Administration (IGA)
-* Role-Based Access Control (RBAC) & Attribute-Based Access Control (ABAC)
-* User Access Reviews (UAR)
-* Entitlement Management
-* Segregation of Duties (SoD) enforcement
+* Role-Based Access Control (RBAC) & Attribute-Based Access Control (ABAC) — assign access by job role or business attributes.
+* User Access Reviews (UAR) — periodic validation that access remains appropriate.
+* Entitlement Management — govern fine-grained permissions, group membership, and privileged roles.
+* Segregation of Duties (SoD) enforcement — prevent conflicting access combinations that enable fraud or abuse.
+* Joiner/Mover/Leaver governance — tie identity changes directly to HR and contractor lifecycle events.
 
 ### Identity Credentialing and Lifecycle
-* User Provisioning and Identity Life Cycle Management
-* HR Process Integration (Onboarding/Offboarding)
-* Directory Services (LDAP/Active Directory, Cloud Identity, Local ID stores)
-* Unified Identity Profiles
+* User Provisioning and Identity Life Cycle Management — create, change, suspend, and retire identities consistently.
+* HR Process Integration (Onboarding/Offboarding) — make HR the authoritative trigger for workforce identity changes.
+* Directory Services (LDAP/Active Directory, Cloud Identity, Local ID stores) — core identity repositories and synchronization layers.
+* Unified Identity Profiles — merge workforce, contractor, customer, and service identity context where needed.
+* Identity proofing — verify that a new identity belongs to the real person or entity being enrolled.
 
 ### Access Management and Authentication
-* Single Sign On (SSO)
-* Federation (SAML, OIDC, OAUTH)
+* Single Sign On (SSO) — centralize authentication to reduce password sprawl and improve control.
+* Federation (SAML, OIDC, OAUTH) — trust external identity providers without duplicating credentials.
 * 2-Factor (multi-factor) Authentication - MFA
-  * Authenticator Apps
-  * Tokens and cards
-  * One time passcodes
+  * Authenticator Apps — app-based push or code generation.
+  * Tokens and cards — hardware-based factors for stronger assurance.
+  * One time passcodes — usable but less phishing-resistant than modern methods.
 * Password-less Authentication
-  * Passkeys
-  * Biometrics (Voice, Face)
-* Customer Identity and Access Management (CIAM)
-* Privileged Access Management (PAM)
-* Use of public identity (Google, FB, OAuth, OpenID)
+  * Passkeys — phishing-resistant credentials bound to device and user.
+  * Biometrics (Voice, Face) — user convenience factor, usually paired with hardware trust.
+* Customer Identity and Access Management (CIAM) — authentication, fraud controls, and lifecycle for external users.
+* Privileged Access Management (PAM) — vault, broker, and monitor high-risk admin access.
+* Use of public identity (Google, FB, OAuth, OpenID) — social login and delegated access for low-friction user onboarding.
+* Session security — enforce re-authentication, token protection, device trust, and step-up controls.
 
 ### Machine and API Identity
-* API authentication and secrets management
-* IoT device identities
-* Service accounts & workload identities
+* API authentication and secrets management — secure non-human access keys, certificates, and tokens.
+* IoT device identities — uniquely identify devices for enrollment, trust, and revocation.
+* Service accounts & workload identities — replace shared static credentials with scoped workload trust.
+* Certificate lifecycle automation — issue, rotate, and revoke certificates before outages or abuse.
+* Secrets hygiene — eliminate hardcoded secrets and shorten credential lifetime.
 
 ### Zero Trust Identity
-* IAM with Zero Trust technologies
-* Continuous Authentication
-* Context-based access
+* IAM with Zero Trust technologies — treat identity, device, and session state as primary control points.
+* Continuous Authentication — reevaluate trust during the session, not just at login.
+* Context-based access — make access decisions using risk, device posture, location, and behavior.
+* Least-privilege by default — grant minimum access needed and expire it quickly.
 
 ## Governance, Risk, and Compliance (GRC)
 
@@ -142,8 +151,8 @@ mindmap
 * **Negotiation & "Give and Take":**
   * Trading strict controls in low-risk areas for mandatory adherence in high-risk zones (Risk-Based Governance).
 * **ROSI (Return on Security Investment):**
-  * **Formula:** $ROSI = \frac{(ALE \times Mitigation Ratio) - Cost of Solution}{Cost of Solution}$
-  * **ALE (Annualized Loss Expectancy):** Single Loss Expectancy (SLE) $\times$ Annual Rate of Occurrence (ARO).
+  * **Formula:** `ROSI = ((ALE × Mitigation Ratio) - Cost of Solution) / Cost of Solution`
+  * **ALE (Annualized Loss Expectancy):** `SLE (Single Loss Expectancy) × ARO (Annual Rate of Occurrence)`
   * Demonstrating loss avoidance as a tangible contribution to the bottom line.
 
 ### Risk Management and Liability
@@ -152,8 +161,8 @@ mindmap
 * **Framework Integration (COSO & ISO 31000):**
   * Shifting cyber from a technical silo to a primary ERM pillar.
   * Mapping "Crown Jewel" assets to business objective disruption rather than IT inventory.
-* **NIST SP 1308 (2025) Implementation:**
-  * Using the "Cybersecurity Framework 2.0 Quick-Start Guide" to integrate CSRM (Cybersecurity Risk Management) with Enterprise Risk.
+* **NIST CSF 2.0 (2024) Implementation:**
+  * Using the CSF 2.0 "Govern" function to integrate CSRM (Cybersecurity Risk Management) with Enterprise Risk.
   * Transitioning from periodic assessments to a "Portfolio View" of risk.
 * **The "Three Lines" Model:**
   * **1st Line:** Operations (Security/IT) owning control execution.
@@ -271,20 +280,87 @@ mindmap
 ## Security Operations & Resilience
 
 ### Threat Detection (NIST CSF Detect)
-* Log Analysis/correlation/SIEM
-* Alerting (IDS/IPS, FIM, WAF, Anti-Malware, etc.)
-* NetFlow analysis
-* Threat hunting and Insider threat
-* MSSP/MDR integration
-* Threat Detection capability assessment (Gap analysis)
+* **Log Analysis & SIEM Operations:**
+  * **Centralized Log Management:** Aggregation, retention, and secure storage of critical event telemetry across cloud, on-premise, and SaaS environments.
+  * **Event Correlation & Triage:** Utilizing SIEM capabilities to link disparate events into actionable alerts, reducing analyst fatigue and accelerating triage.
+  * **Next-Gen SIEM & Data Lakes:** Transitioning to scalable data lake architectures to decouple compute from storage, enabling cost-effective, long-term threat hunting and analytics.
+* **Infrastructure & Endpoint Alerting:**
+  * **Network Defenses:** Managing and tuning intrusion detection/prevention systems (IDS/IPS) and Web Application Firewalls (WAF) to detect and block known attack vectors.
+  * **Endpoint Telemetry:** Leveraging Endpoint Detection and Response (EDR) and Next-Gen Antivirus (NGAV) to detect behavioral anomalies, unauthorized processes, and memory injections.
+  * **Integrity Monitoring:** Utilizing File Integrity Monitoring (FIM) to detect unauthorized changes to critical system files, configurations, and registries.
+* **Network Traffic Analysis (NTA) & NetFlow:**
+  * **Behavioral Profiling:** Establishing baselines for normal network traffic to detect lateral movement, data exfiltration, and command-and-control (C2) beaconing.
+  * **Encrypted Traffic Analysis:** Applying machine learning and metadata analysis (e.g., JA3/JA4 fingerprints) to identify malicious patterns within encrypted TLS tunnels.
+  * **Visibility & Sensor Placement:** Ensuring strategic placement of network sensors at egress points, cloud gateways, and internal segmentation boundaries.
+* **Threat Hunting & Insider Risk:**
+  * **Hypothesis-Driven Hunting:** Proactive querying of security data based on specific threat intelligence, new vulnerabilities, or adversary TTPs to uncover hidden compromises.
+  * **Indicator of Compromise (IOC) Sweeps:** Rapid searching across historical logs and endpoint data for newly published malicious hashes, IPs, or domains.
+  * **Insider Threat Programs:** Monitoring User and Entity Behavior Analytics (UEBA) and Data Loss Prevention (DLP) events to detect unauthorized access, data hoarding, or anomalous activity by privileged users.
+* **Managed Services (MSSP/MDR) Integration:**
+  * **Co-Managed Operations:** Establishing clear rules of engagement, escalation matrices, and SLA tracking between the internal SOC and external MDR providers.
+  * **Telemetry Forwarding & Access:** Ensuring the MDR partner has the necessary access to log sources, EDR consoles, and cloud environments to perform effective remote triage and response.
+  * **Continuous Provider Evaluation:** Conducting regular tabletop exercises and simulated attacks to test the responsiveness, communication, and efficacy of the managed service provider.
+* **Threat Detection Assessment & Gap Analysis:**
+  * **Framework Alignment:** Regularly assessing current detection capabilities against industry frameworks like MITRE ATT&CK or the Cyber Defense Matrix to identify critical blind spots.
+  * **Coverage Mapping:** Documenting which specific log sources and active detection rules cover particular attack techniques across the enterprise environment.
+  * **Strategic Roadmap Planning:** Translating gap analysis findings into prioritized, board-level investments for new logging infrastructure, telemetry acquisition, or detection engineering resources.
+* **Detection Engineering:**
+  * **Rule Development & Lifecycle Management:**
+    * Translating threat intelligence and MITRE ATT&CK techniques into actionable detection logic.
+    * Managing the full lifecycle: creation, rigorous testing, continuous tuning to reduce false positives, and eventual decommissioning of obsolete rules.
+  * **Detection-as-Code (DaC):**
+    * Adopting software engineering practices for detection rules, including version control (e.g., Git).
+    * Implementing CI/CD pipelines for automated testing, peer review, and deployment of detection logic to SIEM/EDR platforms.
+  * **Data Quality, Normalization & Telemetry:**
+    * Identifying and addressing visibility gaps in log sources necessary for critical detections.
+    * Ensuring logs are properly parsed, enriched, mapped to common schemas (e.g., OCSF, ECS), and optimized for search performance.
+  * **Detection Validation & Continuous Assurance:**
+    * Verifying rule efficacy and resilience against evasion techniques through automated testing.
+    * Partnering with Offensive Security for Purple Teaming exercises and utilizing Breach & Attack Simulation (BAS) tools for continuous validation.
+  * **Use Case Management & Response Integration:**
+    * Maintaining a central repository of detection use cases detailing objectives, logic, required data sources, and MITRE mapping.
+    * Ensuring seamless integration with SOAR platforms and defining clear, actionable response playbooks for SOC analysts.
+
+### Cyber Threat Intelligence (CTI)
+* **Strategic, Operational, and Tactical CTI:**
+  * Strategic: Briefing executives on threat actor motivations and geopolitical risk relevant to the business sector.
+  * Operational: Campaign-level intelligence to inform detection rule updates and IR playbook tuning.
+  * Tactical: IOC/TTP feeds integrated directly into SIEM, EDR, and firewall tooling.
+* **Intelligence Sources & Sharing:**
+  * ISAC membership aligned to industry vertical (FS-ISAC, H-ISAC, E-ISAC, etc.).
+  * Government feeds: CISA AIS, FBI InfraGard, NSA/CISA joint advisories.
+  * Commercial threat intelligence platforms (TIPs) and dark web monitoring.
+* **MITRE ATT&CK Alignment:**
+  * Mapping threat actor TTPs to detection coverage gaps.
+  * Using ATT&CK Navigator to prioritize detection engineering investments.
+* **Intel-Driven Operations:**
+  * Feeding CTI outputs directly into threat hunting, red team scenarios, and tabletop exercises.
 
 ### SOC Operations
-* SOC Resource Mgmt
-* SOC procedures, Shift management, and Metrics
-* SOC and NOC Integration
-* Partnerships with ISACs
-* Long term trend analysis
-* Automation and SOAR (Playbooks)
+* **SOC Resource Management & Talent Retention:**
+  * **Capacity Planning:** Aligning headcount and skillset distribution with business risk, log volume, and operational hours (e.g., 24x7x365 vs. follow-the-sun).
+  * **Burnout Prevention & Upskilling:** Establishing clear career paths, rotation programs (e.g., into Threat Hunting or Detection Engineering), and continuous training requirements.
+* **Procedures, Shift Management & Metrics:**
+  * **Standard Operating Procedures (SOPs):** Maintaining up-to-date documentation for Tier 1/2/3 triage, escalation matrices, and standardized shift handovers.
+  * **Shift Structures:** Implementing resilient scheduling with overlapping handover periods to ensure operational continuity and context transfer.
+  * **Performance Metrics (KPIs/OKRs):** Tracking Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), false positive rates, and analyst utilization to continuously measure and improve SOC efficacy.
+* **Cross-Functional Integration (SOC & NOC):**
+  * **Unified Visibility:** Sharing telemetry and dashboards between Security Operations and Network/IT Operations to quickly differentiate between cyber attacks and systemic outages.
+  * **Coordinated Incident Response:** Establishing joint communication bridges and workflows for managing critical infrastructure incidents.
+* **External Intelligence & ISAC Partnerships:**
+  * **Active Participation:** Engaging with industry-specific Information Sharing and Analysis Centers (ISACs) for early warning on sector-wide campaigns.
+  * **Operationalizing Shared Intel:** Ingesting tactical intelligence from partners directly into the SOC's detection platforms for automated matching.
+* **Long-Term Trend Analysis & Reporting:**
+  * **Strategic Reporting:** Analyzing historical alert data and incident trends to identify systemic vulnerabilities and justify security capability investments to the board.
+  * **Adversary Campaign Tracking:** Moving beyond individual alerts to identify long-term, "low and slow" campaigns targeting the organization.
+* **Automation, SOAR & Playbooks:**
+  * **Alert Triage Automation:** Using Security Orchestration, Automation, and Response (SOAR) platforms to automatically enrich alerts (e.g., IP reputation, user context) prior to human review.
+  * **Response Playbooks:** Developing and maintaining codified playbooks for common scenarios (e.g., Phishing, Ransomware, Insider Threat) to ensure consistent, repeatable actions.
+  * **Automated Containment:** Implementing automated or "one-click" containment actions (e.g., isolating an endpoint, disabling a user account) for high-confidence threats.
+* **Case Management & Workflow Integration:**
+  * **Evidence Tracking (Chain of Custody):** Ensuring all artifacts, logs, and analyst notes are securely and immutably documented within a centralized ticketing system.
+  * **Escalation Pathways:** Defining clear triggers and SLAs for escalating complex incidents from initial triage to specialized Incident Response (IR) or forensic teams.
+  * **Shift Handoff Consistency:** Utilizing standardized templates within the case management platform to ensure critical incident context is never lost during analyst transitions.
 
 ### Incident Management (NIST CSF Respond & Recover)
 * Create adequate Incident Response capability
@@ -309,21 +385,6 @@ mindmap
 * Understand Algorithm Biases
 * MITRE ATT&CK
 * Soft skills & Conflict Management
-
-## Core Defense Infrastructure
-
-### Network and Perimeter Security
-* Network/Application Firewalls
-* Network IPS and IDS
-* DDoS Protection
-* DNS security/filtering
-* Proxy/Content Filtering
-
-### Endpoint and Data Security
-* Anti-Malware & EDR
-* Desktop & Mobile security
-* Data Loss Prevention (DLP)
-* Encryption, SSL, PKI, Digital Certificates
 
 ## Email, Messaging & Collaboration Security
 
@@ -355,64 +416,119 @@ mindmap
   * Mandatory DMARC Enforcement (Reject Policy) as a baseline for cyber insurance and deliverability.
   * Automated cleanup: Post-delivery remediation to "claw back" malicious emails after they reach the inbox.
 
+## Core Defense Infrastructure
+
+### Network and Perimeter Security
+* **Perimeter Controls:**
+  * Next-Generation Firewalls (NGFW) with deep packet inspection and application awareness.
+  * Network IPS/IDS and anomaly-based detection.
+  * DDoS Protection (volumetric and application-layer, including scrubbing services).
+* **DNS & Web Filtering:**
+  * DNS security (DNSSEC, DNS-over-HTTPS enforcement, sinkholing).
+  * Proxy and content filtering for egress control and malware C2 blocking.
+* **Network Visibility:**
+  * Full-packet capture and NetFlow/IPFIX analysis for east-west traffic.
+  * Network Detection & Response (NDR) for lateral movement and anomaly detection.
+
+### Endpoint and Data Security
+* **Endpoint Protection:**
+  * Anti-Malware & Endpoint Detection and Response (EDR/XDR) with behavioral analytics.
+  * OS hardening baselines for desktops, servers, and mobile devices.
+  * Mobile Device Management (MDM) and BYOD policy enforcement.
+* **Data Protection:**
+  * Data Loss Prevention (DLP) — endpoint, network, and cloud channels.
+  * Encryption at rest and in transit; SSL/TLS inspection at the perimeter.
+  * PKI, Digital Certificates, and Certificate Lifecycle Management (CLM).
+* **Removable Media & Physical Controls:**
+  * USB device control and media whitelisting policies.
+  * Deception technologies: honeytokens and honeypots for early lateral movement detection.
+
 ### Hygiene and Vulnerability Management
-* Vulnerability Management Scope (OS, Apps, DBs, IoT, OT)
-* Risk-Based Prioritization (EPSS)
-* Patch Management (SLA-driven)
-* Hardening guidelines
-* Asset Management & Asset Inventory
-* Security Health Checks
+* **Vulnerability Management Program:**
+  * Scope: OS, Applications, Databases, IoT, OT, and Cloud workloads.
+  * Risk-Based Prioritization using EPSS (Exploit Prediction Scoring System) and CISA KEV (Known Exploited Vulnerabilities catalog).
+  * SLA-driven Patch Management with formal exception handling and compensating controls.
+* **Configuration & Hardening:**
+  * CIS Benchmarks and vendor-specific hardening guidelines.
+  * Configuration drift detection and automated remediation.
+* **Asset Management:**
+  * Continuous asset discovery and CMDB accuracy validation.
+  * Security Health Checks and posture scoring.
+
+### Exposure Management & Attack Surface Management (ASM)
+* **Continuous Threat Exposure Management (CTEM):**
+  * Moving from point-in-time assessments to continuous exposure discovery across internal, external, and cloud attack surfaces.
+  * Gartner CTEM cycle: Scoping → Discovery → Prioritization → Validation → Mobilization.
+* **External Attack Surface Management (EASM):**
+  * Discovering internet-facing assets (shadow IT, forgotten subdomains, exposed APIs, cloud misconfigurations) from an attacker's perspective.
+  * Automated monitoring for new exposures and certificate expirations.
+* **Breach & Attack Simulation (BAS):**
+  * Continuous, automated validation of control effectiveness against real-world attack scenarios.
+  * Mapping results to MITRE ATT&CK for prioritized remediation investment.
 
 ## Era 4: Agentic AI & GenAI
 
 ### AI Governance and Policy
-* AI Governance, Policies, Transparency
-* Safe and ethical uses of GenAI
-* Protecting Intellectual Property
-* NIST AI Risk Mgmt Framework
-* EU AI Act Compliance
+* AI Governance, Policies, Transparency — define approved use cases, owners, and review gates.
+* Safe and ethical uses of GenAI — set boundaries for human review, bias, safety, and acceptable outputs.
+* Protecting Intellectual Property — prevent source code, models, prompts, and sensitive content leakage.
+* NIST AI Risk Mgmt Framework — structure AI risk around governance, mapping, measurement, and management.
+* EU AI Act Compliance — classify systems by risk tier and retain required technical documentation.
+* Model inventory — maintain a register of models, providers, business owners, and data dependencies.
+* AI usage tiers — separate approved enterprise AI, restricted AI, and prohibited AI patterns.
 
 ### Agentic AI and Autonomous Systems
-* Governing Autonomous Agents
-* Agent Hijacking & Prompt Injection defense
-* Shadow AI Data Exfiltration detection
-* AI Red Teaming
+* Governing Autonomous Agents — define what agents may read, change, approve, or execute.
+* Agent Hijacking & Prompt Injection defense — constrain tools, memory, context, and untrusted inputs.
+* Shadow AI Data Exfiltration detection — identify unsanctioned bots, plugins, and browser-based AI use.
+* AI Red Teaming — test for jailbreaks, privilege abuse, data leakage, and unsafe autonomy.
+* Human-in-the-loop checkpoints — require approval for payments, production changes, and regulated decisions.
+* Tool permission boundaries — scope agent credentials, network reach, and action limits.
 
 ### AI Security Operations
-* Securing AI/GenAI models
-* Securing training and test data (Model Poisoning)
-* Adversarial attacks
-* AI-enabled security tools
-* Train InfoSec teams on AI technologies
-* OWASP Top 10 LLM and GenAI risk
+* Securing AI/GenAI models — protect model artifacts, endpoints, prompts, and inference pipelines.
+* Securing training and test data (Model Poisoning) — validate provenance, integrity, and labeling workflows.
+* Adversarial attacks — detect prompt injection, evasion, extraction, and model inversion patterns.
+* AI-enabled security tools — apply AI carefully for triage, summarization, hunting, and automation.
+* Train InfoSec teams on AI technologies — build operational literacy, not just policy awareness.
+* OWASP Top 10 LLM and GenAI risk — baseline control framework for common LLM failure modes.
+* RAG security — control document access, retrieval poisoning, and citation integrity in LLM workflows.
+* Model supply chain — assess hosted providers, open weights, plugins, and embedded AI dependencies.
 
 ## Product and Application Security
 
 ### Secure Development Lifecycle (SDLC)
-* Integration to SDLC and Project Delivery
-* Embedding security in Project Requirements
-* Threat modeling and Design reviews
-* Secure Code Training and Review
-* Application Vulnerability Testing (SAST/DAST)
-* Change Control & File Integrity Monitoring (FIM)
+* Integration to SDLC and Project Delivery — put security checks inside normal planning and release workflows.
+* Embedding security in Project Requirements — define security acceptance criteria up front.
+* Threat modeling and Design reviews — identify abuse cases and control gaps before implementation.
+* Secure Code Training and Review — improve developer judgment and code review quality.
+* Application Vulnerability Testing (SAST/DAST) — automate code and runtime testing for common flaws.
+* Change Control & File Integrity Monitoring (FIM) — detect unauthorized changes to critical code and systems.
+* Secrets detection — block committed keys, tokens, and certificates early in the pipeline.
+* Application Security Posture Management (ASPM) — correlate findings to prioritize what is actually exploitable.
 
 ### Software Supply Chain Security
-* Inventory open source components (SCA)
-* Source code supply chain security (SBOM)
-* Public software repositories
+* Inventory open source components (SCA) — know what third-party code is present and where.
+* Source code supply chain security (SBOM) — maintain a machine-readable inventory of software ingredients.
+* Public software repositories — control dependency trust, provenance, and package publishing exposure.
+* Build pipeline integrity — protect CI/CD runners, signing keys, and release workflows.
+* Provenance and signing — verify that artifacts came from the expected source and build process.
 
 ### Web and Cloud-Native Security
-* Web Application Firewall (WAF)
-* API Security
-* Containers and Kubernetes security
-* Serverless computing security
-* Service mesh & microservices
+* Web Application Firewall (WAF) — filter known web attack patterns and provide virtual patching.
+* API Security — govern authentication, authorization, schema drift, and abuse detection.
+* Containers and Kubernetes security — harden images, clusters, admission control, and runtime behavior.
+* Serverless computing security — secure event triggers, secrets, permissions, and observability.
+* Service mesh & microservices — manage service identity, encryption, and east-west policy enforcement.
+* SaaS application security — extend visibility and control into business-critical cloud applications.
 
 ## Security Architecture & Engineering
 
 ### Cloud and Hybrid Architecture
 * Multi-Cloud architecture strategy
 * Cloud Security Posture Management (CSPM)
+* Cloud Infrastructure Entitlement Management (CIEM)
+* Cloud Workload Protection Platform (CWPP) / CNAPP
 * Infrastructure as Code (IaC) Security
 * Virtualized security appliances
 
@@ -422,6 +538,19 @@ mindmap
 * Zero Trust models and roadmap
 * SASE/SSE strategy and vendors
 * Overlay networks & secure enclaves
+
+### Post-Quantum Cryptography (PQC)
+* **NIST PQC Standards (2024):**
+  * ML-KEM (FIPS 203, formerly CRYSTALS-Kyber): Key encapsulation for key exchange.
+  * ML-DSA (FIPS 204, formerly CRYSTALS-Dilithium): Digital signatures.
+  * SLH-DSA (FIPS 205, formerly SPHINCS+): Stateless hash-based signatures.
+* **Cryptographic Inventory & Agility:**
+  * Building a **Cryptographic Bill of Materials (CBOM)**: Inventorying all algorithms, key sizes, and protocols in use.
+  * Designing systems for **Crypto-Agility**: The ability to swap algorithms without full re-architecture.
+* **Migration Planning:**
+  * Prioritizing "Harvest Now, Decrypt Later" threat surface: Long-lived secrets, regulated data, and high-value IP.
+  * Targeting TLS, VPN, PKI, and code-signing infrastructure for first-wave migration.
+  * Coordinating with vendors on PQC-readiness timelines and hybrid (classical + PQC) transition schemes.
 
 ### Workplace & Infrastructure Resilience
 * Zero trust access to applications
@@ -452,21 +581,25 @@ mindmap
 ## Team Management & Leadership
 
 ### Organizational Design and Roles
-* Federated Model (BISO - Business Information Security Officer)
-* Virtual CISO (vCISO) model for SMBs
-* Alignment with IT, Engineering, and Business units
+* Federated Model (BISO - Business Information Security Officer) — embed security partners into business and product units.
+* Virtual CISO (vCISO) model for SMBs — part-time executive security leadership where full-time scale is not justified.
+* Alignment with IT, Engineering, and Business units — define operating interfaces, decision rights, and escalation paths.
+* Operating model clarity — separate governance, engineering, operations, and assurance responsibilities.
+* Succession planning — reduce single points of failure in leadership and key technical roles.
 
 ### Financial Management
-* Manage Infosec Budget (CapEx and OpEx)
-* Business Case Development
-* Consulting and outsourcing
-* Retire redundant & under-utilized tools
+* Manage Infosec Budget (CapEx and OpEx) — balance program investment across people, process, and technology.
+* Business Case Development — connect spend to loss reduction, resilience, or revenue enablement.
+* Consulting and outsourcing — use external capacity where specialization or speed matters.
+* Retire redundant & under-utilized tools — reduce complexity, overlap, and alert fatigue.
+* Vendor rationalization — consolidate where it improves coverage, integration, and operating cost.
 
 ### Staffing and Talent Management
-* Recruiting, performance, and retention
-* Addressing the Human Cost: Burnout Prevention & Mental Health
-* Balance FTE and contractors
-* Staff training and skills update
+* Recruiting, performance, and retention — hire for current gaps and retain critical institutional knowledge.
+* Addressing the Human Cost: Burnout Prevention & Mental Health — manage on-call load, staffing depth, and recovery time.
+* Balance FTE and contractors — keep core risk ownership internal while flexing specialist capacity.
+* Staff training and skills update — maintain technical depth across cloud, identity, DFIR, AppSec, and AI.
+* Career paths — define growth tracks for analysts, engineers, architects, and leaders.
 
 ## Human Risk Management & Security Culture
 
@@ -485,6 +618,9 @@ mindmap
 * **AI Agent Interaction Risk:**
   * Governing how humans grant permissions to semi-autonomous AI agents.
   * Preventing "Prompt Injection" and data leakage via human-AI interaction.
+* **Insider Risk Coordination:**
+  * Distinguishing malicious, negligent, and compromised-user behavior for proportionate response.
+  * Coordinating HR, Legal, Privacy, and Security around high-risk workforce events.
 
 ### Building a Resilient Culture
 * **Security Champion Programs:**

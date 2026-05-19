@@ -10,3 +10,4 @@ Also see (mcp-security)[../mcp/security.md] and [non-human-identities](./nhi.md)
 
 # Tools
 - https://github.com/raxe-ai/raxe-ce
+- https://github.com/gabrielsoltz/clauditor

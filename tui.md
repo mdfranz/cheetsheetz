@@ -18,3 +18,7 @@
 - https://github.com/pterm/pterm
 - https://github.com/gizak/termui
 - https://github.com/rivo/tview
+
+### Gaming Related
+- https://codeberg.org/anaseto/gruid
+- https://github.com/gdamore/tcell

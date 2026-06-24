@@ -1,3 +1,14 @@
+# TUI
+- [elastop](https://github.com/acidvegas/elastop) - htop for Elastic, still maintained, works
+
+```
+./elastop -host $ELASTIC_URL -port 443 -apikey $ELASTIC_KEY
+```
+
+- https://github.com/serdarkkts/qelk
+
+
+
 # Secure Configuration
 - [Start the Elastic Stack with security enabled automaticallyStart the Elastic Stack with security enabled automatically](https://www.elastic.co/guide/en/elasticsearch/reference/current/configuring-stack-security.html)
 
@@ -15,7 +26,4 @@ These should all be recent:
 # Data Ingestion
 - [Designing a Data Ingestion Pipeline](https://www.elastic.co/guide/en/cloud/current/ec-cloud-ingest-data.html#ec-data-ingest-pipeline)
 
-# Searching and getting data
-## Aggregations
-- [Aggregations - The Elasticsearch GROUP BY](https//john.soban.ski/aggregations-the-elasticsearch-group-by.html) - June 2020
 

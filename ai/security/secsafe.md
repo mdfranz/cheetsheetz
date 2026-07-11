@@ -26,6 +26,8 @@ Also see *Threats and Vulnerabilities* in [MCP](@ai/mcp/security.md)
 # Frameworks
 - [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework)
 - [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
+- [Coding Attack Matrix](https://guardbase.ai/attack-matrix/)
+- [AI Defense Matrix](https://aidefensematrix.com/)
 
 # Vendor Best Practices 
 ## CSP

@@ -21,11 +21,10 @@ See https://help.ubuntu.com/community/KVM/Installation
 
 # Sync VMs
 
-For the last two LTS versions
+For the last LTS versions
 
 ```
-uvt-simplestreams-libvirt --verbose sync release=jammy arch=amd64
-uvt-simplestreams-libvirt --verbose sync release=noble arch=amd64
+uvt-simplestreams-libvirt --verbose sync release=resolute arch=amd64
 
 ```
 

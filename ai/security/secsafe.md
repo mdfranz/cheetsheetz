@@ -1,57 +1,59 @@
 This is mainly about the security and safety of AI vs. [security applications of AI](@ai/security/secapp.md)
 
 # Conferences and Workshops
-- [AI Security Summit](https://aisecuritysummit.org/) - OASIS & Cisco - Nov '23
-- [2024: Sans AI Summit](https://www.sans.org/blog/a-visual-summary-of-sans-ai-summit-2024/)
+- [AI Security Summit](https://aisecuritysummit.org/) - OASIS & Cisco conference held in Nov 2023.
+- [Sans AI Summit 2024](https://www.sans.org/blog/a-visual-summary-of-sans-ai-summit-2024/) - Visual summary of the 2024 SANS AI Summit.
 
 ## Talks
-- [Jacob Berry - No Laughing Matter: The OWASP Top 10 for LLMs in Code Examples](https://www.youtube.com/watch?v=-q2bLwC2wCI) - LASCON, Dec '24
-- [Steven Rodriguez - LLM Threat Modeling for Generative AI + OWASP Top 10 LLMs](https://www.youtube.com/watch?v=vjyMp1ykOWw)
-- [Attacking and Defending Gen AI: Current Threats and Vulnerabilities in LLM's](https://www.youtube.com/watch?v=ErlZvplAGCw) - Aug '24
-- [Secure by Design: Strategies for LLM Adoption in Cloud-Native Environm... Patryk Bąk & Marcin Wojtas](https://www.youtube.com/watch?v=cqj86lDkJ3k) - Jul '24
+- [Jacob Berry - OWASP Top 10 for LLMs](https://www.youtube.com/watch?v=-q2bLwC2wCI) - LASCON presentation on LLM security code examples.
+- [Steven Rodriguez - LLM Threat Modeling](https://www.youtube.com/watch?v=vjyMp1ykOWw) - Talk on threat modeling for Generative AI and OWASP Top 10.
+- [Attacking and Defending Gen AI](https://www.youtube.com/watch?v=ErlZvplAGCw) - Presentation on current threats and vulnerabilities in LLMs.
+- [Secure by Design: LLM Adoption in Cloud-Native](https://www.youtube.com/watch?v=cqj86lDkJ3k) - Strategies for cloud-native LLM adoption.
 
 # Links Pages
-- [Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks)
-- [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)
-- [Awesome LLM Red Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming)
+- [Awesome Attacks on Machine Learning Privacy](https://github.com/stratosphereips/awesome-ml-privacy-attacks) - Collection of resources on ML privacy attacks.
+- [OWASP Educational Links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/) - Educational resources for OWASP Top 10 LLM applications.
+- [Awesome LLM Red Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming) - Curated list of tools and papers for LLM red teaming.
 
 # Vulnerabilities
-- [AVID](https://avidml.org/database/) - an AI Vulnerability Taxonomy
-- [OWASP Top 10 for LLM Aps](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [Atlas](https://atlas.mitre.org/) - Adversarial Threat Landscape for Artificial-Intelligence Systems (think ATT&CK for AI)
-- [Failure Modes in Machine Learning](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning)
+- [AVID](https://avidml.org/database/) - Comprehensive AI vulnerability taxonomy and database.
+- [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Top security risks for LLM applications.
+- [Atlas](https://atlas.mitre.org/) - MITRE framework mapping adversarial tactics for AI systems.
+- [Failure Modes in Machine Learning](https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning) - Overview of AI and ML failure modes.
 
 Also see *Threats and Vulnerabilities* in [MCP](@ai/mcp/security.md)
 
 # Frameworks
-- [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework)
-- [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
-- [Coding Attack Matrix](https://guardbase.ai/attack-matrix/)
-- [AI Defense Matrix](https://aidefensematrix.com/)
+- [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework) - Framework for managing risks in AI technology.
+- [Google Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/) - Google conceptual framework for secure AI systems.
+- [Coding Attack Matrix](https://guardbase.ai/attack-matrix/) - Matrix mapping attacks against AI coding tools.
+- [AI Defense Matrix](https://aidefensematrix.com/) - Defense framework for securing AI applications.
 
 # Vendor Best Practices 
 ## CSP
-- [AWS: Securing GenAI](https://aws.amazon.com/ai/generative-ai/security/) and [GenAI Security Scoping Matrix](https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/)
-- [AWS: Securing Generative AI LLM Data, Applications, Workloads, Models](https://www.youtube.com/watch?v=dJPYIQb794Y) - Sep 2024
-- [Azure: Security recommendations for AI workloads on Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/platform/security)
+- [AWS Securing GenAI](https://aws.amazon.com/ai/generative-ai/security/) - AWS guide for securing generative AI workloads.
+- [AWS GenAI Security Scoping Matrix](https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/) - Scoping matrix for generative AI security controls.
+- [AWS Securing Generative AI LLM Workloads](https://www.youtube.com/watch?v=dJPYIQb794Y) - Video session on securing LLM data and workloads.
+- [Azure Security Recommendations for AI Workloads](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/platform/security) - Azure guidelines for securing AI platforms.
 
 # Bug Bounties and CTF
-- [HackAPrompt: Trick Large Language Models](https://www.aicrowd.com/challenges/hackaprompt-2023) - HackAPrompt is a prompt hacking competition aimed at enhancing AI safety and education by challenging participants to outsmart large language models (e.g. ChatGPT, GPT-3). In particlar, participants will attempt to hack through many prompt hacking defenses as possible
+- [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023) - Prompt hacking competition to enhance AI safety awareness.
 
 # Blogs
-- [Mitigating Stored Prompt Injection Attacks Against LLM Applications](https://developer.nvidia.com/blog/mitigating-stored-prompt-injection-attacks-against-llm-applications/) - Aug 2023
-- [A framework to securely use LLMs in companies - Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely) - jul 2023
-- [Guardrails for LLMOps](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4) - Jun '23
-- [We need a new way to measure AI security](https://blog.trailofbits.com/2023/03/14/ai-security-safety-audit-assurance-heidy-khlaaf-odd/) - Mar '23
-- [PrivacyRaven: Implementing a proof of concept for model inversion](https://blog.trailofbits.com/2021/11/09/privacyraven-implementing-a-proof-of-concept-for-model-inversion/) - Nov '21
-- [PrivacyRaven Has Left the Nest](https://blog.trailofbits.com/2020/10/08/privacyraven-has-left-the-nest/) - Oct '20
+- [Mitigating Stored Prompt Injection Attacks](https://developer.nvidia.com/blog/mitigating-stored-prompt-injection-attacks-against-llm-applications/) - NVIDIA blog post on defending against stored prompt injection.
+- [A Framework to Securely Use LLMs](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely) - Overview of organizational LLM security risks.
+- [Guardrails for LLMOps](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4) - Threat vectors and guardrails for LLM operations.
+- [We Need a New Way to Measure AI Security](https://blog.trailofbits.com/2023/03/14/ai-security-safety-audit-assurance-heidy-khlaaf-odd/) - Trail of Bits article on AI safety measurement.
+- [PrivacyRaven: Model Inversion Proof of Concept](https://blog.trailofbits.com/2021/11/09/privacyraven-implementing-a-proof-of-concept-for-model-inversion/) - Walkthrough of model inversion attack POC.
+- [PrivacyRaven Announcement](https://blog.trailofbits.com/2020/10/08/privacyraven-has-left-the-nest/) - Introduction to PrivacyRaven ML privacy testing tool.
+
 # Tools
-- [rebuff](https://github.com/woop/rebuff) - Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense.
+- [rebuff](https://github.com/woop/rebuff) - Multi-layered defense framework protecting AI apps from prompt injection.
 
 # Products & Companies
-- [PredictionGuard](https://www.predictionguard.com)
+- [PredictionGuard](https://www.predictionguard.com) - Guardrails and security platform for LLM applications.
 
 
 # Random Tools (unsure of quality)
-- [LLM-Red-Teaming-tool](https://github.com/Moshahid315/LLM-Red-Teaming-tool)
-- [llm-safety-testing-tool-v2](https://github.com/techs-targe/llm-safety-testing-tool-v2)
+- [LLM-Red-Teaming-tool](https://github.com/Moshahid315/LLM-Red-Teaming-tool) - Automated tool for red teaming large language models.
+- [llm-safety-testing-tool-v2](https://github.com/techs-targe/llm-safety-testing-tool-v2) - Security testing toolkit for evaluating LLM safety.

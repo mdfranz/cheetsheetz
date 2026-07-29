@@ -1,2 +1,2 @@
-- https://github.com/containers/bubblewrap 
-- https://github.com/deeplethe/forkd 
+- [bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandbox implementation using Linux namespaces.
+- [forkd](https://github.com/deeplethe/forkd) - Lightweight process isolation daemon for Go applications.

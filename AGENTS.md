@@ -14,6 +14,10 @@ DO NOT PUSH.
 
 - Review changed files for correctness of Markdown links
 - Validate URLs
-- Confirm each 
+- Confirm each link entry 
 
+## Link Validation 
 
+The format of lists should be 
+
+- [name](URL) - short summary of less than 15 works

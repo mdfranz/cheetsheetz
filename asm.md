@@ -1,3 +1,3 @@
 # Open Source
-- [amass](https://github.com/owasp-amass/amass)
-- [bbot](https://github.com/blacklanternsecurity/bbot)
+- [amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and network discovery tool.
+- [bbot](https://github.com/blacklanternsecurity/bbot) - OSINT and attack surface execution framework.

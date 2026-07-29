@@ -6,11 +6,14 @@ Your job is to perform surface level document maintenance and formatting and min
 
 You should not perform web research on the topic
 
-Be conservative in what files you commit 
+Be conservative in what files you commit.
+
+DO NOT PUSH. 
 
 # Before Commiting
 
 - Review changed files for correctness of Markdown links
 - Validate URLs
 - Confirm each 
+
 

@@ -2,6 +2,10 @@
 - https://github.com/webcoyote/awesome-AI-sandbox
 - https://github.com/bureado/awesome-agent-runtime-security
 
+# Vendor 
+- https://github.com/nvidia/openshell
+
+
 # Easy Drop In Wrappers for Agents
 - [cplt](https://ki-utvikling.nav.no/cplt)
 - [nono](https://github.com/nolabs-ai/nono)
@@ -24,4 +28,4 @@
 
 # Requires KVM
 - [gondolin](https://github.com/earendil-works/gondolin)
-- [matchlock](https://github.com/jingkaihe/matchlock)
+- [matchlock](https://github.com/jingkaihe/matchlock) - tested on as low as Intel `E5300`  and `ARM Cortex-A76` (Pi 5B) and is a wrapper around [firecracker](https://github.com/firecracker-microvm/firecracker)
